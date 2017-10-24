@@ -16,4 +16,3 @@ define("LAN_PLUGIN_RSS_SUBSCRIBE", "Přihlas se");
 define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "Přihlásit se k [x]");
 
 
-?>

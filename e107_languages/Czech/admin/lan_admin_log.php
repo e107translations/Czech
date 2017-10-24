@@ -73,7 +73,7 @@ define("RL_LAN_092", "Časové období");
 define("RL_LAN_093", "(min)");
 define("RL_LAN_094", "Podrobné Casová analýza");
 define("RL_LAN_096", "Diff (s)");
-define("RL_LAN_098", "Zdroj");
+// define("RL_LAN_098", "Zdroj");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
 define("RL_LAN_103", "Betrefft");
@@ -99,4 +99,8 @@ define("RL_LAN_125", "Údržba systému protokoly");
 define("RL_LAN_126", "Položek celkem [x] odpovídající vyhledávací podmínka");
 
 
-?>
+define("RL_LAN_087", "Podrobnosti");
+define("RL_LAN_132", "Informativní");
+define("RL_LAN_133", "Upozornění");
+define("RL_LAN_134", "Varování");
+define("RL_LAN_135", "Fatální");

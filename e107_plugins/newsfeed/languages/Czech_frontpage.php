@@ -13,4 +13,3 @@ define("NWSF_FP_1", "Zásobování novinkami");
 define("NWSF_FP_2", "hlavní stránka");
 
 
-?>

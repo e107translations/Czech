@@ -100,4 +100,3 @@ define("LIST_ADMIN_LAN_40", "Měly by sekce, které zobrazují záznamy, být au
 define("LAN_AL_LISTNEW_01", "Nové předvolby seznam aktualizován");
 
 
-?>

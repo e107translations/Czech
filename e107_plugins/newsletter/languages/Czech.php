@@ -21,8 +21,8 @@ define("NLLAN_67", "Archiv – přehled");
 define("NLLAN_68", "Neplatný parametr definován");
 define("NLLAN_69", "K dispozici odeslané bulletiny.");
 define("NLLAN_70", "Vybrané informační bulletin neexistuje");
-define("NLLAN_71", "Zpět");
+// define("NLLAN_71", "Zpět");
 define("NLLAN_72", "Zobrazit archiv");
 
 
-?>
+define("NLLAN_73", "Zadejte svůj E-mail");

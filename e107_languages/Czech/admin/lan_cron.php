@@ -43,7 +43,7 @@ define("LAN_CRON_20_3", "Doporučuje, aby byl systém aktuální.");
 define("LAN_CRON_20_4", "Aktualizovat Tento repozitář");
 define("LAN_CRON_20_5", "Aktualizujte tuto e107 instalaci nejnovější soubory od github.");
 define("LAN_CRON_20_6", "Doporučeno pouze pro vývojáře.");
-define("LAN_CRON_20_7", "Varování!");
+// define("LAN_CRON_20_7", "Varování!");
 define("LAN_CRON_20_8", "Může způsobit nestabilitu serveru!");
 define("LAN_CRON_30", "Každou minutu");
 define("LAN_CRON_31", "Každou minutu");
@@ -67,4 +67,12 @@ define("LAN_CRON_BACKUP", "Zálohování");
 define("LAN_CRON_LOGGING", "Protokolování");
 
 
-?>
+define("LAN_CRON_60", "Jít do cPanel");
+define("LAN_CRON_61", "Generovat nové heslo cron");
+define("LAN_CRON_62", "Provádění funkce config [b] [x] [/ b]");
+define("LAN_CRON_63", "Konfigurace funkce [b] [x] [/ b] nebyl nalezen.");
+define("LAN_CRON_64", "Správce může automatizovat úlohy pomocí e107 plánování úkolů. [br]
+Na kartě Správa můžete upravit, odstranit a spouštět úlohy. [br]
+Pokud upravujete úlohu, kterou lze nastavit minuty, hodiny, dny, měsíce nebo dne v týdnu chcete ke spuštění úlohy. Použití * ke spuštění pro každé období. Používejte aktivní vlastnost Enabled úkol. [br]
+Poznámka: Doporučujeme není odstranit standardní úlohy. [br]");
+define("LAN_CRON_RUNNING", "Běh");

@@ -48,4 +48,9 @@ define("CUSLAN_77", "Smazáno");
 define("CUSLAN_78", "Nelze odstranit nabídku s cestou");
 
 
-?>
+define("CUSLAN_1", "Přehled");
+define("CUSLAN_2", "Název stránky");
+define("CUSLAN_3", "Položek na stránku");
+define("CUSLAN_4", "Vlastní pole");
+define("CUSLAN_5", "(Nová kniha)");
+define("CUSLAN_79", "Musíte zadat nadpis stránky nebo název nabídky.");

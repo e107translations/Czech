@@ -22,4 +22,4 @@ define("FRTLAN_56", "duplicitní definice pro třídu:");
 define("FRTLAN_57", "Softwarová chyba");
 
 
-?>
+define("FRTLAN_61", "Výběr");

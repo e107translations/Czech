@@ -49,3 +49,4 @@ define("LAN_LOGINMENU_48", "Menu konfigurace");
 define("LAN_LOGINMENU_49", "E-mail:");
 define("LAN_LOGINMENU_50", "Uživatelské jméno nebo e-mailem:");
 define("LAN_LOGINMENU_51", "Přihlásit se");
+

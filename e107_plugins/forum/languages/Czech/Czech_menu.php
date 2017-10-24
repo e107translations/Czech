@@ -18,9 +18,12 @@ define("LAN_FORUM_MENU_006", "Kolik zobrazit znaků?");
 define("LAN_FORUM_MENU_007", "Přípona pro příliš dlouhé příspěvky?");
 define("LAN_FORUM_MENU_008", "Zobrazit původní témata v menu?");
 define("LAN_FORUM_MENU_009", "Uložit nastavení");
-define("LAN_FORUM_MENU_0010", "Nastavení menu nových příspěvků");
-define("LAN_FORUM_MENU_0012", "Maximální doba zobrazení příspěvků");
-define("LAN_FORUM_MENU_0013", "Zadejte nulu na menších stránkách; nastavení hodnoty redukuje čas zpracování na vytížených stránkách");
+// define("LAN_FORUM_MENU_0010", "Nastavení menu nových příspěvků");
+// define("LAN_FORUM_MENU_0012", "Maximální doba zobrazení příspěvků");
+// define("LAN_FORUM_MENU_0013", "Zadejte nulu na menších stránkách; nastavení hodnoty redukuje čas zpracování na vytížených stránkách");
 
 
-?>
+define("LAN_FORUM_MENU_012", "Maximální věk zobrazených příspěvků");
+define("LAN_FORUM_MENU_013", "Použití zero na klidném místě; nastavení hodnoty ve dnech sníží čas databáze na serveru zaneprázdněn");
+define("LAN_FORUM_MENU_014", "Posouvání vrstev výška (v pixelech)");
+define("LAN_FORUM_MENU_015", "Ponechte prázdné pro žádné posouvání");

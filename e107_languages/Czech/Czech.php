@@ -105,9 +105,29 @@ define("LAN_USER", "uživatel");
 define("LAN_EMAIL", "E-mail");
 define("LAN_WROTE", "napsal");
 define("LAN_RE_ORDER", "Znovu uspořádat");
-define("LAN_RELATED", "");
 define("LAN_ENTER_USRNAME_EMAIL", "Zadejte prosím své uživatelské jméno nebo e-mailem");
 define("LAN_PWD_REQUIRED", "Heslo je vyžadováno");
 
 
-?>
+define("LAN_NO_PERMISSIONS", "Nemáte oprávnění k zobrazení této stránky.");
+define("LAN_LESS", ".. Méně");
+define("LAN_ACTIVE", "Aktivní");
+define("LAN_CLICK_TO_VIEW", "Klikněte pro zobrazení");
+define("LAN_POSTED_BY", "Přidal");
+define("LAN_IP_ADDRESS", "IP adresa");
+define("LAN_INCORRECT_PASSWORD", "Nesprávné heslo");
+define("LAN_YOUTUBE_VIDEO", "YouTube Video");
+define("LAN_YOUTUBE_PLAYLIST", "YouTube playlisty");
+define("LAN_WEBSITE", "Webové stránky");
+define("LAN_MESSAGE", "Zpráva");
+define("LAN_CLOSE", "Zavřít");
+define("LAN_EXPAND", "Rozbalit");
+define("LAN_SHOW", "Zobrazit");
+define("LAN_GENERATE", "Generovat");
+define("LAN_SUMMARY", "Shrnutí");
+define("LAN_REQUIRED_BLANK", "Vyžadovaná pole jsou prázdné.");
+define("LAN_PLEASEWAIT", "Počkejte prosím");
+define("LAN_CHOOSE_FILE", "Zvolte soubor");
+
+
+define("LAN_RELATED", "Související");

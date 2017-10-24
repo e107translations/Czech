@@ -25,4 +25,3 @@ define("UC_LAN_INVERT", "Ne – třída –");
 define("UC_LAN_INVERTLABEL", "Všichni ale...");
 
 
-?>

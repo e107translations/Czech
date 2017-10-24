@@ -21,4 +21,3 @@ define("LAN_AL_PM_ADM_09", "PM: Chyba při aktualizaci limitu dat");
 define("LAN_AL_PM_ADM_10", "PM: Při odstraňování omezení dat");
 
 
-?>

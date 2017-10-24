@@ -14,4 +14,3 @@ define("LAN_PLUGIN_BANNER_NAME", "Bannery");
 define("LAN_PLUGIN_BANNER_DESCRIPTION", "Přidat k webu e107 reklamních bannerů");
 
 
-?>

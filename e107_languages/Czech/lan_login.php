@@ -43,4 +43,7 @@ define("LAN_LOGIN_30", "Chyba při přidávání nového uživatele alt_auth dB"
 define("LAN_LOGIN_31", "Vaše pověření nelze přidat do systému");
 
 
-?>
+define("LAN_LOGIN_32", "Tato zpráva se zobrazuje, protože jste aktuálně přihlášeni jako hlavní správce.");
+define("LAN_LOGIN_33", "[Návrat na domovskou stránku]");
+define("LAN_LOGIN_34", "Registrace uživatelů a přihlášení je v současné době zakázán.");
+define("LAN_LOGIN_35", "[Enable]");

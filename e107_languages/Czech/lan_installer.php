@@ -57,13 +57,11 @@ define("LANINS_044", "Databáze byla úspěšně vytvořena.");
 define("LANINS_045", "Klikněte na další krok.");
 define("LANINS_046", "5");
 define("LANINS_047", "Detaily Administrátora");
-define("LANINS_048", "");
+define("LANINS_048", "EXIF extension");
 define("LANINS_049", "Zadaná hesla nejsou stejné. Prosím vraťte se a opakujte akci.");
 define("LANINS_050", "XML rozšíření");
 define("LANINS_051", "nainstalováno");
 define("LANINS_052", "nenainstalováno");
-define("LANINS_053", "e107 v2.x vyžaduje instalaci rozšíření PHP XML. Obraťte se na svého hostitele nebo si přečtěte informace na [x] před pokračováním");
-define("LANINS_054", "");
 define("LANINS_055", "Potvrzení instalace");
 define("LANINS_056", "6");
 define("LANINS_057", "e107 má nyní veškeré informace potřebné k dokončení instalace.
@@ -120,6 +118,11 @@ define("LANINS_126", "Z bezpečnostních důvodů byste měli nyní nastavit opr
 define("LANINS_127", "Databáze [x] již existuje. Chcete jej přepsat? (všechna existující data budou ztracena)");
 define("LANINS_128", "Přepsat");
 define("LANINS_129", "Databáze nebyla nalezena.");
-
-
-?>
+define("LANINS_134", "Instalace");
+define("LANINS_135", "z");
+define("LANINS_136", "Odstranit existující databáze");
+define("LANINS_137", "Nalezena existující databázi");
+define("LANINS_141", "Vyplňte prosím níže uvedený formulář s podrobnostmi o MySQL. Pokud tyto informace neznáte, obraťte se na svého poskytovatele hostingových služeb. Může vznášet nad každé pole pro další informace.");
+define("LANINS_142", "Důležité: Prosím přejmenovat e107.htaccess na .htaccess");
+define("LANINS_144", "Důležité: Prosím zkopírujte a vložte obsah [b]e107.htaccess[/b] do souboru .htaccess [/ b] [b]. Prosím dávejte pozor, abyste přepsat existující data, která mohou být v ní.");
+define("LANINS_145", "e107 v2.x vyžaduje PHP [x] k instalaci. Prosím obraťte se na svého hostitele, nebo si přečtěte informace na [y] před pokračováním.");

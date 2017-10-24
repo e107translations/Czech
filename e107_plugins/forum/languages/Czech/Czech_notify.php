@@ -23,4 +23,3 @@ define("LAN_FORUM_NT_POST_DELETED", "Příspěvek smazán");
 define("LAN_FORUM_NT_POST_REPORTED", "Hlášeny post");
 
 
-?>

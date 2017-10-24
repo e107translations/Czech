@@ -12,28 +12,28 @@
 
 define("BNRLAN_00", "Žádné nápisy, dosud nebyl vytvořen.");
 define("BNRLAN_01", "Banner ID nebylo nalezeno.");
-define("BNRLAN_7", "Statistiky");
-define("BNRLAN_8", "Nedostupné");
-define("BNRLAN_9", "Začíná");
-define("BNRLAN_10", "Končí");
+// define("BNRLAN_7", "Statistiky");
+// define("BNRLAN_8", "Nedostupné");
+// define("BNRLAN_9", "Začíná");
+// define("BNRLAN_10", "Končí");
 define("BNRLAN_11", "Kampaň");
 define("BNRLAN_12", "Přihlašovaní jméno klienta");
-define("BNRLAN_13", "Heslo klienta");
-define("BNRLAN_14", "Obrázek banneru");
+// define("BNRLAN_13", "Heslo klienta");
+// define("BNRLAN_14", "Obrázek banneru");
 define("BNRLAN_15", "URL kliku");
 define("BNRLAN_16", "Počet zobrazení zakoupené");
-define("BNRLAN_17", "Datum zveřejnění");
-define("BNRLAN_18", "Datum ukončení");
+// define("BNRLAN_17", "Datum zveřejnění");
+// define("BNRLAN_18", "Datum ukončení");
 define("BNRLAN_25", "Přidejte nové nebo zvolit existující kampaň");
 define("BNRLAN_28", "Přidejte nové nebo zvolit existující klient");
 define("BNRLAN_29", "přidat nového klienta");
-define("BNRLAN_30", "Nový klient");
+// define("BNRLAN_30", "Nový klient");
 define("BNRLAN_31", "Žádné omezení při prázdné.");
 define("BNRLAN_32", "Vybrat obrázek banneru");
 define("BNRLAN_33", "Kód");
 define("BNRLAN_35", "Reklamní menu");
-define("BNRLAN_36", "Nastavení Banner Menu");
-define("BNRLAN_37", "Záhlaví");
+// define("BNRLAN_36", "Nastavení Banner Menu");
+// define("BNRLAN_37", "Záhlaví");
 define("BNRLAN_38", "Reklama");
 define("BNRLAN_39", "Kampaně, které zobrazovat v menu");
 define("BNRLAN_40", "Zatím žádné kampaně.");
@@ -47,4 +47,7 @@ define("BNRLAN_47", "Všechny vybrané kampaně v samostatném menu");
 define("BNRLAN_48", "Všechny vybrané kampaně (žádné pole vykreslení)");
 
 
-?>
+define("BNRLAN_50", "Místní");
+define("BNRLAN_51", "Vzdálený");
+define("BNRLAN_HELP_01", "Nápověda k nápisu");
+define("BNRLAN_HELP_02", "Tento modul umožňuje spravovat reklamy na vašem webu.<br><br>Vytváříte-li nový banner můžete vytvořit uživatelské jméno a heslo pro váš klient přihlásit a zkontrolovat průběh kampaně.<br><br>Můžete povolit nápis menu pomocí menu správce a provést další konfiguraci odtamtud.");

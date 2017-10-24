@@ -60,4 +60,3 @@ define("REVIEW", "recenze");
 define("OTHER", "Další stránka:");
 
 
-?>

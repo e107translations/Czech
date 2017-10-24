@@ -12,7 +12,6 @@
 define("LAN_UPDATE_2", "Akce");
 define("LAN_UPDATE_3", "Není třeba");
 define("LAN_UPDATE_4", "Aktualizovat z [x] [y]");
-define("LAN_UPDATE_5", "");
 define("LAN_UPDATE_7", "Provedené [x]");
 define("LAN_UPDATE_12", "Jedna z tabulek obsahuje duplicity.");
 define("LAN_UPDATE_13", "Přidat další/chybějící základní nastavení");
@@ -48,4 +47,6 @@ define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin aktualizace");
 define("LAN_UPDATE_CAPTION_CORE", "Základní aktualizace");
 
 
-?>
+
+
+define("LAN_UPDATE_5", "Aktualizovat základní struktury databáze");

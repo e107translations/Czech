@@ -34,4 +34,6 @@ define("CACLAN_26", "Vyprázdnit Cache");
 define("CACLAN_27", "Prázdné prohlížeče Cache");
 
 
-?>
+define("CACLAN_28", "JS/CSS Cache");
+define("CACLAN_29", "Slučování a ukládat do mezipaměti soubory jazyka javascript a CSS soubory.");
+define("CACLAN_30", "Vyprázdnit mezipaměť JS/CSS");

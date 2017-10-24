@@ -17,4 +17,3 @@ define("LAN_AL_LINKWD_04", "Linkword možnosti aktualizace");
 define("LAN_AL_LINKWD_05", "Aktualizace verze Linkwords");
 
 
-?>

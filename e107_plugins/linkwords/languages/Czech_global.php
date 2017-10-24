@@ -14,4 +14,3 @@ define("LAN_PLUGIN_LINKWORDS_NAME", "Odkazy podle slov");
 define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Tento plugin bude odkaz zadaná slova s definovanou odkaz nebo popisu.");
 
 
-?>

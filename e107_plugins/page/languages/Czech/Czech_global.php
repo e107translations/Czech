@@ -13,4 +13,3 @@
 define("LAN_PLUGIN_PAGE_BOCHAP", "Hledat v knize/kapitoly");
 
 
-?>

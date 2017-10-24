@@ -124,4 +124,4 @@ define("BANLAN_124", "Vypršení platnosti");
 define("BANLAN_125", "Použít mé IP");
 
 
-?>
+define("BANLAN_126", "IP / Email");

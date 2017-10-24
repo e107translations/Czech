@@ -19,4 +19,3 @@ define("TRACKBACK_L13", "Moderovat zpětné odkazy");
 define("TRACKBACK_L16", "Trackback");
 
 
-?>

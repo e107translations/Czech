@@ -19,4 +19,3 @@ define("LANMAILH_6", "E-mailový server nenalezen.");
 define("LANMAILH_7", " se zdá být platná.");
 
 
-?>

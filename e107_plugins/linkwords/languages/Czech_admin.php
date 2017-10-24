@@ -42,14 +42,15 @@ define("LWLAN_64", "Potlačit odkaz na aktuální stránce");
 define("LWLAN_65", "Při kontrole, potlačuje klikací odkaz, pokud se odkazuje na aktuální stránku");
 define("LAN_LW_HELP_00", "Linkwords pomoc");
 define("LAN_LW_HELP_01", "
-  <b>Oblasti, které chcete povolit</b><br>v mnoha oblastech textu mají přidružené \'context\', a linkwords se zobrazí v oblastech odpovídající této souvislosti.<br><br>
-  <b>Zakázat Linkwords</b><br>Linkwords může být zakázáno na konkrétní stránky nebo stránky odpovídající vzorek. Zadejte zde (stejná syntaxe jako pro menu), jeden vzorek na řádek. 
+  [b]Oblasti, které chcete povolit[/b]<br>v mnoha oblastech textu mají přidružené \'context\', a linkwords se zobrazí v oblastech odpovídající této souvislosti.<br><br>
+  [b]Zakázat Linkwords[/b]<br>Linkwords může být zakázáno na konkrétní stránky nebo stránky odpovídající vzorek. Zadejte zde (stejná syntaxe jako pro menu), jeden vzorek na řádek. 
   Je-li vzorek končí v \ '! \', to odpovídá \'end query\', a je obvykle přesná shoda. Jinak bude odpovídat všechny adresy URL obsahující zadaný řetězec.<br>Všimněte si, že linkwords nejsou <i>nikdy</i> na admin stránek.<br><br>
-  <b>Povolení funkcí Ajax</b><br>Popisky lze použít Ajax k získání informací o zobrazení. To obvykle vyžaduje vlastní kódování.<br><br>
-  <b>Potlačit odkaz na aktuální stránce</b><br>Obvykle jeho smysl pro uživatele, aby mohli klepnout na odkaz, pokud they\ 're již na stránce. Zaškrtněte toto políčko, chcete-li odebrat možnost,<br>");
+  [b]Povolení funkcí Ajax[/b]<br>Popisky lze použít Ajax k získání informací o zobrazení. To obvykle vyžaduje vlastní kódování.<br><br>
+  [b]Potlačit odkaz na aktuální stránce[/b]<br>Obvykle jeho smysl pro uživatele, aby mohli klepnout na odkaz, pokud they\ 're již na stránce. Zaškrtněte toto políčko, chcete-li odebrat možnost,<br>");
 define("LAN_LW_HELP_02", "Definice slov, které se stanou klikatelné odkazy, nebo na mouseover, zde zobrazit text<br><br>
-  <b><u>Slovo Link</u></b><br>To je rozlišována. Pro mapování na stejné odkazy a popisy více slov oddělte je čárkami (bez mezer)<br><br>
+  [b]<u>Slovo Link</u>[/b]<br>To je rozlišována. Pro mapování na stejné odkazy a popisy více slov oddělte je čárkami (bez mezer)<br><br>
   <b><u>Odkaz</u></b><br>Definujte klikací odkaz zde. Pokud její externí odkaz, musí to, [i] [/i] začít \'http://\'. Pokud je odkaz v rámci tohoto webu, mohou být použity normální {e_XXX} konstanty.<br><br>
-  <b><u>Popis tlačítka</u></b><br>To definuje text se zobrazí, když user\ 's myší přechází přes slovo.<br><br>
-  <b><u>LW ID (ID popisku)</u></b><br><br>To definuje volitelný číselné ID pro použití s Ajax zpracování. Je-li toto pole prázdné, číslo záznamu databáze se používá.<br><br>
-  <b><u>Aktivovat?</u></b><br>Určuje, které možnosti jsou aktivní.");
+  [b]<u>Popis tlačítka</u>[/b]<br>To definuje text se zobrazí, když user\ 's myší přechází přes slovo.<br><br>
+  [b]<u>LW ID (ID popisku)</u>[/b]<br><br>To definuje volitelný číselné ID pro použití s Ajax zpracování. Je-li toto pole prázdné, číslo záznamu databáze se používá.<br><br>
+  [b]<u>Aktivovat?</u>[/b]<br>Určuje, které možnosti jsou aktivní.");
+

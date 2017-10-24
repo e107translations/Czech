@@ -19,4 +19,12 @@ define("FBLAN_23", "Podle šablony stránky");
 define("FBLAN_24", "Jednoduchý text");
 
 
-?>
+define("FBLAN_25", "Neexistují žádné featurebox v položkách přiřazených k šabloně [x].");
+define("FBLAN_26", "Obrázek a Video");
+define("FBLAN_27", "Odkaz na obrázek");
+define("FBLAN_28", "Featurebox Menu kategorie");
+define("FBLAN_29", "Kategorie pro featurebox menu");
+define("FBLAN_30", "Kategorie šablon");
+define("FBLAN_31", "Náhodné");
+define("FBLAN_32", "Parametry (volitelné)");
+define("FBLAN_33", "Volitelné parametry Javascript (formát může změnit)");

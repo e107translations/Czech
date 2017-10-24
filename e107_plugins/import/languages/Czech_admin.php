@@ -66,4 +66,21 @@ define("LAN_CONVERT_55", "Základní cesta URL (tj., adresář) Drupal instalace
 define("LAN_CONVERT_56", "Drupal základní cesta");
 
 
-?>
+define("LAN_CONVERT_57", "Žádná chyba");
+define("LAN_CONVERT_58", "Přihodit 't změnit data hlavní admin");
+define("LAN_CONVERT_59", "neplatné pole předané");
+define("LAN_CONVERT_60", "Povinné pole není nastaveno");
+define("LAN_CONVERT_61", "Uživatel již existuje");
+define("LAN_CONVERT_62", "Neplatné znaky v názvu uživatele nebo přihlášení");
+define("LAN_CONVERT_63", "Chyba při ukládání rozšířených uživatelských polí");
+define("LAN_CONVERT_64", "Vybrat");
+define("LAN_CONVERT_65", "Stránky");
+define("LAN_CONVERT_66", "Stránky kapitol");
+define("LAN_CONVERT_67", "Odkazy");
+define("LAN_CONVERT_68", "Média");
+define("LAN_CONVERT_69", "Fórum");
+define("LAN_CONVERT_70", "/ Témata na fóru");
+define("LAN_CONVERT_71", "Příspěvky na fóru");
+define("LAN_CONVERT_72", "Sledovat Fórum");
+define("LAN_CONVERT_73", "Userclasses");
+define("LAN_CONVERT_74", "Novinky kategorie");

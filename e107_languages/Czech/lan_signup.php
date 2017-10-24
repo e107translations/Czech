@@ -35,7 +35,7 @@ define("LAN_SIGNUP_23", "pro přihlášení.");
 define("LAN_SIGNUP_24", "Děkujeme za registraci na tomto webu");
 define("LAN_SIGNUP_25", "Nahrajte si svůj avatar (podobiznu)");
 define("LAN_SIGNUP_26", "Nahrajte svou fotku");
-define("LAN_SIGNUP_27", "Ukázat");
+// define("LAN_SIGNUP_27", "Ukázat");
 define("LAN_SIGNUP_30", "Pokud si nepřejete zobrazovat vaši e-mailovou adresu na této stránce, zvolte 'Ano' pro volbu 'Skrýt e-mailovou adresu?'.");
 define("LAN_SIGNUP_34", "Upozornění! Jakékoliv obrázky považované administrátorem za nevhodné budou bez upozornění mazány!");
 define("LAN_SIGNUP_36", "Došlo k chybě při vytváření informací pro Váš uživatelský účet. Kontaktujte prosím administrátora webu.");
@@ -53,7 +53,7 @@ define("LAN_SIGNUP_48", "Uživatelské jméno nebo e-mail");
 define("LAN_SIGNUP_49", "Pokud jste se zaregistrovali se špatnou e-mailovou adresu, stejně jako v poli výše, zadejte novou e-mailovou adresu a heslo zde:");
 define("LAN_SIGNUP_50", "Nový e-mail");
 define("LAN_SIGNUP_51", "Staré heslo");
-define("LAN_SIGNUP_52", "Neplatné heslo");
+// define("LAN_SIGNUP_52", "Neplatné heslo");
 define("LAN_SIGNUP_53", "pole neprošlo testem pravosti");
 define("LAN_SIGNUP_54", "Klikněte sem, aby jste se mohl(a) registrovat");
 define("LAN_SIGNUP_58", "Náhled přihlášení");
@@ -66,8 +66,8 @@ define("LAN_SIGNUP_64", "To se nezdá být platné informace o uživatelích");
 define("LAN_SIGNUP_65", "Byl vám přiřazen následující přihlašovací jméno");
 define("LAN_SIGNUP_66", "Zkontrolujte si to.");
 define("LAN_SIGNUP_67", "To po registraci přidělí systém");
-define("LAN_SIGNUP_69", "");
-define("LAN_SIGNUP_70", "");
+// define("LAN_SIGNUP_69", "");
+// define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Dosáhli jste limitu serveru pro účet registrace. Přihlaste se pomocí jednoho z vašich účtů.");
 define("LAN_SIGNUP_72", "Díky za registraci na [sitename]! Právě jsme vám zaslali potvrzující e-mail na [email]. Klikněte prosím na odkaz v e-mailu k dokončení registrace a aktivaci účtu.");
 define("LAN_SIGNUP_73", "Děkujeme.");
@@ -108,4 +108,12 @@ define("LAN_SIGNUP_111", "Zadejte adresu URL k obrázku nebo zvolit existující
 define("LAN_SIGNUP_112", "Jste aktuálně přihlášeni jako hlavní správce.");
 
 
-?>
+define("LAN_SIGNUP_113", "Odběr (s)");
+define("LAN_SIGNUP_114", "Registrace uživatele je aktuálně zakázán.");
+define("LAN_SIGNUP_115", "Náhled aktivační Email");
+define("LAN_SIGNUP_116", "Náhled po odeslání formuláře");
+define("LAN_SIGNUP_117", "Poslat Test aktivace");
+define("LAN_SIGNUP_118", "[X]");
+define("LAN_SIGNUP_119", "Neposílejte e-mailem");
+define("LAN_SIGNUP_120", "NEBO");
+define("LAN_SIGNUP_121", "Použít jinou e-mailovou adresu");

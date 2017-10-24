@@ -254,4 +254,3 @@ define("LAN_AL_ADMINUI_04", "Chyba DB admin UI: [x]");
 define("LAN_AL_BACKUP", "Zálohování databáze");
 
 
-?>

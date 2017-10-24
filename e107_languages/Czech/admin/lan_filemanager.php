@@ -37,4 +37,3 @@ define("FMLAN_50", "přesun");
 define("FMLAN_51", "Neidentifikovatelná chyba");
 
 
-?>

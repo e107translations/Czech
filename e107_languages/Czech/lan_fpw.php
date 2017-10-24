@@ -46,4 +46,3 @@ define("LAN_FPW_101", "Nebojte se. Stačí zadat vaši e-mailovou adresu a my v�
 define("LAN_FPW_102", "Obnovení hesla");
 
 
-?>

@@ -22,4 +22,3 @@ define("CLOCK_AD_L12", "Přípona pro 4 a další");
 define("CLOCK_AD_L13", "Vyžaduje-li váš jazyk zobrazení příponu těsně po čísel pro datum, vyplňte tato pole s příponou pouze (příklad: 'st' 1, 'nd' 2, 'rd' pro 3 a 'th' pro 4 a více - anglicky). Není-li požadovaný ponechejte prázdné.");
 
 
-?>

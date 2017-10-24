@@ -57,4 +57,5 @@ define("LAN_ERROR_44", "Logo webu");
 define("LAN_ERROR_45", "Co můžete dělat teď?");
 
 
-?>
+define("LAN_ERROR_TITLE", "Ale ne!");
+define("LAN_ERROR_46", "Zkontrolujte podrobnosti v protokolu.");

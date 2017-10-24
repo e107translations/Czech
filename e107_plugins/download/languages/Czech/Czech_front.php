@@ -52,4 +52,3 @@ define("LAN_dl_77", "Stažení");
 define("LAN_dl_78", "Že ke stažení byla zakázána nebo přerušeno. Zkontrolujte voblasti [ke stažení] pro novější verzi.");
 
 
-?>

@@ -34,4 +34,3 @@ define("LAN_VALIDATE_204", "Velikost souboru je nižší, než je přípustné m
 define("LAN_VALIDATE_FAILMSG", "[x] Chyba při ověřování: [y] [z].");
 
 
-?>

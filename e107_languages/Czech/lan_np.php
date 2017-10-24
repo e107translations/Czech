@@ -25,4 +25,3 @@ define("LAN_NP_URLCURRENT", "V současné době zobrazeno");
 define("NP_CAPTION", "Stránka [x] [y]");
 
 
-?>

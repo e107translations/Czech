@@ -20,10 +20,10 @@ define("LAN_CHECK_18", "Jazykové soubory ve standardním formátu nebyly pro te
 define("LAN_CHECK_19", "Byly nalezeny znaky nepatřící do kódování UTF-8!!");
 define("LAN_CHECK_20", "Vytvořit jazykový balíček");
 define("LAN_CHECK_21", "Ověřit znovu");
-define("LAN_CHECK_22", "Vzhled");
+// define("LAN_CHECK_22", "Vzhled");
 define("LAN_CHECK_23", "Nalezené chyby");
-define("LAN_CHECK_24", "Souhrn");
-define("LAN_CHECK_25", "Vzhledy");
+// define("LAN_CHECK_24", "Souhrn");
+// define("LAN_CHECK_25", "Vzhledy");
 define("LAN_CHECK_PAGE_TITLE", "Jazyky");
 define("LAN_CHECK_27", "Počet nalezených chyb jazykových sad");
 define("LANG_LAN_23", "Vytvořit jazykoví balíček (zip)");
@@ -41,4 +41,9 @@ define("LANG_LAN_120", "Zkontrolujte, zda používáte výchozí názvy složek 
 define("LANG_LAN_AGR", "Poznámka: Pomocí těchto nástrojů souhlasíte s sdílením jazykového balíčku s E107 komunitou.");
 
 
-?>
+define("LAN_CHECK_26", "Přední");
+define("LAN_CHECK_28", "Identické");
+define("LAN_CHECK_29", "Identické řetězec (pouze upozornění)");
+define("LAN_CHECK_30", "Chybějící BB");
+define("LAN_CHECK_31", "Chybějící [nebo] znaky");
+define("LAN_CHECK_32", "Chybí značky HTML");

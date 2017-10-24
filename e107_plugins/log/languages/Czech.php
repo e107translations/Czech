@@ -11,7 +11,6 @@
 */
 define("PAGE_NAME", "Statistiky");
 define("ADSTAT_L1", "Tento doplněk zaznamenává všechny návštěvy vašich stránek a vytváží detailní seznam statistik na základě získaných dat.");
-define("ADSTAT_L2", "Statistiky protokolování byla úspěšně nainstalována. Chcete-li převést vaše stávající statistiky na nový systém, prosím <a href=''.e_PLUGIN.'log/update_routine.php'>Klepnutím sem spusťte update rutiny</a>.");
 define("ADSTAT_L3", "Zaznamenávané statistiky.");
 define("ADSTAT_L4", "Nemáte oprávnění zobrazit tuto stránku.");
 define("ADSTAT_L5", "Možnosti na této stránce byly vypnuty.");
@@ -61,14 +60,8 @@ define("ADSTAT_L49", "seřadit abecedně");
 define("ADSTAT_L50", "Celkové statistiky");
 define("ADSTAT_L51", "Aktuální měsíční statistiky");
 define("ADSTAT_L52", "Předchozí měsíc statistiky");
-define("ADSTAT_L53", "");
-define("ADSTAT_L54", "");
-define("ADSTAT_L55", "");
-define("ADSTAT_L56", "");
-define("ADSTAT_L57", "");
-define("ADSTAT_L58", "");
-define("ADSTAT_L59", "");
-define("ADSTAT_L60", "");
 
 
-?>
+
+define("ADSTAT_L2", "Statistiky protokolování byla úspěšně nainstalována. Chcete-li převést vaše stávající statistiky na nový systém, prosím <a href=''.e_PLUGIN.'log/update_routine.php'>klikněte sem pro spuštění rutiny aktualizace</a>.");
+define("ADSTAT_L53", "Informace");

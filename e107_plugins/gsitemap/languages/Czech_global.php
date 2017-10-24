@@ -14,4 +14,3 @@ define("LAN_PLUGIN_GSITEMAP_NAME", "Mapa stránek");
 define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Generuje Google Sitemap");
 
 
-?>

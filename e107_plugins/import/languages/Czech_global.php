@@ -6,3 +6,4 @@
 
 define("LAN_PLUGIN_IMPORT_NAME", "Import do e107");
 define("LAN_PLUGIN_IMPORT_DESCRIPTION", "Importovat data z Wordpress, Joomla, Drupal, Blogpost, RSS a dalších formátů.");
+

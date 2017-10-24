@@ -102,4 +102,3 @@ define("LAN_SEARCH_201", "Prosím přeformulujte dotaz");
 define("LAN_SEARCH_202", "Přepnout pokročilý režim");
 
 
-?>

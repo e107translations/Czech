@@ -31,7 +31,7 @@ define("LAN_USET_17", "Uživatelské jméno již existuje. Vyberte si prosím ji
 define("LAN_USET_18", "Uživatelská data změnil admin: – ID –, přihlašovací jméno: – LOGNAME –");
 define("LAN_USET_20", "Chcete-li změnit své přihlašovací jméno nebo e-mailovou adresu, musíte také změnit heslo uživatele");
 define("LAN_USET_21", "Opakovaným zadáním hesla ověřte změny:");
-define("LAN_USET_22", "Neplatné heslo!");
+// define("LAN_USET_22", "Neplatné heslo!");
 define("LAN_USET_23", "pokud nechcete měnit heslo, nevyplňujte");
 define("LAN_USET_24", "Heslo:");
 define("LAN_USET_25", "Potvrzení hesla:");
@@ -85,4 +85,3 @@ define("LAN_USET_5", "Přihlášen do");
 define("LAN_USET_6", "Přihlaste se k odběru novinek a/nebo do různých uživatelských skupin.");
 
 
-?>

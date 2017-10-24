@@ -50,4 +50,3 @@ define("LAN_419", "Povolené formáty souborů");
 define("LAN_420", "pole jsou povinná a musí být vyplněna.");
 
 
-?>

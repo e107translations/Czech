@@ -9,7 +9,6 @@
 |        $Author: Oxigen $
 +---------------------------------------------------------------+
 */
-
 define("DBLAN_1", "Nastavení jádra uloženo v databázi.");
 define("DBLAN_4", "Vyberte zkontrolovat platnost e107 databáze");
 define("DBLAN_5", "Zkontrolovat správnost databáze");
@@ -18,7 +17,7 @@ define("DBLAN_7", "Optimalizovat SQL databázi");
 define("DBLAN_8", "Vyberte zálohování nastavení jádra");
 define("DBLAN_9", "Zálohovat jádro");
 define("DBLAN_10", "Nástroje databáze");
-define("DBLAN_11", "Databáze MySQL");
+define("DBLAN_11", "Databáze MySQL [x] optimized");
 define("DBLAN_15", "Vyberte, pokud chcete kontrolovat všechny aktualizace dostupné db");
 define("DBLAN_16", "Zkontrolovat aktualizace");
 define("DBLAN_17", "Pref. jméno");
@@ -107,7 +106,13 @@ define("DBLAN_107", "[složka] není zapisovatelný");
 define("DBLAN_108", "Vytvořeno:");
 define("DBLAN_109", "Kopírování:");
 define("DBLAN_110", "Nelze kopírovat:");
-define("DBLAN_111", "");
-
-
-?>
+define("DBLAN_112", "Synchronizace s Github");
+define("DBLAN_113", "Přepsat soubory");
+define("DBLAN_114", "Pouze v režimu Vývojář");
+define("DBLAN_115", "Přepište místní soubory s nejnovějšími z GitHubu.");
+define("DBLAN_116", "To stáhne nejnovější soubor zip z github");
+define("DBLAN_117", "a pak rozbalte ho, přepíše všechny existující soubory, které nalezne na vašem serveru. Vezme se v úvahu vlastní složky, které si nastavíte v e107_config.php.");
+define("DBLAN_118", "Nelze stáhnout soubor zip");
+define("DBLAN_119", "Zálohování");
+define("DBLAN_120", "Spouštění zálohování...");
+define("DBLAN_121", "Pohyblivé [x] [y].");

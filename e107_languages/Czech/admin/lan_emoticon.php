@@ -40,4 +40,3 @@ define("EMOLAN_37", "Emoce, není nastaveno");
 define("EMOLAN_38", "Emoce prázdná hodnota");
 
 
-?>

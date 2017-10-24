@@ -18,4 +18,3 @@ define("US_LAN_5", "Nalezení uživatelé");
 define("US_LAN_6", "hledat");
 
 
-?>

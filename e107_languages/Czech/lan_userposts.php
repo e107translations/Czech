@@ -29,4 +29,3 @@ define("UP_LAN_15", "Re");
 define("UP_LAN_16", "IP adresa");
 
 
-?>

@@ -31,4 +31,4 @@ define("LANDT_09s", "sek");
 define("LANDT_AGO", "zpět");
 
 
-?>
+define("LANDT_10", "Právě teď");

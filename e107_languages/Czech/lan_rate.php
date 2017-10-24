@@ -16,3 +16,9 @@ define("RATELAN_FAIR", "Veletrh");
 define("RATELAN_GOOD", "Dobré");
 define("RATELAN_VERYGOOD", "Velmi dobře");
 define("RATELAN_EXCELLENT", "Vynikající");
+
+define("RATELAN_7", "Jako");
+define("RATELAN_8", "Nelíbí se mi");
+define("RATELAN_9", "Jste na Pražském hradě");
+define("RATELAN_10", "Neexistuje žádné ID položky v hodnocení");
+define("RATELAN_11", "Hodnocení selhala");

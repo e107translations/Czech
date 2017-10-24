@@ -28,4 +28,7 @@ define("LANCONTACT_15", "Vložen špatný kód");
 define("LANCONTACT_16", "Jste musí být [registrovaný] a podepsána v můžete použít tento formulář.");
 
 
-?>
+define("LANCONTACT_17", "Zadejte prosím své jméno.");
+define("LANCONTACT_18", "Zadejte prosím vaši e-mailovou adresu.");
+define("LANCONTACT_19", "Zadejte předmět e-mailu.");
+define("LANCONTACT_20", "Prosím zadejte vaši zprávu pro nás.");

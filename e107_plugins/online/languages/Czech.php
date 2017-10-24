@@ -32,4 +32,6 @@ define("LAN_ONLINE_ADMIN_7", "Zobrazit rozšířený seznam členů online?");
 define("LAN_ONLINE_ADMIN_8", "Čárkami oddělený seznam členů se zobrazí.");
 
 
-?>
+define("LAN_ONLINE_11", "Celkový počet registrovaných členů:");
+define("LAN_ONLINE_ADMIN_9", "Zobrazí seznam členů, zobrazení stránky.");
+define("LAN_ONLINE_ADMIN_10", "Zobrazit Návštěvníci online.");

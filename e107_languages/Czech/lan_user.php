@@ -66,7 +66,7 @@ define("LAN_USER_66", "Návštěvy od registrace");
 define("LAN_USER_67", "příspěvky chatboxu");
 define("LAN_USER_68", "Komentářů");
 define("LAN_USER_69", "příspěvků ve fóru");
-define("LAN_USER_70", "Ukázat");
+// define("LAN_USER_70", "Ukázat");
 define("LAN_USER_71", "Podpis:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "výběr obsahu/seznamu e-mailů");
@@ -85,4 +85,16 @@ define("LAN_USER_85", "Pokud chcete změnit své uživatelské jméno, musíte p
 define("LAN_USER_86", "Maximální velikost je – šířka – x – výška – pixelů");
 
 
-?>
+define("LAN_USER_87", "Přihlásit se k hodnocení tohoto uživatele!");
+define("LAN_XUP_ERRM_01", "Registrace se nezdařila! Tato funkce je zakázána.");
+define("LAN_XUP_ERRM_02", "Registrace se nezdařila! Nesprávný poskytovatel.");
+define("LAN_XUP_ERRM_03", "Přihlášení se nezdařilo! Nesprávný poskytovatel.");
+define("LAN_XUP_ERRM_04", "Registrace se nezdařila! Uživatel již přihlášeni.");
+define("LAN_XUP_ERRM_05", "Registrace se nezdařila! Uživatel již existuje. Jako náhradu použijte 'přihlásit se'.");
+define("LAN_XUP_ERRM_06", "Registrace se nezdařila! Nelze získat přístup k uživatelské email - nejde registrace bez e-mailu.");
+define("LAN_XUP_ERRM_07", "Přihlášení k sociálním sítím Tester");
+define("LAN_XUP_ERRM_08", "Prosím odhlásit e107 před zkouškou postupu přihlášení/registrace nového uživatele.");
+define("LAN_XUP_ERRM_09", "Testovací přihlášení pouze s [x]");
+define("LAN_XUP_ERRM_10", "Testování registrace/přihlášení s [x]");
+define("LAN_XUP_ERRM_11", "Přihlášen:");
+define("LAN_XUP_ERRM_12", "Test odhlášení");

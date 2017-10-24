@@ -45,4 +45,3 @@ define("SEALAN_48", "Nastavení se uplatní pouze pokud je vybráno PHP vyhledá
 define("SEALAN_49", "Pokud vaše stránky využívají znakové písmo, jako třeba čínština či japonština, musí být vybráno PHP třídění.");
 
 
-?>

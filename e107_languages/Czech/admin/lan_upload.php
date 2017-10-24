@@ -50,8 +50,9 @@ define("UPLLAN_63", "Záznam se přestěhoval do stahování. [x]");
 define("UPLLAN_64", "Správa stahování");
 define("UPLLAN_66", "Cesta chyba při stahování");
 define("UPLLAN_68", "Chyba SQL:");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
 
 
-?>
+
+
+define("UPLLAN_69", "Importován");
+define("UPLLAN_70", "Poslat na [x]");

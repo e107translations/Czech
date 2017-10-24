@@ -11,7 +11,6 @@
 */
 
 define("LAN_SITELINKS_183", "Hlavní menu");
-define("LAN_SITELINKS_502", "Administrace");
+// define("LAN_SITELINKS_502", "Administrace");
 
 
-?>

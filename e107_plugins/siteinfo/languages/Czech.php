@@ -20,7 +20,6 @@ define("COUNTER_L4", "Celkem na této stránce ...");
 define("COUNTER_L5", "unikátních");
 define("COUNTER_L6", "Stránka ...");
 define("COUNTER_L7", "Počítadlo");
-define("COUNTER_L8", "Admin zpráva: <b>Stat protokolování je zakázáno.</b><br>Chcete-li aktivovat, je třeba nainstalovat zásuvný modul Statistika protokolování z <a href=''.e_ADMIN.'plugin.php'>plugin manager</a>, pak ji aktivovat z <a href=''.e_PLUGIN.'log/admin_config.php'>konfigurační obrazovku</a>.");
+define("COUNTER_L8", "Admin zpráva: [b]Stat protokolování je zakázáno.[/b]<br>Chcete-li aktivovat, je třeba nainstalovat zásuvný modul Statistika protokolování z <a href=''.e_ADMIN.'plugin.php'>plugin manager</a>, pak ji aktivovat z <a href=''.e_PLUGIN.'log/admin_config.php'>konfigurační obrazovku</a>.");
 
 
-?>

@@ -16,4 +16,3 @@ define("LAN_PLUGIN_LOG_CONFIGURE", "Nastavit zaznamenávání statistik");
 define("LAN_PLUGIN_LOG_LINK", "Návštěv");
 
 
-?>

@@ -8,3 +8,4 @@ define("METLAN_00", "Meta Tagy");
 define("METLAN_1", "Další meta tagy");
 define("METLAN_2", "např.< meta='' name='revisit-after' content='30 days'>");
 define("METLAN_3", "Použít nadpis novinky a přehled jako meta popis na stránkách příspěvky.");
+

@@ -24,4 +24,3 @@ define("NT_LAN_CB_5", "Zpráva");
 define("NT_LAN_CB_6", "Zpráva odeslána");
 
 
-?>

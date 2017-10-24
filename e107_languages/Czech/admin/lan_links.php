@@ -9,7 +9,7 @@
 |        $Author: Oxigen $
 +---------------------------------------------------------------+
 */
-define("LCLAN_15", "Název odkazu");
+// define("LCLAN_15", "Název odkazu");
 define("LCLAN_19", "Nastavení otevírání");
 define("LCLAN_20", "Otevřít ve stejném okně");
 define("LCLAN_23", "Otevřít v novém okně");
@@ -18,7 +18,7 @@ define("LCLAN_78", "Zobrazit popis jako nápovědu");
 define("LCLAN_79", "Popis bude zobrazen při přejetí myši nad odkaz");
 define("LCLAN_80", "Povolit rozevírací vnořená menu");
 define("LCLAN_81", "Vnořená menu se zobrazí pouze po kliknutím na nadřazený odkaz. (Který je tímto deaktivován)");
-define("LCLAN_104", "SubLink z");
+// define("LCLAN_104", "SubLink z");
 define("LCLAN_105", "Funkce");
 define("LCLAN_106", "Ve vlastnictví");
 define("LCLAN_107", "Povolit přepsání URL s dynamicky vytvořený Search Engine Friendly URL");
@@ -35,4 +35,4 @@ define("LINKLAN_8", "Kategorie novinek");
 define("LINKLAN_9", "Kategorie stahování");
 
 
-?>
+define("LINKLAN_10", "Téma Shortcodes");

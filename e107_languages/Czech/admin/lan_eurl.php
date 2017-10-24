@@ -51,7 +51,7 @@ define("LAN_EURL_MENU_CONFIG", "Adresa URL profily");
 define("LAN_EURL_MENU_ALIASES", "Aliasy");
 define("LAN_EURL_MENU_SETTINGS", "Nastavení");
 define("LAN_EURL_MENU_HELP", "Nápověda");
-define("LAN_EURL_MENU_REDIRECTS", "Přesměrování");
+// define("LAN_EURL_MENU_REDIRECTS", "Přesměrování");
 define("LAN_EURL_UC", "Ve výstavbě");
 define("LAN_EURL_CORE_MAIN", "Stránky Root Namespace - alias není v provozu.");
 define("LAN_EURL_FRIENDLY", "Přátelský");
@@ -87,4 +87,10 @@ define("LAN_EURL_CORE_INDEX", "Hlavní strana");
 define("LAN_EURL_CORE_INDEX_INFO", "Titulní stránka nemůže mít alias.");
 
 
-?>
+define("LAN_EURL_SURL_UPD", "SEF URL byly aktualizovány.");
+define("LAN_EURL_SURL_NUPD", "SEF URL nejsou aktualizovány.");
+define("LAN_EURL_MENU_PROFILES", "Profily");
+define("LAN_EURL_REBUILD", "Znovu sestavit");
+define("LAN_EURL_REGULAR_EXPRESSION", "Regulární výraz");
+define("LAN_EURL_KEY", "Klíč");
+define("LAN_EURL_TABLE", "Tabulka");

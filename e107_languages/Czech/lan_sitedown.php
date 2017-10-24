@@ -15,4 +15,3 @@ define("LAN_SITEDOWN_00", "je momentálně mimo provoz");
 define("LAN_SITEDOWN_01", "Dočasně jsme uzavřeli místo pro některé základní údržby. Nemělo by to trvat příliš dlouho - prosím zkontrolujte brzo zpátky, omlouvám se za nepříjemnosti.");
 
 
-?>

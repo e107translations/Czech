@@ -20,4 +20,3 @@ define("FBLAN_INSTALL_04", "Carousel");
 define("FBLAN_INSTALL_05", "Tabulátory");
 
 
-?>

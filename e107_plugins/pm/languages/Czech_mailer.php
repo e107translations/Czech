@@ -19,4 +19,3 @@ define("LAN_EC_PM_06", "Zahájení hromadné PM zpracování – NUM – příje
 define("LAN_EC_PM_07", "");
 
 
-?>

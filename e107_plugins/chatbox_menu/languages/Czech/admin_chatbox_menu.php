@@ -31,4 +31,3 @@ define("CHBLAN_38", "Aktualizovat příspěvky dynamicky pomocí javascriptu (AJ
 define("CHBLAN_42", "Zobrazit částku příspěvků v profilu uživatele");
 
 
-?>

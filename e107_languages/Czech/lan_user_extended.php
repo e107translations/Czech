@@ -52,4 +52,6 @@ define("UE_LAN_MALE", "Muž");
 define("UE_LAN_FEMALE", "Žena");
 
 
-?>
+define("UE_LAN_13", "Země");
+define("UE_LAN_COMMENT", "Komentáře");
+define("UE_LAN_COMMENT_DESC", "Pole pro komentář");

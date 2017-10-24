@@ -13,4 +13,3 @@ define("LAN_PLUGIN_NEWSFEEDS_NAME", "RSS novinek");
 define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Tento plugin bude načítat rss kanály z jiných webových stránek a jejich zobrazení podle vašich preferencí.");
 
 
-?>

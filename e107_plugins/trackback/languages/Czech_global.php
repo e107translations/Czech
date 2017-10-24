@@ -14,4 +14,3 @@ define("LAN_PLUGIN_TRACKBACK_NAME", "Trackback");
 define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Tento doplněk vám umožní používat funkci zpětných odkazů pro vaše novinky.");
 
 
-?>

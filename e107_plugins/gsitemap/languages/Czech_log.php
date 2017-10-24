@@ -16,4 +16,3 @@ define("LAN_AL_GSMAP_03", "Mapa webu odkaz přidán");
 define("LAN_AL_GSMAP_04", "Mapa webu odkaz aktualizován");
 
 
-?>

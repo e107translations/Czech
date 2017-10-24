@@ -27,4 +27,3 @@ define("NT_LAN_ND_1", "Novinka smazána");
 define("NT_LAN_ND_2", "ID smazané novinky");
 
 
-?>

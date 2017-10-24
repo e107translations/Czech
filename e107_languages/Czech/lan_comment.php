@@ -72,4 +72,7 @@ define("COMLAN_TYPE_8", "uživatelský profil");
 define("COMLAN_TYPE_PAGE", "Článek");
 
 
-?>
+define("COMLAN_403", "Zanechte vzkaz...");
+define("COMLAN_404", "Schválit");
+define("COMLAN_500", "Prosím [přihlásit] zanechat komentář.");
+define("COMLAN_501", "Pokud ještě nejste registrováni, můžete [klikněte zde pro registraci].");

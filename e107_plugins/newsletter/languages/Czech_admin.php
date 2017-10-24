@@ -47,4 +47,3 @@ define("NLLAN_65", "Přehled ID odběratelů");
 define("NLLAN_66", "Seznamu zpráv dopis účastníků bylo dezinfikují.");
 
 
-?>

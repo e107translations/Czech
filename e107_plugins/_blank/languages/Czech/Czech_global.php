@@ -15,4 +15,3 @@ define("LAN_PLUGIN__BLANK_DIZ", "Prázdný Plugin, který vám pomůže začít 
 define("LAN_PLUGIN__BLANK_LINK", "Prázdný odkaz");
 
 
-?>

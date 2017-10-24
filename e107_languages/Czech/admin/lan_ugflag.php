@@ -18,4 +18,3 @@ define("UGFLAN_8", "Neomezit přístup pouze správcům");
 define("UGFLAN_9", "Neomezit přístup pouze hlavním správcům");
 
 
-?>

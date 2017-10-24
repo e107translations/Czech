@@ -26,4 +26,3 @@ define("LAN_7", "Témata s nejvíce zobrazeními");
 define("LAN_8", "Nejaktivnější uživatelé");
 
 
-?>

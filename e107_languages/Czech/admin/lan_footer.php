@@ -31,4 +31,3 @@ define("FOOTLAN_19", "Čas na serveru");
 define("FOOTLAN_20", "Stupeň zabezpečení");
 
 
-?>

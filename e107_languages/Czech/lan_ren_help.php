@@ -58,3 +58,4 @@ define("LANHELP_51", "Zakázat HTML nové řádky pro uzavřený text: [nobr] te
 define("LANHELP_52", "Nový řádek (HTML): [br]");
 define("LANHELP_53", "Ospravedlnit zarovnání: \n [ospravedlnit] Tento text bude odůvodněno [/ bloku]");
 define("LANHELP_54", "HTML blok (div tag): [blok] obsah [/block]");
+

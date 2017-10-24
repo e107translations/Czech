@@ -17,3 +17,4 @@ define("MESSLAN_10", "Posílají");
 define("MESSLAN_11", "Otevře se v novém okně");
 define("MESSLAN_12", "Zpráva");
 define("MESSLAN_13", "Odkaz");
+

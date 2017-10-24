@@ -30,4 +30,3 @@ define("LANUPLOAD_18", "Nahrávaný soubor překračuje přípustné limity.");
 define("LANUPLOAD_19", "Bylo nahráno příliš mnoho souborů - nadbytek byl smazán.");
 
 
-?>

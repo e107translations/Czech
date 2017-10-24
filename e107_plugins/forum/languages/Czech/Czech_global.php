@@ -20,4 +20,4 @@ define("FORUM_LAN_URL_REWRITE_LABEL", "SEF URL fórum (ve vývoji)");
 define("FORUM_LAN_URL_REWRITE_DESCR", "Příklady:<br>VE VÝVOJI");
 
 
-?>
+define("LAN_PLUGIN_FORUM_LATESTPOSTS", "Nejnovější příspěvky");

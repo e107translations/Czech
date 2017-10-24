@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 
-define("DBVLAN_1", "Nelze číst datový soubor sql<br><br>Ověřte, zda že existuje soubor <b>core_sql.php</b> v adresáři <b>/e107_core/sql</b> .");
+define("DBVLAN_1", "Nelze číst datový soubor sql<br><br>Ověřte, zda že existuje soubor [b]core_sql.php[/b] v adresáři [b]/e107_core/sql[/b] .");
 define("DBVLAN_4", "Tabulka");
 define("DBVLAN_5", "Pole");
 define("DBVLAN_6", "Status");
@@ -33,4 +33,4 @@ define("DBVLAN_25", "Index chybí!");
 define("DBVLAN_26", "[x] tabulky mají problémy.");
 
 
-?>
+

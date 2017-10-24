@@ -33,4 +33,4 @@ define("LAN_EMAIL_189", "Myslel jsem, že by vás tohle mohlo zajímat.");
 define("LAN_EMAIL_190", "Vložit kód");
 
 
-?>
+define("LAN_SOCIAL_LINK_CHK", "Podívejte se na tento odkaz:");

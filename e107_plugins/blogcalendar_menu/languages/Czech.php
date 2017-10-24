@@ -19,4 +19,3 @@ define("BLOGCAL_CONF4", "BlogCal Menu konfigurace");
 define("BLOGCAL_ARCHIV1", "Vyberte archiv");
 
 
-?>

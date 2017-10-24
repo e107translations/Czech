@@ -34,8 +34,8 @@ define("LAN_PM_21", "Přidáním této SZ překročíte maximum velikosti složk
 define("LAN_PM_22", "Nahrání přílohy nebylo úspěšné");
 define("LAN_PM_23", "Nemáte oprávnění vkládat přílohy");
 define("LAN_PM_24", "Mazání SZ");
-define("LAN_PM_25", "Doručená pošta");
-define("LAN_PM_26", "Odeslaná pošta");
+// define("LAN_PM_25", "Doručená pošta");
+// define("LAN_PM_26", "Odeslaná pošta");
 define("LAN_PM_27", "Nepřečtené");
 define("LAN_PM_28", "Nedostupné");
 define("LAN_PM_29", "Zpráva odeslána");
@@ -93,4 +93,7 @@ define("LAN_PM_109", "Nová zpráva/y");
 define("LAN_PM_111", "Číst");
 
 
-?>
+define("LAN_PM_112", "Uživatele");
+define("LAN_PM_113", "Číst zprávu");
+define("LAN_PM_114", "Nemáte přístup k tomuto uživateli.");
+define("LAN_PM_115", "Uživatel nebyl nalezen.");

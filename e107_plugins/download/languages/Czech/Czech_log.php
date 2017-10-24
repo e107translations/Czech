@@ -23,4 +23,3 @@ define("LAN_AL_DOWNL_10", "Ke stažení - limit aktualizován");
 define("LAN_AL_DOWNL_11", "Ke stažení - limit odstraněny");
 
 
-?>

@@ -17,4 +17,3 @@ define("LAN_HEADER_05", "jazyk zobrazen v oblasti admin");
 define("LAN_HEADER_06", "Informace o doplňcích");
 
 
-?>

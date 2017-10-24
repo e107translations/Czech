@@ -14,4 +14,3 @@ define("LAN_PLUGIN_POLL_NAME", "anketa");
 define("LAN_PLUGIN_POLL_DESCRIPTION", "Anketový doplněk vám umožňuje definovat ankety v menu nebo v příspěvcích na fóru.");
 
 
-?>

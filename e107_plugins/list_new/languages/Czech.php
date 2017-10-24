@@ -60,4 +60,5 @@ define("LIST_FORUM_6", "V:");
 define("LIST_LAN_1", "žádné položky v");
 
 
-?>
+define("LIST_DOWNLOAD_1", "soubory ke stažení");
+define("LIST_DOWNLOAD_2", "žádné stahování");

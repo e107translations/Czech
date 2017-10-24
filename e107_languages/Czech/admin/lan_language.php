@@ -53,4 +53,18 @@ define("LANG_LAN_133", "Použití");
 define("LANG_LAN_134", "místo.");
 
 
-?>
+define("LANG_LAN_04", "Neschválený LAN");
+define("LANG_LAN_28", "Toto políčko zaškrtněte, pokud jste [e107 certifikovaný Překladatel].");
+define("LANG_LAN_135", "Přepsání");
+define("LANG_LAN_136", "Nelze přepsat.");
+define("LANG_LAN_137", "Zpracované");
+define("LANG_LAN_140", "Podržením klávesy CTRL můžete vybrat více. [br]e.g. Kontrola [b]lan_signup.php[/b], můžete také vybrat [b]signup_shortcodes.php[/b] a [b]signup_template.php[/b].");
+define("LANG_LAN_141", "Vyberte skript...");
+define("LANG_LAN_142", "Automatické rozpoznání");
+define("LANG_LAN_143", "Konkrétní soubor s příponou LAN:");
+define("LANG_LAN_144", "Musí být re-enabled");
+define("LANG_LAN_148", "Normální režim");
+define("LANG_LAN_149", "Hodnota");
+define("LANG_LAN_150", "[b] Hledat celé jádro před okomentování libovolného LAN z libovolného jazyka souboru. [/ b]");
+define("LANG_LAN_151", "K dispozici");
+define("LANG_LAN_152", "S laskavým svolením [e107 překlady tým]");

@@ -16,4 +16,3 @@ define("LAN_AL_STAT_03", "Statistiky - stránky odstraněny");
 define("LAN_AL_STAT_04", "Statistiky - historické údaje odstraněny");
 
 
-?>

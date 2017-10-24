@@ -14,4 +14,7 @@ define("LAN_PLUGIN_GALLERY_TITLE", "Galerie");
 define("LAN_PLUGIN_GALLERY_DIZ", "Jednoduchý obrázek Galerie");
 
 
-?>
+define("LAN_PLUGIN_GALLERY_SEF_01", "Galerie SEF");
+define("LAN_PLUGIN_GALLERY_SEF_02", "SEF URL povolen.");
+define("LAN_PLUGIN_GALLERY_SEF_03", "SEF URL zakázán.");
+define("LAN_PLUGIN_GALLERY_SEF_04", "Galerie výchozí");

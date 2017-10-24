@@ -11,3 +11,4 @@ define("NFLAN_34", "není známo");
 define("NFLAN_38", "Titulky");
 define("NFLAN_39", "Podrobnosti");
 define("NFLAN_48", "Nelze uložit nezpracovaná data do databáze.");
+

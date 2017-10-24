@@ -24,4 +24,3 @@ define("LAN_UMENU_THEME_8", "Povolené motivy:");
 define("LAN_UMENU_THEME_9", "Třída, která může vybrat témata:");
 
 
-?>

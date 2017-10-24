@@ -17,4 +17,3 @@ define("LAN_MEMBERS_3", "nebo [Registrace] jako člena.");
 define("LAN_MEMBERS_4", "Klepnutím sem se vrátíte na titulní stránce.");
 
 
-?>

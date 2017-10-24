@@ -16,4 +16,3 @@ define("LAN_DOCS_ANSWER", "Odpověď");
 define("LAN_DOCS_QUESTION", "Otázka");
 
 
-?>

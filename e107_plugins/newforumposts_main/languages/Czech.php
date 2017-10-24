@@ -43,4 +43,3 @@ define("NFPM_L23", "Oznámení");
 define("NFPM_L24", "Zamknuté téma");
 
 
-?>

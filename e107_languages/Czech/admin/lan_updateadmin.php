@@ -19,4 +19,3 @@ define("UDALAN_7", "Změnit heslo");
 define("UDALAN_8", "Heslo bylo změněno pro");
 
 
-?>

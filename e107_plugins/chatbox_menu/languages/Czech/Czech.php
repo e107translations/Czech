@@ -10,7 +10,6 @@
 +---------------------------------------------------------------+
 */
 define("CHATBOX_L1", "Nemohu odeslat příspěvek, protože jméno je již registrované - pokud je vaše, přihlaste se prosím.");
-define("CHATBOX_L3", "Musíte být přihlášeni k psaní komentářů na tomto webu - prosím buď přihlásit nebo pokud nejste registrován klikněte <a href=''.e_SIGNUP.''>zde</a> pro registraci");
 define("CHATBOX_L4", "Nová zpráva příspěvku");
 define("CHATBOX_L5", "Vyčistit");
 define("CHATBOX_L6", "[blokováno adminem]");
@@ -32,4 +31,7 @@ define("CHATBOX_L25", "[ tento příspěvek byl zablokován adminem ]");
 define("LAN_CHATBOX_100", "Sem napište svou zprávu.");
 
 
-?>
+define("CHATBOX_L3b", "Pokud nejste registrován klikněte [zde] na registraci.");
+
+
+define("CHATBOX_L3", "Musíte být přihlášeni k psaní komentářů na tomto webu - prosím buď přihlásit v přihlašovacím okně nebo [zde].");

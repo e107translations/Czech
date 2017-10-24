@@ -16,4 +16,4 @@ define("LAN_NEWSCAT_MENU_TITLE", "Kategorie novinek");
 define("LAN_NEWSLATEST_MENU_TITLE", "Nejnovější zprávy");
 
 
-?>
+define("LAN_NEWSARCHIVE_MENU_TITLE", "Archiv novinek");

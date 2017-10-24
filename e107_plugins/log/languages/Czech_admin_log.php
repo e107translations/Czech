@@ -11,7 +11,7 @@
 */
 
 define("ADSTAT_L1", "Tento doplněk zaznamenává všechny návštěvy vašich stránek a vytváží detailní seznam statistik na základě získaných dat.");
-define("ADSTAT_L2", "Statistiky protokolování byla úspěšně nainstalována. Chcete-li aktivovat, přejděte na obrazovku konfigurace a klepněte na tlačítko aktivovat.<br><b>Musíte nastavit oprávnění e107_plugins/log/logs složky na 777 (chmod 777)</b>");
+define("ADSTAT_L2", "Statistiky protokolování byla úspěšně nainstalována. Chcete-li aktivovat, přejděte na obrazovku konfigurace a klepněte na tlačítko aktivovat.<br>[b]Musíte nastavit oprávnění e107_plugins/log/logs složky na 777 (chmod 777)[/b]");
 define("ADSTAT_L3", "Zaznamenávané statistiky.");
 define("ADSTAT_L4", "Aktivovat statistiky");
 define("ADSTAT_L5", "Druhy  statistik");
@@ -90,4 +90,3 @@ define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
 
 
-?>

@@ -15,4 +15,3 @@ define("FOR_SCH_LAN_4", "Celý příspěvek");
 define("FOR_SCH_LAN_5", "Jako součást tématu");
 
 
-?>

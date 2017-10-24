@@ -33,4 +33,3 @@ define("XMLRPC_HELP_060", "Název blogu pro klienta");
 define("XMLRPC_HELP_061", "Název blogu XMLRPC klienta (libovolný řetězec, který chcete)");
 
 
-?>

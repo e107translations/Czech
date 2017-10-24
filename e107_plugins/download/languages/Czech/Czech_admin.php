@@ -41,7 +41,7 @@ define("DOWLAN_23", "Typy souborů");
 define("DOWLAN_24", "Upravit soubor ke stažení");
 define("DOWLAN_25", "Odeslat soubor ke stažení");
 define("DOWLAN_27", "Stažení");
-define("DOWLAN_28", "nezapisovat");
+// define("DOWLAN_28", "nezapisovat");
 define("DOWLAN_31", "Kategorie");
 define("DOWLAN_32", "Stažení");
 define("DOWLAN_33", "Určitě, chcete smazat tento záznam?");
@@ -148,4 +148,4 @@ define("DOWLAN_HELP_9", "Nápověda k odesílání typy");
 define("DOWLAN_HELP_10", "Nápovědu k možnosti odesílání");
 
 
-?>
+define("DOWLAN_29", "Požadováno");

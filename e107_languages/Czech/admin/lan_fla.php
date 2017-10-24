@@ -22,4 +22,3 @@ define("FLALAN_17", "Seznam adres zablokovaných automaticky byl smazán.");
 define("FLALAN_18", "By není zákaz IP adresa - IP – - na whitelist");
 
 
-?>

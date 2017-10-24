@@ -13,11 +13,11 @@
 define("PAGE_NAME", "nové");
 define("LAN_NEWS_1", "Novinky pouze pro některé členy");
 define("LAN_NEWS_2", "K zobrazení této novinky nemáte oprávnění");
-define("LAN_NEWS_9", "Je zapnuta volba pouze název - <b>pouze název novinky bude zobrazen</b><br />");
-define("LAN_NEWS_10", "Tato novinka je <b>neaktivní</b> (Nebude zobrazena na hlavní straně).");
-define("LAN_NEWS_11", "Tato novinka je  <b>aktivní</b> (bude zobrazena na hlavní straně).");
-define("LAN_NEWS_12", "Komentáře jsou <b>zapnuty</b>.");
-define("LAN_NEWS_13", "Komentáře jsou <b>vypnuty</b>.");
+define("LAN_NEWS_9", "Je zapnuta volba pouze název - [b]pouze název novinky bude zobrazen[/b]<br />");
+define("LAN_NEWS_10", "Tato novinka je [b]neaktivní[/b] (Nebude zobrazena na hlavní straně).");
+define("LAN_NEWS_11", "Tato novinka je  [b]aktivní[/b] (bude zobrazena na hlavní straně).");
+define("LAN_NEWS_12", "Komentáře jsou [b]zapnuty[/b].");
+define("LAN_NEWS_13", "Komentáře jsou [b]vypnuty[/b].");
 define("LAN_NEWS_14", "<br />Doba zobrazování:");
 define("LAN_NEWS_15", "Velikost:");
 define("LAN_NEWS_16", "Rozšířená délka:");
@@ -38,4 +38,5 @@ define("LAN_NEWS_100", "v");
 define("LAN_NEWS_307", "Počet příspěvků v této kategorii:");
 
 
-?>
+define("LAN_NEWS_463", "Neexistují žádné zprávy položky pro zadané kategorie - zkuste to prosím později.");
+define("LAN_NEWS_308", "Možná hledáte jednu z níže uvedených položek zprávy?");

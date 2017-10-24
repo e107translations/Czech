@@ -30,4 +30,3 @@ define("ADMSLAN_72", "Admin ID: – ID – název: – jméno – nová oprávn�
 define("ADMSLAN_73", "Admin ID: – ID – název: – jméno –");
 
 
-?>
