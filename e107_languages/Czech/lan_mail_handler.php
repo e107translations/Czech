@@ -1,11 +1,13 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Czech Language File
+|        e107 website system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:53:38
 |
+|        $URL: ../e107_languages/Czech/lan_mail_handler.php $
+|        $Revision: 0.8 $
+|        $Id: 2012/01/15 08:55:03 $
 |        $Author: Oxigen $
 +---------------------------------------------------------------+
 */
@@ -19,3 +21,4 @@ define("LANMAILH_6", "E-mailový server nenalezen.");
 define("LANMAILH_7", " se zdá být platná.");
 
 
+?>

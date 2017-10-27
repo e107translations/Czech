@@ -4,75 +4,80 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:44:41
+|        Last Modified: 2017/10/26 21:22:32
 |
-|        $Author: Oxygen $
+|        $URL: www.e107.funsite.cz $
+|        $Revision: 2.16 $
+|        $Id: 2017/10/26 21:22:32 $
+|        $Author: Oxigen O2 $
 +---------------------------------------------------------------+
 */
-define("COMLAN_0", "[blokováno adminem]");
+
+define("COMLAN_0", "[blokováno administrátorem]");
 define("COMLAN_1", "Odblokovat");
 define("COMLAN_2", "Blokovat");
-define("COMLAN_4", "Info");
+define("COMLAN_4", "Informace");
 define("COMLAN_5", "Komentáře ...");
 define("COMLAN_6", "Pro psaní komentářů musíte být přihlášen. Prosím přihlaste se, nebo se zaregistrujte");
 define("COMLAN_7", "Hlavní administrátor");
-define("COMLAN_8", "sekce");
+define("COMLAN_8", "Komentář");
 define("COMLAN_9", "Odeslat komentář");
 define("COMLAN_10", "Administrátor");
 define("COMLAN_11", "Nepodařilo se zapsat komentář do databáze - prosím přepište komentář a vynechte všechny nestandardní znaky.");
-define("COMLAN_12", "uživatel");
+define("COMLAN_12", "Uživatel");
 define("COMLAN_16", "Uživatel:");
-define("COMLAN_100", "nové");
-define("COMLAN_101", "anketa");
+define("COMLAN_100", "Novinky");
+define("COMLAN_101", "Anketa");
 define("COMLAN_102", "Odpověď na:");
-define("COMLAN_103", "jiné");
-define("COMLAN_104", "recenze");
-define("COMLAN_105", "Článek");
-define("COMLAN_106", "Stažení");
+define("COMLAN_103", "Článek");
+define("COMLAN_104", "Recenze");
+define("COMLAN_105", "Obsah");
+define("COMLAN_106", "Ke stažení");
 define("COMLAN_145", "Registrovaný:");
 define("COMLAN_194", "Host");
-define("COMLAN_195", "Uživatel");
-define("COMLAN_310", "Nemohu odeslat příspěvek, protože jméno je již registrované - pokud je vaše, přihlaste se prosím.");
+define("COMLAN_195", "Registrovaní uživatelé");
+define("COMLAN_310", "Nelze odeslat příspěvek, vaše jméno se shoduje s jiným registrovaným. Pokud je vaše, přihlaste se prosím.");
 define("COMLAN_312", "Duplicitní příspěvek - nemohu odeslat.");
 define("COMLAN_313", "Umístění");
-define("COMLAN_314", "moderovat komentáře");
+define("COMLAN_314", "Moderovat komentáře");
 define("COMLAN_315", "Zpětné odkazy");
 define("COMLAN_316", "Žádné zpětné odkazy pro tento příspěvek.");
 define("COMLAN_317", "Moderovat zpětné odkazy");
 define("COMLAN_318", "Editovat komentář");
-define("COMLAN_319", "Upraveno");
+define("COMLAN_319", "upraveno");
 define("COMLAN_320", "Upravit komentář");
 define("COMLAN_321", "zde");
 define("COMLAN_322", "pro přihlášení");
 define("COMLAN_323", "Chyba!");
-define("COMLAN_324", "Betrefft");
+define("COMLAN_324", "Předmět");
 define("COMLAN_325", "Re:");
 define("COMLAN_326", "Reagovat na příspěvek");
 define("COMLAN_328", "Komentáře jsou zamknuty");
 define("COMLAN_329", "Neautorizováno.");
 define("COMLAN_330", "IP:");
 define("COMLAN_331", "Komentář ještě nebyl schválen");
-define("COMLAN_332", "Nelze odstranit komentář");
-define("COMLAN_333", "Komentář schválen");
-define("COMLAN_334", "Nelze schválit komentář");
-define("COMLAN_335", "Schváleno");
-define("COMLAN_336", "Prosím, nejprve něco napište.");
-define("COMLAN_337", "Úspěšně aktualizováno.");
-define("COMLAN_400", "schváleno");
-define("COMLAN_401", "zablokovaný");
-define("COMLAN_402", "čeká na vyřízení");
-define("COMLAN_TYPE_1", "nové");
-define("COMLAN_TYPE_2", "Stažení");
-define("COMLAN_TYPE_3", "FAQ");
-define("COMLAN_TYPE_4", "anketa");
-define("COMLAN_TYPE_5", "Dokumenty");
-define("COMLAN_TYPE_6", "Sledování bugů");
-define("COMLAN_TYPE_7", "Nápadů");
-define("COMLAN_TYPE_8", "uživatelský profil");
-define("COMLAN_TYPE_PAGE", "Článek");
-
-
-define("COMLAN_403", "Zanechte vzkaz...");
+define("COMLAN_332", "Komentář nelze smazat");
+define("COMLAN_333", "Komentář byl schválen");
+define("COMLAN_334", "Komentář nelze schválit");
+define("COMLAN_335", "Schválený");
+define("COMLAN_336", "Napište prosím něco jako první.");
+define("COMLAN_337", "Aktualizace úspěšná.");
+define("COMLAN_400", "schválené");
+define("COMLAN_401", "blokované");
+define("COMLAN_402", "čekající");
+define("COMLAN_403", "Zanechat zprávu...");
 define("COMLAN_404", "Schválit");
-define("COMLAN_500", "Prosím [přihlásit] zanechat komentář.");
-define("COMLAN_501", "Pokud ještě nejste registrováni, můžete [klikněte zde pro registraci].");
+define("COMLAN_TYPE_1", "novinky");
+define("COMLAN_TYPE_2", "soubory ke stažení");
+define("COMLAN_TYPE_3", "FAQ (často kladené dotazy)");
+define("COMLAN_TYPE_4", "ankety");
+define("COMLAN_TYPE_5", "dokumenty");
+define("COMLAN_TYPE_6", "oznámení chyb");
+define("COMLAN_TYPE_7", "náměty");
+define("COMLAN_TYPE_8", "uživatelský profil");
+define("COMLAN_TYPE_PAGE", "obsah");
+define("COMLAN_500", "Prosím [sign in] pro vložení komentáře.");
+define("COMLAN_501", "Pokud ještě nejste registrován, [click here to register]");
+
+
+?>

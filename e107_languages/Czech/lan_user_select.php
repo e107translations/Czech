@@ -1,11 +1,13 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Czech Language File
+|        e107 website system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:56:35
 |
+|        $URL: ../e107_languages/Czech/lan_user_select.php $
+|        $Revision: 0.8 $
+|        $Id: 2012/01/15 09:01:38 $
 |        $Author: Oxigen $
 +---------------------------------------------------------------+
 */
@@ -15,6 +17,7 @@ define("US_LAN_2", "Vybrat uživatelskou skupinu");
 define("US_LAN_3", "Všichni uživatelé");
 define("US_LAN_4", "Hledat uživatelské jméno");
 define("US_LAN_5", "Nalezení uživatelé");
-define("US_LAN_6", "hledat");
+define("US_LAN_6", "Hledat");
 
 
+?>

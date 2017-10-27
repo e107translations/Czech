@@ -1,11 +1,13 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Czech Language File
+|        e107 website system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:56:03
 |
+|        $URL: ../e107_languages/Czech/lan_upload_handler.php $
+|        $Revision: 0.8 $
+|        $Id: 2012/01/15 09:01:01 $
 |        $Author: Oxigen $
 +---------------------------------------------------------------+
 */
@@ -21,6 +23,7 @@ define("LANUPLOAD_8", "Soubor nebyl nahrán.");
 define("LANUPLOAD_9", "Nahraný soubor neobsahuje žádná data.");
 define("LANUPLOAD_10", "Nahrávání souboru selhalo [shodný název] - soubor s tímto názvem už existuje.");
 define("LANUPLOAD_11", "Soubor nebyl nahrán. Název souboru:");
+define("LANUPLOAD_12", "Chyba");
 define("LANUPLOAD_13", "Chybí dočasná složka");
 define("LANUPLOAD_14", "Zápis souboru selhal");
 define("LANUPLOAD_15", "Nahrávání souborů není povoleno");
@@ -30,3 +33,4 @@ define("LANUPLOAD_18", "Nahrávaný soubor překračuje přípustné limity.");
 define("LANUPLOAD_19", "Bylo nahráno příliš mnoho souborů - nadbytek byl smazán.");
 
 
+?>

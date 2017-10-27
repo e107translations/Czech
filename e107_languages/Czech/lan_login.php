@@ -1,23 +1,24 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Czech Language File
+|        e107 website system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:53:33
 |
+|        $URL: ../e107_languages/Czech/lan_login.php $
+|        $Revision: 0.8 $
+|        $Id: 2012/01/15 08:54:56 $
 |        $Author: Oxigen $
 +---------------------------------------------------------------+
 */
-
-define("LAN_LOGIN_1", "Uživatelské jméno");
+define("LAN_LOGIN_1", "Jméno uživatele");
 define("LAN_LOGIN_2", "Heslo");
 define("LAN_LOGIN_3", "Chráněný server");
-define("LAN_LOGIN_4", "Přihlaste se prosím");
+define("LAN_LOGIN_4", "Pro pokračování prosím zadejte své přihlašovací údaje");
 define("LAN_LOGIN_5", "Klikněte zde pro zaregistrování.");
 define("LAN_LOGIN_6", "V tuto chvílí nepřijímáme nové uživatele");
-define("LAN_LOGIN_7", "Vložit kód");
-define("LAN_LOGIN_8", "Zapamatuj si mně");
+define("LAN_LOGIN_7", "Zadejte viditelný kód");
+define("LAN_LOGIN_8", "Pamatovat si mě");
 define("LAN_LOGIN_9", "Přihlásit");
 define("LAN_LOGIN_10", "Klikněte pro přihlášení");
 define("LAN_LOGIN_11", "Registrovat se jako nový uživatel");
@@ -27,23 +28,24 @@ define("LAN_LOGIN_14", "Uživatel se pokusil přihlásit nerozpoznaným uživate
 define("LAN_LOGIN_15", "Uživatel se pokusil přihlásit nerozpoznaným uživatelským heslem");
 define("LAN_LOGIN_16", "Uživatel se pokusil přihlásit údaji, které byly právě používané");
 define("LAN_LOGIN_17", "Uživatelské heslo (hash)");
-define("LAN_LOGIN_18", "Auto zákaz: více než [x] neúspěšných pokusů o přihlášení");
+define("LAN_LOGIN_18", "Automatický ban: Více než [x] neúspěšných pokusů o přihlášení");
 define("LAN_LOGIN_19", "> 10 neúspěšných pokusů o přihlášení");
-define("LAN_LOGIN_20", "Nechali jste povinné pole prázdné.");
-define("LAN_LOGIN_21", "Nesprávná přihlášení. Zadaná data neodpovídají registrovanému uživateli. Zkontrolujte, zda je klávesa CAPS-LOCK aktivován jako přihlášení na této stránce jsou malá a velká písmena");
-define("LAN_LOGIN_22", "Neaktivovali jste svůj účet. Byste měli obdržet e-mail s pokyny, jak potvrdit váš účet. Pokud tomu tak není, klepněte na tlačítko [zde].");
-define("LAN_LOGIN_23", "Zadaný kód nesouhlasí.");
-define("LAN_LOGIN_24", "Toto přihlašovací jméno/heslo je již zaregistrováno.");
-define("LAN_LOGIN_25", "Zakázán uživatel se pokusil o přihlášení");
-define("LAN_LOGIN_26", "Selhání přihlášení - důvod neznámý");
-define("LAN_LOGIN_27", "Uživatel se pokusil přihlásit před reagovat na potvrzovací e-mail");
-define("LAN_LOGIN_28", "e-mail");
-define("LAN_LOGIN_29", "Uživatelské jméno nebo e-mail");
-define("LAN_LOGIN_30", "Chyba při přidávání nového uživatele alt_auth dB");
-define("LAN_LOGIN_31", "Vaše pověření nelze přidat do systému");
+define("LAN_LOGIN_20", "Ponechali jste prázdné povinné pole");
+define("LAN_LOGIN_21", "Nesprávné uživatelské jméno. Zadané údaje neodpovídají pro registrovaného uživatele. Zkontrolujte, zda nemáte aktivní CAPS-LOCK, informace pro přihlášení jsou citlivá na malá a velká písmena");
+define("LAN_LOGIN_22", "Dosud jste neaktivovali svůj účet. Měli jste obdrželi e-mail s pokyny, jak aktivovat váš účet. Pokud ne, klikněte [here].");
+define("LAN_LOGIN_23", "Zadán neplatný kód.");
+define("LAN_LOGIN_24", "Tato kombinace uživatelského jméno / hesla je již používána.");
+define("LAN_LOGIN_25", "Blokovaný uživatel se pokusil o přihlášení");
+define("LAN_LOGIN_26", "Přihlášení se nezdařilo - z neznámého důvodu");
+define("LAN_LOGIN_27", "Uživatel se pokusil přihlásit, než reagovat na potvrzovací e-mail");
+define("LAN_LOGIN_28", "Email");
+define("LAN_LOGIN_29", "Uživatelské jméno nebo Email");
+define("LAN_LOGIN_30", "Chyba při přidávání nového uživatele do DB alt_auth");
+define("LAN_LOGIN_31", "Vaše údaje nemohly být přidány do systému");
+define("LAN_LOGIN_32", "Vidíte tuto zprávu, protože jste přihlášeni jako hlavní administrátor.");
+define("LAN_LOGIN_33", "[Návrat na úvodní stránku]");
+define("LAN_LOGIN_34", "Možnost registrace uživatele nebo přihlášení je momentálně vypnuta.");
+define("LAN_LOGIN_35", "[Povolit]");
 
 
-define("LAN_LOGIN_32", "Tato zpráva se zobrazuje, protože jste aktuálně přihlášeni jako hlavní správce.");
-define("LAN_LOGIN_33", "[Návrat na domovskou stránku]");
-define("LAN_LOGIN_34", "Registrace uživatelů a přihlášení je v současné době zakázán.");
-define("LAN_LOGIN_35", "[Enable]");
+?>
