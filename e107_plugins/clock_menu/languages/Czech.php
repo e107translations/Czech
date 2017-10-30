@@ -4,16 +4,19 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:10:26
+|        Last Modified: 2017/10/30 13:58:35
 |
-|        $Author: Oxigen $
+|        $URL: www.e107.funsite.cz $
+|        $Revision: 2.16 $
+|        $Id: 2017/10/30 13:58:35 $
+|        $Author: Oxigen O2 $
 +---------------------------------------------------------------+
 */
 
-define("CLOCK_MENU_L1", "Nastavení menu hodin uloženo");
-define("CLOCK_MENU_L2", "Záhlaví");
-define("CLOCK_MENU_L3", "Uložit nastavení");
-define("CLOCK_MENU_L4", "Nastavení menu hodin");
+define("CLOCK_MENU_L1", "Konfigurace menu hodin byla uložena");
+define("CLOCK_MENU_L2", "Titulek");
+define("CLOCK_MENU_L3", "Nastavení menu aktualizováno");
+define("CLOCK_MENU_L4", "Nastavení menu hodiny");
 define("CLOCK_MENU_L5", "Pondělí,");
 define("CLOCK_MENU_L6", "Úterý,");
 define("CLOCK_MENU_L7", "Středa,");
