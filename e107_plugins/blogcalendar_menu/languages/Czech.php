@@ -4,18 +4,22 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:09:43
+|        Last Modified: 2017/10/30 13:10:13
 |
-|        $Author: Oxigen $
+|        $URL: www.e107.funsite.cz $
+|        $Revision: 2.16 $
+|        $Id: 2017/10/30 13:10:13 $
+|        $Author: Oxigen O2 $
 +---------------------------------------------------------------+
 */
 
-define("BLOGCAL_L1", "Novinky za měsíc");
-define("BLOGCAL_L2", "archiv");
-define("BLOGCAL_1", "novinek");
-define("BLOGCAL_CONF1", "Měsíce/řádek");
-define("BLOGCAL_CONF2", "Odsazení obsahu buněk");
-define("BLOGCAL_CONF4", "BlogCal Menu konfigurace");
-define("BLOGCAL_ARCHIV1", "Vyberte archiv");
+define("BLOGCAL_L1", "Novinky pro");
+define("BLOGCAL_L2", "Archiv");
+define("BLOGCAL_1", "Novinky");
+define("BLOGCAL_CONF1", "Měsíce/řada");
+define("BLOGCAL_CONF2", "Vnitřní okraj");
+define("BLOGCAL_CONF4", "Nastavení BlogCal Menu");
+define("BLOGCAL_ARCHIV1", "Vybrat archiv");
 
 
+?>
