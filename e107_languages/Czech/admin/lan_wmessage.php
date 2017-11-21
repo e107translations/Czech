@@ -4,22 +4,19 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:07:42
+|        Last Modified: 2017/11/21 22:17:13
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 22:17:13 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
 define("WMLAN_00", "Uvítací zprávy");
-// define("WMLAN_02", "Zpráva");
-// define("WMLAN_04", "Text zprávy");
 define("WMLAN_05", "Orámovat");
-define("WMLAN_06", "Pokud je povoleno, zpráva bude vykreslen uvnitř krabice");
+define("WMLAN_06", "Při zaškrtnutí se budou zprávy zobrazovat orámované");
 define("WMLAN_07", "Obejít standardní systém, aby použil {WMESSAGE} zkrácený kód:");
-// define("WMLAN_09", "Žádná uvítací zpráva ještě nebyla vytvořena");
-// define("WMLAN_10", "Označení zprávy");
-
-
-define("WMLAN_11", "Uzavřené s rotujícím");
-define("WMLAN_12", "Uvítací zpráva Nápověda");
-define("WMLAN_13", "Tato stránka umožňuje nastavit zprávu, která se zobrazí v horní části přední stránky všech dob, je aktivováno. Pro hosty, registrované/přihlášení členové a správce můžete nastavit jinou zprávu.");
+define("WMLAN_11", "Uzavřeno s Carousel");
+define("WMLAN_12", "Nápověda uvítací zprávy");
+define("WMLAN_13", "Tato stránka vám umožňuje nastavit zprávu, která se bude zobrazovat v horní části vaší první stránky po celou dobu, kdy je aktivována. Můžete nastavit jinou zprávu pro hosty, registrované / přihlášené uživatele a administrátory.");

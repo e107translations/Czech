@@ -4,16 +4,18 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:01:45
+|        Last Modified: 2017/11/21 20:34:16
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 20:34:16 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-define("LAN_HEADER_01", "Navigace administrátora");
-define("LAN_HEADER_02", "Váš server neumožňuje odesílání souborů HTTP, takže to nebude možné, aby uživatelé nahrát avatary/soubory atd. K nápravě této sady file_uploads na na ve vašem php.ini a restartovat server. Pokud nemáte přístup k php.ini kontaktu svého hostitele.");
-define("LAN_HEADER_03", "Server má nastavené restrikce basedir, což znamená, že nelze použít žádný soubor mimo základní adresář webu a může ovlivnit chování některých skriptů, např. správce souborů e107.");
-define("LAN_HEADER_04", "Administrace");
-define("LAN_HEADER_05", "jazyk zobrazen v oblasti admin");
-define("LAN_HEADER_06", "Informace o doplňcích");
 
-
+define("LAN_HEADER_01", "Administrace");
+define("LAN_HEADER_02", "Váš server nepovoluje nahrávání souborů HTTP, takže uživatelé nebudou moci nahrát avatary / soubory. Chcete-li tento stav odebrat, povolte volbu file_uploads v php.ini a restartujte server. Pokud nemáte oprávnění k přístupu na php.ini, obraťte se na správce serveru.");
+define("LAN_HEADER_03", "Váš server běží s omezením basedir. To znemožní použití libovolného souboru mimo domovský adresář a jako takový by mohl ovlivnit určité skripty, jako je filemanager.");
+define("LAN_HEADER_04", "Administrační oblast");
+define("LAN_HEADER_05", "jazyk zobrazený v administrátorské oblasti");
+define("LAN_HEADER_06", "Doplňky");
