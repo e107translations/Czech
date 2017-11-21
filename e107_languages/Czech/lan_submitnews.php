@@ -4,33 +4,31 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:55:40
+|        Last Modified: 2017/11/21 17:52:09
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:52:09 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Odeslat novinku");
-// define("LAN_7", "Název:");
-// define("LAN_112", "E-mailová adresa:");
-// define("LAN_133", "Děkujeme");
+
+define("PAGE_NAME", "Zaslat novinku");
 define("LAN_134", "Vše bylo odesláno a během krátké doby bude zkontrolováno administrátorem webu.");
 define("LAN_135", "Novinka:");
 define("LAN_136", "Odeslat novinku");
-// define("NWSLAN_6", "Kategorie");
 define("NWSLAN_10", "Kategorie novinek nejsou definované");
-define("SUBNEWSLAN_1", "Je nutné zahrnout title.\\n");
-define("SUBNEWSLAN_2", "Musí obsahovat nějaký text zprávy položku. \\n");
+define("NWSLAN_11", "Do této části nemáte přístup!");
+define("NWSLAN_12", "Přístup zamítnut!");
+define("SUBNEWSLAN_1", "Musíte zadat název.\\n");
+define("SUBNEWSLAN_2", "Musíte do těla novinky vložit text.\\n");
 define("SUBNEWSLAN_3", "Přílohou může být pouze jpg, png nebo gif soubor (obrázek)");
 define("SUBNEWSLAN_4", "Soubor je příliš velký");
 define("SUBNEWSLAN_5", "Obrázkový soubor");
 define("SUBNEWSLAN_6", "(jpg, gif nebo png)");
 define("SUBNEWSLAN_7", "Musíte uvést své jméno a e-mailovou adresu");
 define("SUBNEWSLAN_8", "Chyba při nahrávání obrázku");
-
-
-define("NWSLAN_11", "Nemáte přístup k této oblasti nebo momentálně nejste přihlášen(a).");
-define("NWSLAN_12", "Přístup byl odepřen.");
 define("SUBNEWSLAN_9", "Klíčová slova");
 define("SUBNEWSLAN_11", "Meta popis");
-define("SUBNEWSLAN_12", "Používá Facebook atd.");
-define("SUBNEWSLAN_13", "Media adresy URL");
+define("SUBNEWSLAN_12", "Používá se ve Facebooku atd.");
+define("SUBNEWSLAN_13", "URL adresy médií");

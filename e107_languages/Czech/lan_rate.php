@@ -1,24 +1,32 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:46:06
+|
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:46:06 $
+|        $Author: OxigenO2 $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("RATELAN_0", "Hlasování");
-define("RATELAN_1", "Hlasy");
-define("RATELAN_2", "Jak hodnotíte tuto položku?");
-define("RATELAN_3", "Díky za hlasování!");
-define("RATELAN_4", "Bez hodnocení");
-define("RATELAN_5", "Ohodnoťte tento:");
-define("RATELAN_6", "Prosím, přihlásit se a ohodnotit.");
-define("RATELAN_POOR", "Špatná");
-define("RATELAN_FAIR", "Veletrh");
-define("RATELAN_GOOD", "Dobré");
-define("RATELAN_VERYGOOD", "Velmi dobře");
+define("RATELAN_0", "hlas");
+define("RATELAN_1", "hlasů");
+define("RATELAN_2", "jak hodnotíte tuto položku?");
+define("RATELAN_3", "děkujeme za váš hlas");
+define("RATELAN_4", "nehodnoceno");
+define("RATELAN_5", "Hodnotit");
+define("RATELAN_6", "Pro hodnocení musíte být přihlášeny.");
+define("RATELAN_7", "Líbí se mě");
+define("RATELAN_8", "Nelíbí se mě");
+define("RATELAN_9", "Už jste hlasovali");
+define("RATELAN_10", "V hodnocení neexistuje ID položky");
+define("RATELAN_11", "Hodnocení se nezdařilo");
+define("RATELAN_POOR", "Špatný");
+define("RATELAN_FAIR", "Slušný");
+define("RATELAN_GOOD", "Dobrý");
+define("RATELAN_VERYGOOD", "Velice dobrý");
 define("RATELAN_EXCELLENT", "Vynikající");
-
-define("RATELAN_7", "Jako");
-define("RATELAN_8", "Nelíbí se mi");
-define("RATELAN_9", "Jste na Pražském hradě");
-define("RATELAN_10", "Neexistuje žádné ID položky v hodnocení");
-define("RATELAN_11", "Hodnocení selhala");

@@ -1,25 +1,34 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:27:21
+|
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:27:21 $
+|        $Author: OxigenO2 $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LAN_LIBRARY_MANAGER_01", "Knihovně [x] [y] knihovny závisí na, není nainstalován.");
-define("LAN_LIBRARY_MANAGER_02", "Verze [x] [y] knihovny není kompatibilní s knihovnou, [z].");
-define("LAN_LIBRARY_MANAGER_03", "[X] knihovna nebyl nalezen.");
-define("LAN_LIBRARY_MANAGER_04", "Nelze zjistit verzi knihovny [x].");
-define("LAN_LIBRARY_MANAGER_05", "Nainstalovaná verze [x] [y] knihovny není podporována.");
-define("LAN_LIBRARY_MANAGER_06", "Varianta [x] [y] knihovny nelze nalézt.");
+define("LAN_LIBRARY_MANAGER_01", "Knihovna [x] na které závisí knihovna [y] není nainstalována.");
+define("LAN_LIBRARY_MANAGER_02", "Verze [x] knihovny [y] není kompatibilní s knihovnou [z].");
+define("LAN_LIBRARY_MANAGER_03", "Knihovna [x] nebyla nalezena.");
+define("LAN_LIBRARY_MANAGER_04", "Verze knihovny [x] nebyla zjištěna.");
+define("LAN_LIBRARY_MANAGER_05", "Instalovaná verze [x] knihovny [y] není podporována.");
+define("LAN_LIBRARY_MANAGER_06", "Varianta [x] knihovny [y] nebyla nalezena.");
 define("LAN_LIBRARY_MANAGER_07", "chybějící závislost");
 define("LAN_LIBRARY_MANAGER_08", "nekompatibilní závislost");
-define("LAN_LIBRARY_MANAGER_10", "nebyl zjištěn");
+define("LAN_LIBRARY_MANAGER_10", "není detekováno");
 define("LAN_LIBRARY_MANAGER_11", "není podporováno");
 define("LAN_LIBRARY_MANAGER_13", "Knihovna");
 define("LAN_LIBRARY_MANAGER_21", "Poskytovatel");
 define("LAN_LIBRARY_MANAGER_25", "Knihovny třetích stran");
-define("LAN_LIBRARY_MANAGER_27", "Název počítače: [x]");
-define("LAN_LIBRARY_MANAGER_28", "Cesta knihovny: [x]");
-define("LAN_LIBRARY_MANAGER_29", "Cesta knihovny");
+define("LAN_LIBRARY_MANAGER_27", "Název stroje: [x]");
+define("LAN_LIBRARY_MANAGER_28", "Knihovna cesta: [x]");
+define("LAN_LIBRARY_MANAGER_29", "Knihovna cesta");
 define("LAN_LIBRARY_MANAGER_30", "Nastavení CDN");
-define("LAN_LIBRARY_MANAGER_31", "Použití CDN pro základní knihovny");
-define("LAN_LIBRARY_MANAGER_32", "CDN poskytovatele");
+define("LAN_LIBRARY_MANAGER_31", "Použít CDN knihovny pro jádro");
+define("LAN_LIBRARY_MANAGER_32", "CDN poskytovatel");

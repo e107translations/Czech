@@ -4,20 +4,15 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:54:38
+|        Last Modified: 2017/11/21 17:45:00
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:45:00 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-// define("LAN_PRINT_86", "Kategorie:");
-// define("LAN_PRINT_87", "autor:");
-// define("LAN_PRINT_94", "Napsal");
-// define("LAN_PRINT_135", "Novinka:");
 define("LAN_PRINT_303", "Tato novinka je z -");
-// define("LAN_PRINT_305", "Podnadpis:");
-// define("LAN_PRINT_306", "Tato je z:");
-define("LAN_PRINT_307", "Tisknout stránku");
+define("LAN_PRINT_307", "Vytisknout tuto stranu");
 define("LAN_PRINT_1", "Tisknout");
-
-
