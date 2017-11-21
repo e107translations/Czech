@@ -4,50 +4,40 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:09:22
+|        Last Modified: 2017/11/21 23:09:03
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 23:09:03 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("BNRLAN_00", "Žádné nápisy, dosud nebyl vytvořen.");
-define("BNRLAN_01", "Banner ID nebylo nalezeno.");
-// define("BNRLAN_7", "Statistiky");
-// define("BNRLAN_8", "Nedostupné");
-// define("BNRLAN_9", "Začíná");
-// define("BNRLAN_10", "Končí");
+define("BNRLAN_00", "Zatím nebyl vytvořen žádný reklamní bannery.");
+define("BNRLAN_01", "ID reklamního banneru nenalezeno.");
 define("BNRLAN_11", "Kampaň");
-define("BNRLAN_12", "Přihlašovaní jméno klienta");
-// define("BNRLAN_13", "Heslo klienta");
-// define("BNRLAN_14", "Obrázek banneru");
-define("BNRLAN_15", "URL kliku");
-define("BNRLAN_16", "Počet zobrazení zakoupené");
-// define("BNRLAN_17", "Datum zveřejnění");
-// define("BNRLAN_18", "Datum ukončení");
-define("BNRLAN_25", "Přidejte nové nebo zvolit existující kampaň");
-define("BNRLAN_28", "Přidejte nové nebo zvolit existující klient");
-define("BNRLAN_29", "přidat nového klienta");
-// define("BNRLAN_30", "Nový klient");
-define("BNRLAN_31", "Žádné omezení při prázdné.");
-define("BNRLAN_32", "Vybrat obrázek banneru");
+define("BNRLAN_12", "Jméno klienta");
+define("BNRLAN_15", "URL adresa");
+define("BNRLAN_16", "Počet zakoupených zobrazení");
+define("BNRLAN_25", "Přidat novou nebo vybrat existující kampaň");
+define("BNRLAN_28", "Přidat nového nebo vybrat existující klienta");
+define("BNRLAN_29", "Zadejte nového klienta");
+define("BNRLAN_31", "Bez omezení, pokud není ponecháno prázdné.");
+define("BNRLAN_32", "Vyberte obrázek banneru");
 define("BNRLAN_33", "Kód");
-define("BNRLAN_35", "Reklamní menu");
-// define("BNRLAN_36", "Nastavení Banner Menu");
-// define("BNRLAN_37", "Záhlaví");
+define("BNRLAN_35", "Reklamní menu s bannery");
 define("BNRLAN_38", "Reklama");
-define("BNRLAN_39", "Kampaně, které zobrazovat v menu");
+define("BNRLAN_39", "Kampaně, které se mají zobrazit v menu");
 define("BNRLAN_40", "Zatím žádné kampaně.");
-define("BNRLAN_41", "Počet bannerů Ukázat");
-define("BNRLAN_42", "Používá se pouze pokud je vybráno více kampaní.");
-define("BNRLAN_43", "Jak ukazují kampaně?");
-define("BNRLAN_44", "vyberte typ vykreslení ...");
-define("BNRLAN_45", "Jedna kampaň v jednotné menu");
-define("BNRLAN_46", "Všechny vybrané kampaně v jedné jediné menu");
-define("BNRLAN_47", "Všechny vybrané kampaně v samostatném menu");
-define("BNRLAN_48", "Všechny vybrané kampaně (žádné pole vykreslení)");
-
-
-define("BNRLAN_50", "Místní");
+define("BNRLAN_41", "Počet bannerů pro zobrazení");
+define("BNRLAN_42", "To se používá pouze tehdy, když je vybráno více kampaní.");
+define("BNRLAN_43", "Jak zobrazit kampaně?");
+define("BNRLAN_44", "Zvolit typ vykreslení ...");
+define("BNRLAN_45", "Jedna kampaň v na jedno menu");
+define("BNRLAN_46", "Všechny vybrané kampaně v jediném menu");
+define("BNRLAN_47", "Všechny vybrané kampaně v samostaných menu");
+define("BNRLAN_48", "Všechny vybrané kampaně (žádné vykreslování boxu)");
+define("BNRLAN_50", "Lokální");
 define("BNRLAN_51", "Vzdálený");
-define("BNRLAN_HELP_01", "Nápověda k nápisu");
-define("BNRLAN_HELP_02", "Tento modul umožňuje spravovat reklamy na vašem webu.<br><br>Vytváříte-li nový banner můžete vytvořit uživatelské jméno a heslo pro váš klient přihlásit a zkontrolovat průběh kampaně.<br><br>Můžete povolit nápis menu pomocí menu správce a provést další konfiguraci odtamtud.");
+define("BNRLAN_HELP_01", "Nápověda");
+define("BNRLAN_HELP_02", "Tento doplněk dovoluje spravovat reklamu na vašich webových stránkách. <br /> <br/> Při vytváření nového reklamního baneru můžete pro přihlášení klienta vytvořit uživatelské jméno a heslo a kontrolovat průběh celé kampaně. <br/> <br/> Reklamu můžete aktivovat pomocí správce nabídek a tam můžete provádět další konfiguraci.");
