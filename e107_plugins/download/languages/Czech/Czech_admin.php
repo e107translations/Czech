@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/28 11:54:09
+|        Last Modified: 2017/11/21 23:19:05
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/28 11:54:09 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 23:19:05 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
@@ -27,9 +27,9 @@ define("LAN_DL_SUBSUB_COUNT_INFO", "Zahrnout dílčí sub-kategorie počty v pod
 define("DOWLAN_1", "Soubor ke stažení byl přidán do databáze.");
 define("DOWLAN_2", "Soubor byl upraven v databázi.");
 define("DOWLAN_5", "Ještě nejsou nastavené žádné kategorie pro soubory ke stažení. Dokud nějakou kategorii nevytvoříte, nejde vložit souboru ke stažení.");
-define("DOWLAN_8", "Nic se nezměnilo - není uloženo");
-define("DOWLAN_9", "Stáhněte si podrobnosti:");
-define("DOWLAN_10", "Odesílání");
+define("DOWLAN_8", "Nic se nezměnilo - neuloženo");
+define("DOWLAN_9", "Podrobnosti:");
+define("DOWLAN_10", "Nahrání");
 define("DOWLAN_11", "Kategorie");
 define("DOWLAN_12", "Jméno");
 define("DOWLAN_13", "Soubor");
@@ -38,7 +38,7 @@ define("DOWLAN_16", "Email autora");
 define("DOWLAN_17", "Web autora");
 define("DOWLAN_18", "Popis");
 define("DOWLAN_19", "Hlavní obrázek");
-define("DOWLAN_20", "Zmenšený obrázek");
+define("DOWLAN_20", "Miniatura");
 define("DOWLAN_21", "Stav");
 define("DOWLAN_22", "Seznam souborů");
 define("DOWLAN_23", "Typy souborů");
@@ -47,7 +47,7 @@ define("DOWLAN_25", "Odeslat soubor ke stažení");
 define("DOWLAN_27", "Stažení");
 define("DOWLAN_29", "Hlavní stránka souborů ke stažení");
 define("DOWLAN_31", "Kategorie");
-define("DOWLAN_32", "Možnosti stahování");
+define("DOWLAN_32", "Stahování");
 define("DOWLAN_33", "Určitě, chcete smazat tento záznam?");
 define("DOWLAN_42", "Ukaž obrázky");
 define("DOWLAN_43", "Viditelné pro");
@@ -150,6 +150,3 @@ define("DOWLAN_HELP_7", "Nápověda pro zrcadlo");
 define("DOWLAN_HELP_8", "Nápověda k nahrání seznamu");
 define("DOWLAN_HELP_9", "Nápověda k nahratí typů");
 define("DOWLAN_HELP_10", "Nápovědu k možnosti nahrávání");
-
-
-?>
