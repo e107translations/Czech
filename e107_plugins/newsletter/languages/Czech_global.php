@@ -4,12 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:24:21
+|        Last Modified: 2017/11/22 03:51:43
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/22 03:51:43 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_NEWSLETTER_NAME", "Novinky");
-define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Provides a quick and easy way to configure and send newsletters.");
 
-
+define("LAN_PLUGIN_NEWSLETTER_NAME", "Zpravodaj");
+define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Nabízí rychlý a snadný způsob, jak konfigurovat a posílat zpravodaje.");

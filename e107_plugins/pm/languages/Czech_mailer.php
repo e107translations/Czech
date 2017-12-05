@@ -4,18 +4,15 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:26:02
+|        Last Modified: 2017/11/22 03:39:43
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/22 03:39:43 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("LAN_EC_PM_01", "");
-define("LAN_EC_PM_02", "");
-define("LAN_EC_PM_03", "");
-define("LAN_EC_PM_04", "Obslužná rutina PM");
-define("LAN_EC_PM_05", "Procesů velkých posílá PMS");
-define("LAN_EC_PM_06", "Zahájení hromadné PM zpracování – NUM – příjemců");
-define("LAN_EC_PM_07", "");
-
-
+define("LAN_EC_PM_04", "PM Handler");
+define("LAN_EC_PM_05", "Zpracování velkých soukromých zpráv");
+define("LAN_EC_PM_06", "Spuštění hromadného zpracování SZ pro [y] příjemců");
