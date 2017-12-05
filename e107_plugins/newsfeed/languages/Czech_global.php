@@ -4,12 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:23:11
+|        Last Modified: 2017/12/05 20:28:17
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/12/05 20:28:17 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_PLUGIN_NEWSFEEDS_NAME", "RSS novinek");
-define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Tento plugin bude načítat rss kanály z jiných webových stránek a jejich zobrazení podle vašich preferencí.");
-
-
+define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Tento doplněk vybere rss novinky z jiných internetových stránek a zobrazí je podle vašich nastavení.");
