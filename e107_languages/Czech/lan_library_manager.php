@@ -4,8 +4,11 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/08 10:58:02
+|        Last Modified: 2017/11/21 17:27:21
 |
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:27:21 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -29,6 +32,3 @@ define("LAN_LIBRARY_MANAGER_29", "Knihovna cesta");
 define("LAN_LIBRARY_MANAGER_30", "Nastavení CDN");
 define("LAN_LIBRARY_MANAGER_31", "Použít CDN knihovny pro jádro");
 define("LAN_LIBRARY_MANAGER_32", "CDN poskytovatel");
-
-
-?>

@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/30 14:55:35
+|        Last Modified: 2017/11/21 23:22:55
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/30 14:55:35 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 23:22:55 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
@@ -21,6 +21,3 @@ define("FBLAN_INSTALL_02", "Přidání výchozích hodnot.");
 define("FBLAN_INSTALL_03", "Nepřiřazené");
 define("FBLAN_INSTALL_04", "Carousel");
 define("FBLAN_INSTALL_05", "Tabulátory");
-
-
-?>

@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/26 21:31:00
+|        Last Modified: 2017/11/21 17:21:44
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/26 21:31:00 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:21:44 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
@@ -29,6 +29,3 @@ define("LAN_EFORM_013", "přejít na seznam");
 define("LAN_EFORM_014", "vytvořit další");
 define("LAN_EFORM_015", "upravit stávající");
 define("LAN_EFORM_016", "Po odeslání:");
-
-
-?>

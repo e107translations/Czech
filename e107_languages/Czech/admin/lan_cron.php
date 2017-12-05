@@ -4,75 +4,72 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:59:09
+|        Last Modified: 2017/11/21 20:14:30
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 20:14:30 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("LAN_CRON_M_02", "Aktualizovat");
+define("LAN_CRON_M_02", "Obnovit");
 define("LAN_CRON_2", "Funkce");
-define("LAN_CRON_3", "Záložka");
-define("LAN_CRON_4", "Poslední spuštění");
-define("LAN_CRON_01_1", "Test e-mailu");
-define("LAN_CRON_01_2", "Odeslat zkušební e-mail [eml].");
-define("LAN_CRON_01_3", "Doporučujeme vyzkoušet systém plánování.");
-define("LAN_CRON_02_1", "Fronty pošty");
-define("LAN_CRON_02_2", "Fronty pošty proces.");
-define("LAN_CRON_03_1", "Kontrola pošty Bounce");
-define("LAN_CRON_03_2", "Kontrola na odrážení e-maily.");
-define("LAN_CRON_04_1", "Zákaz Retrigger kontrola");
-define("LAN_CRON_04_2", "Proces retriggers odraz.");
-define("LAN_CRON_04_3", "Zapotřebí pouze je-li to spíná zákazů povolena.");
-define("LAN_CRON_05_1", "Zálohování databáze");
-define("LAN_CRON_05_2", "Zálohovat databázi systému do");
-define("LAN_CRON_6", "Nemohu importovat Prefs");
-define("LAN_CRON_7", "Nemohu importovat nastavení časování");
-define("LAN_CRON_8", "Importované načasování nastavení pro");
-define("LAN_CRON_9", "[x] a [y] sekundami.");
-define("LAN_CRON_10", "[y] sekundami.");
-define("LAN_CRON_11", "Aktivní Crony");
-define("LAN_CRON_12", "Poslední aktualizace cron");
-define("LAN_CRON_13", "Prosím, ujistěte se, že je spustitelný soubor cron.php.");
-define("LAN_CRON_14", "Prosím /cron.php CHMOD 755.");
-define("LAN_CRON_15", "Pomocí příkazu následující Cron");
-define("LAN_CRON_16", "Pomocí ovládacího panelu serveru (např. cPanel DirectAdmin, Plesk atd) vytvořte crontab tento příkaz Spustit na vašem serveru každou minutu.");
-define("LAN_CRON_20_1", "Kontrola aktualizace e107");
-define("LAN_CRON_20_2", "Zkontrolovat e107.org pro jádro aktualizace");
-define("LAN_CRON_20_3", "Doporučuje, aby byl systém aktuální.");
-define("LAN_CRON_20_4", "Aktualizovat Tento repozitář");
-define("LAN_CRON_20_5", "Aktualizujte tuto e107 instalaci nejnovější soubory od github.");
-define("LAN_CRON_20_6", "Doporučeno pouze pro vývojáře.");
-// define("LAN_CRON_20_7", "Varování!");
-define("LAN_CRON_20_8", "Může způsobit nestabilitu serveru!");
+define("LAN_CRON_3", "Info");
+define("LAN_CRON_4", "Poslední akce");
+define("LAN_CRON_01_1", "Testovací email");
+define("LAN_CRON_01_2", "Poslat zkušební email na [eml].");
+define("LAN_CRON_01_3", "Doporučujeme otestovat plánovací systém.");
+define("LAN_CRON_02_1", "Fronta zpráv");
+define("LAN_CRON_02_2", "Zpracování zpráv ve frontě");
+define("LAN_CRON_03_1", "Kontrola odražené pošty");
+define("LAN_CRON_03_2", "Zkontrolujte odrážené emaily.");
+define("LAN_CRON_04_1", "Zakázané kontroly restartu");
+define("LAN_CRON_04_2", "Postup zpětného restartování");
+define("LAN_CRON_04_3", "Požadováno pouze v případě, že je povoleno restartování");
+define("LAN_CRON_05_1", "Záloha databáze");
+define("LAN_CRON_05_2", "Zálohujte systémovou databázi do");
+define("LAN_CRON_6", "Nelze importovat předvolby");
+define("LAN_CRON_7", "Nelze importovat nastavení času");
+define("LAN_CRON_8", "Nastavení importovaného času pro toto nastavení");
+define("LAN_CRON_9", "[x] minut, [y] sekund.");
+define("LAN_CRON_10", "před [y] vteřinami.");
+define("LAN_CRON_11", "Aktivní úkoly");
+define("LAN_CRON_12", "Poslední obnovení jádra");
+define("LAN_CRON_13", "Ujistěte se, že cron.php je spustitelný.");
+define("LAN_CRON_14", "Prosím CHMOD /cron.php na 755.");
+define("LAN_CRON_15", "Použijte následující příkaz jádra");
+define("LAN_CRON_16", "Pomocí ovládacího panelu serveru (např. CPanel, DirectAdmin, Plesk atd.) Vytvořte crontab pro spuštění tohoto příkazu na vašem serveru každou minutu.");
+define("LAN_CRON_20_1", "Zkontrolujte aktualizaci e107");
+define("LAN_CRON_20_2", "Zkontrolujte e107.org pro základní aktualizace");
+define("LAN_CRON_20_3", "Doporučujeme aktualizovat systém.");
+define("LAN_CRON_20_4", "Aktualizace z úložiště Git");
+define("LAN_CRON_20_5", "Aktualizujte e107 s nejnovějšími soubory z github");
+define("LAN_CRON_20_6", "Doporučeno pouze pro vývojáře");
+define("LAN_CRON_20_8", "Může to způsobit nestabilitu systému!");
 define("LAN_CRON_30", "Každou minutu");
-define("LAN_CRON_31", "Každou minutu");
+define("LAN_CRON_31", "Každou druhou minutu");
 define("LAN_CRON_32", "Každých 5 minut");
 define("LAN_CRON_33", "Každých 10 minut");
 define("LAN_CRON_34", "Každých 15 minut");
 define("LAN_CRON_35", "Každých 30 minut");
 define("LAN_CRON_36", "Každou hodinu");
-define("LAN_CRON_37", "Každou hodinu");
+define("LAN_CRON_37", "Každou druhou hodinu");
 define("LAN_CRON_38", "Každé 3 hodiny");
 define("LAN_CRON_39", "Každých 6 hodin");
 define("LAN_CRON_40", "Každý den");
 define("LAN_CRON_41", "Každý měsíc");
-define("LAN_CRON_42", "Každý den v týdnu");
-define("LAN_CRON_50", "Minut:");
-define("LAN_CRON_51", "Hod:");
-define("LAN_CRON_52", "Dny:");
-define("LAN_CRON_53", "Měsíce:");
-define("LAN_CRON_54", "Weekday(s):");
+define("LAN_CRON_42", "Každý den");
+define("LAN_CRON_50", "Minuta");
+define("LAN_CRON_51", "Hodina");
+define("LAN_CRON_52", "Den");
+define("LAN_CRON_53", "Mšsíc");
+define("LAN_CRON_54", "Všední den");
+define("LAN_CRON_60", "Přejít na cPanel");
+define("LAN_CRON_61", "Vytvořit nové heslo jádra");
+define("LAN_CRON_62", "Spusťte funkci Konfigurace: [b][x][/b]");
+define("LAN_CRON_63", "Funkce konfigurace [b][x][/b] NENÍ nalezena.");
+define("LAN_CRON_64", "Administrátor může automatizovat úkoly pomocí e107 Schedule Tasks. [br] Na kartě Spravovat lze úkoly upravovat, odstraňovat a spouštět. [br] Když upravíte úkol, můžete nastavit minuty, hodiny, dny, měsíc nebo den v týdnu, kdy chcete spustit úlohu. Použijte * pro spuštění pro každé období. Použijte vlastnost Aktivovat povolit úlohu. [br] Poznámka: Doporučuje se, abyste standardní úlohy nezrušili. [br]");
 define("LAN_CRON_BACKUP", "Zálohování");
 define("LAN_CRON_LOGGING", "Protokolování");
-
-
-define("LAN_CRON_60", "Jít do cPanel");
-define("LAN_CRON_61", "Generovat nové heslo cron");
-define("LAN_CRON_62", "Provádění funkce config [b] [x] [/ b]");
-define("LAN_CRON_63", "Konfigurace funkce [b] [x] [/ b] nebyl nalezen.");
-define("LAN_CRON_64", "Správce může automatizovat úlohy pomocí e107 plánování úkolů. [br]
-Na kartě Správa můžete upravit, odstranit a spouštět úlohy. [br]
-Pokud upravujete úlohu, kterou lze nastavit minuty, hodiny, dny, měsíce nebo dne v týdnu chcete ke spuštění úlohy. Použití * ke spuštění pro každé období. Používejte aktivní vlastnost Enabled úkol. [br]
-Poznámka: Doporučujeme není odstranit standardní úlohy. [br]");
-define("LAN_CRON_RUNNING", "Běh");
+define("LAN_CRON_RUNNING", "Běžící");

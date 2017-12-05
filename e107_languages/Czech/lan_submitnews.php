@@ -1,16 +1,18 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:52:09
 |
-|        $URL: ../e107_languages/Czech/lan_submitnews.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 09:00:19 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:52:09 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "Zaslat novinku");
 define("LAN_134", "Vše bylo odesláno a během krátké doby bude zkontrolováno administrátorem webu.");
 define("LAN_135", "Novinka:");
@@ -18,7 +20,7 @@ define("LAN_136", "Odeslat novinku");
 define("NWSLAN_10", "Kategorie novinek nejsou definované");
 define("NWSLAN_11", "Do této části nemáte přístup!");
 define("NWSLAN_12", "Přístup zamítnut!");
-define("SUBNEWSLAN_1", "Titulek musíte vložit.\\n");
+define("SUBNEWSLAN_1", "Musíte zadat název.\\n");
 define("SUBNEWSLAN_2", "Musíte do těla novinky vložit text.\\n");
 define("SUBNEWSLAN_3", "Přílohou může být pouze jpg, png nebo gif soubor (obrázek)");
 define("SUBNEWSLAN_4", "Soubor je příliš velký");
@@ -30,6 +32,3 @@ define("SUBNEWSLAN_9", "Klíčová slova");
 define("SUBNEWSLAN_11", "Meta popis");
 define("SUBNEWSLAN_12", "Používá se ve Facebooku atd.");
 define("SUBNEWSLAN_13", "URL adresy médií");
-
-
-?>

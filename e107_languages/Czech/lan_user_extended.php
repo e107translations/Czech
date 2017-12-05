@@ -1,16 +1,18 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 19:33:43
 |
-|        $URL: ../e107_languages/Czech/lan_user_extended.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 09:01:25 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 19:33:43 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("UE_LAN_1", "Textové pole");
 define("UE_LAN_2", "Tlačítko");
 define("UE_LAN_3", "Roletové menu");
@@ -54,6 +56,3 @@ define("UE_LAN_MALE", "Muž");
 define("UE_LAN_FEMALE", "Žena");
 define("UE_LAN_COMMENT", "Komentáře");
 define("UE_LAN_COMMENT_DESC", "Pole pro komentář");
-
-
-?>

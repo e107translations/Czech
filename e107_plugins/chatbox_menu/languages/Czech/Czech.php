@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/30 13:27:49
+|        Last Modified: 2017/11/21 23:12:53
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/30 13:27:49 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 23:12:53 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
@@ -35,6 +35,3 @@ define("CHATBOX_L22", "v");
 define("CHATBOX_L24", "Nemáte potřebná práva pro zobrazení této stránky.");
 define("CHATBOX_L25", "[ tento příspěvek byl zablokován adminem ]");
 define("LAN_CHATBOX_100", "Sem napište svou zprávu");
-
-
-?>

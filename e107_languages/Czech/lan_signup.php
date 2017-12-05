@@ -1,16 +1,18 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:49:57
 |
-|        $URL: ../e107_languages/Czech/lan_signup.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 08:58:48 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:49:57 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "Registrace");
 define("LAN_EMAIL_01", "Vážený");
 define("LAN_EMAIL_04", "Informace obsažené v tomto e-mailu uchovejte pouze pro vlastní potřebu.");
@@ -27,7 +29,7 @@ define("LAN_SIGNUP_11", ".");
 define("LAN_SIGNUP_12", "uchovejte prosím Vaše uživatelské jméno a heslo na bezpečném místě. Pokud je zapomenete, heslo nelze zpětně zjistit.");
 define("LAN_SIGNUP_13", "Přihlásit se můžete v poli pro přihlášení, nebo [here].");
 define("LAN_SIGNUP_14", "zde");
-define("LAN_SIGNUP_15", "Kontaktujte prosím hlavního správce webu");
+define("LAN_SIGNUP_15", "Kontaktujte prosím hlavního administrátora webu");
 define("LAN_SIGNUP_16", "pokud potřebujete pomoci.");
 define("LAN_SIGNUP_17", "Potvrďte prosím (na vlastní zodpovědnost), že je Vám 13 nebo více let.");
 define("LAN_SIGNUP_18", "Přijali jsme Vaši žádost o registraci s těmito údaji ...");
@@ -66,8 +68,6 @@ define("LAN_SIGNUP_64", "Vypadá to že jste zadali neplatné uživatelské info
 define("LAN_SIGNUP_65", "Bylo vám přiřazeno následující přihlašovací jméno");
 define("LAN_SIGNUP_66", "Prosím poznamenejte si ho.");
 define("LAN_SIGNUP_67", "Toto bude přiděleno systémem po registraci");
-define("LAN_SIGNUP_69", "");
-define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Dosáhli jste limitu pro registraci účtu. Prosím přihlašte se pomocí některého z vašich dalších účtů.");
 define("LAN_SIGNUP_72", "Díky za registraci na [sitename]! Právě jsme vám zaslali potvrzující e-mail na [email]. Klikněte prosím na odkaz v e-mailu k dokončení registrace a aktivaci účtu.");
 define("LAN_SIGNUP_73", "Děkujeme!");
@@ -115,6 +115,3 @@ define("LAN_SIGNUP_118", "na [x]");
 define("LAN_SIGNUP_119", "Neposílejte e-maily");
 define("LAN_SIGNUP_120", "NEBO");
 define("LAN_SIGNUP_121", "Použijte jinou e-mailovou adresu");
-
-
-?>

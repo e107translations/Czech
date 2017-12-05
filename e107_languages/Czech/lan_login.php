@@ -1,16 +1,18 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:28:19
 |
-|        $URL: ../e107_languages/Czech/lan_login.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 08:54:56 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:28:19 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_LOGIN_1", "Jméno uživatele");
 define("LAN_LOGIN_2", "Heslo");
 define("LAN_LOGIN_3", "Chráněný server");
@@ -46,6 +48,3 @@ define("LAN_LOGIN_32", "Vidíte tuto zprávu, protože jste přihlášeni jako h
 define("LAN_LOGIN_33", "[Návrat na úvodní stránku]");
 define("LAN_LOGIN_34", "Možnost registrace uživatele nebo přihlášení je momentálně vypnuta.");
 define("LAN_LOGIN_35", "[Povolit]");
-
-
-?>

@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/26 21:22:32
+|        Last Modified: 2017/11/21 15:35:19
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/26 21:22:32 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 15:35:19 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
@@ -20,7 +20,7 @@ define("COMLAN_4", "Informace");
 define("COMLAN_5", "Komentáře ...");
 define("COMLAN_6", "Pro psaní komentářů musíte být přihlášen. Prosím přihlaste se, nebo se zaregistrujte");
 define("COMLAN_7", "Hlavní administrátor");
-define("COMLAN_8", "Komentář");
+define("COMLAN_8", "- komentářů");
 define("COMLAN_9", "Odeslat komentář");
 define("COMLAN_10", "Administrátor");
 define("COMLAN_11", "Nepodařilo se zapsat komentář do databáze - prosím přepište komentář a vynechte všechny nestandardní znaky.");
@@ -78,6 +78,3 @@ define("COMLAN_TYPE_8", "uživatelský profil");
 define("COMLAN_TYPE_PAGE", "obsah");
 define("COMLAN_500", "Prosím [sign in] pro vložení komentáře.");
 define("COMLAN_501", "Pokud ještě nejste registrován, [click here to register]");
-
-
-?>

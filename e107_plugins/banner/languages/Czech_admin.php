@@ -4,17 +4,17 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/30 12:55:35
+|        Last Modified: 2017/11/21 23:09:03
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/30 12:55:35 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 23:09:03 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
 define("BNRLAN_00", "Zatím nebyl vytvořen žádný reklamní bannery.");
-define("BNRLAN_01", "ID reklamního banneru nalezeno.");
+define("BNRLAN_01", "ID reklamního banneru nenalezeno.");
 define("BNRLAN_11", "Kampaň");
 define("BNRLAN_12", "Jméno klienta");
 define("BNRLAN_15", "URL adresa");
@@ -41,6 +41,3 @@ define("BNRLAN_50", "Lokální");
 define("BNRLAN_51", "Vzdálený");
 define("BNRLAN_HELP_01", "Nápověda");
 define("BNRLAN_HELP_02", "Tento doplněk dovoluje spravovat reklamu na vašich webových stránkách. <br /> <br/> Při vytváření nového reklamního baneru můžete pro přihlášení klienta vytvořit uživatelské jméno a heslo a kontrolovat průběh celé kampaně. <br/> <br/> Reklamu můžete aktivovat pomocí správce nabídek a tam můžete provádět další konfiguraci.");
-
-
-?>

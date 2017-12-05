@@ -4,13 +4,15 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:55:30
 |
-|        $URL: ../e107_languages/Czech/lan_user.php $
-|        $Revision: 1.0 $
-|        $Id: 2012/01/25 09:37:37 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:55:30 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_USER_01", "Zobrazované jméno");
 define("LAN_USER_02", "Přihlašovací jméno");
 define("LAN_USER_03", "Skutečné jméno");
@@ -28,11 +30,11 @@ define("LAN_USER_18", "IP adresa");
 define("LAN_USER_19", "Blokován");
 define("LAN_USER_20", "Preference");
 define("LAN_USER_21", "Počet návštěv");
-define("LAN_USER_22", "Správce");
+define("LAN_USER_22", "Administrátor");
 define("LAN_USER_23", "Oprávnění");
 define("LAN_USER_24", "Heslo");
-define("LAN_USER_31", "Hlavní správce");
-define("LAN_USER_32", "Správce");
+define("LAN_USER_31", "Hlavní administrátor");
+define("LAN_USER_32", "Administrátor");
 define("LAN_USER_33", "žádné informace");
 define("LAN_USER_34", "Věk");
 define("LAN_USER_35", "[skryto na přání]");
@@ -71,9 +73,9 @@ define("LAN_USER_71", "Podpis:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "choice of Content/Mail-lists");
 define("LAN_USER_74", "Vlastní nadpis");
-define("LAN_USER_75", "Váš --SOMETHING-- je vyžadován");
+define("LAN_USER_75", "Váš [x] je vyžadován");
 define("LAN_USER_76", "Jste přihlášeni k odběru");
-define("LAN_USER_77", "Vaše heslo musí mít nejméně --COUNT-- znaků.");
+define("LAN_USER_77", "Vaše heslo musí mít nejméně [x] znaků.");
 define("LAN_USER_78", "Min.");
 define("LAN_USER_79", "znaků.");
 define("LAN_USER_80", "Pod tímto jménem budete vystupovat na stránkách.");
@@ -82,14 +84,13 @@ define("LAN_USER_82", "Pro přihlášení do vašeho uživatelského účtu.");
 define("LAN_USER_83", "Skrýt emailovou adresu?:");
 define("LAN_USER_84", "Zabráníte tím, aby se vaše e-mailová adresa zobrazovala na stránkách.");
 define("LAN_USER_85", "Chcete-li změnit uživatelské jméno, musíte požádat správce webu.");
-define("LAN_USER_86", "Maximální rozměry jsou120 pixels. x100 pixels.");
+define("LAN_USER_86", "Maximální rozměry jsou [x]- x [y] pixelů.");
 define("LAN_USER_87", "Pro možnost hodnocení uživatele se musíte přihlásit!");
 define("LAN_XUP_ERRM_01", "Přihlašení se nezdařilo! Tato funkce je vypnuta.");
 define("LAN_XUP_ERRM_02", "Přihlašení se nezdařilo! Chybný poskytovatel.");
 define("LAN_XUP_ERRM_03", "Přihlášení selhalo! Chybný poskytovatel.");
 define("LAN_XUP_ERRM_04", "Přihlašení se nezdařilo! Uživatel je již přihlášen.");
-define("LAN_XUP_ERRM_05", "Registrace se nezdařila! Uživatel již existuje. Použijte místo toho 'přihlásit se'.
-");
+define("LAN_XUP_ERRM_05", "Registrace se nezdařila! Uživatel již existuje. Použijte místo toho 'přihlásit se'.");
 define("LAN_XUP_ERRM_06", "Registrace se nezdařila! Nelze získat přístup k e-mailu uživatele - registrace bez e-mailu není možná.");
 define("LAN_XUP_ERRM_07", "Tester sociálního přihlášení");
 define("LAN_XUP_ERRM_08", "Před odzkoušením postupu přihlášení/registrace nového uživatele se prosím odhlaste ze stránek.");
@@ -97,6 +98,3 @@ define("LAN_XUP_ERRM_09", "Otestování přihlášení s [x]");
 define("LAN_XUP_ERRM_10", "Otestování registrace/přihlášení s [x]");
 define("LAN_XUP_ERRM_11", "Přihlášen:");
 define("LAN_XUP_ERRM_12", "Test odhlášení");
-
-
-?>

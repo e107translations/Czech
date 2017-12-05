@@ -1,16 +1,18 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:47:42
 |
-|        $URL: ../e107_languages/Czech/lan_ren_help.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 08:58:23 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:47:42 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LANHELP_1", "Černá");
 define("LANHELP_2", "Modrá");
 define("LANHELP_3", "Hnědá");
@@ -65,6 +67,3 @@ define("LANHELP_51", "Zakázat HTML: [nobr]text[/nobr]");
 define("LANHELP_52", "Nový řádek (HTML): [br]");
 define("LANHELP_53", "Zarovnání do bloku: \n[justify]Tento text bude zarovnán[/justify");
 define("LANHELP_54", "HTML block (div tag): [block]Váš článek[/block]");
-
-
-?>

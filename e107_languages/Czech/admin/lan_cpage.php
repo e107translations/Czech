@@ -4,53 +4,54 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 19:59:02
+|        Last Modified: 2017/11/21 20:09:59
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 20:09:59 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
-define("CUSLAN_9", "text");
-define("CUSLAN_11", "Meta popis");
-define("CUSLAN_12", "Vytvořit stránky/Menu");
-define("CUSLAN_29", "Seznam stránek pokud není žádná vybraná");
-define("CUSLAN_30", "Čas vypršení cookie (v sekundách)");
-define("CUSLAN_31", "Vytvořit menu");
-define("CUSLAN_48", "Seznam stran");
-define("CUSLAN_49", "Seznam nabídek");
-define("CUSLAN_50", "Seznam knih/kapitol");
-define("CUSLAN_51", "Přidat/kapitola");
-define("CUSLAN_52", "Kniha");
-define("CUSLAN_53", "Knihy nebo název kapitoly");
-define("CUSLAN_55", "Mohou být editovány");
-define("CUSLAN_56", "Sekce");
-define("CUSLAN_57", "Zvolte jedinečný řetězec SEF URL pro tuto položku.");
-define("CUSLAN_58", "Zobrazit stránky v této kapitole");
-define("CUSLAN_59", "stránka");
-define("CUSLAN_60", "Možnosti stránky");
-define("CUSLAN_61", "Nabídka");
-define("CUSLAN_62", "Možnosti nabídky");
-define("CUSLAN_63", "Kniha/kapitolu");
-define("CUSLAN_64", "Jméno menu");
-define("CUSLAN_65", "Název nabídky");
-define("CUSLAN_66", "Nabídka tělo");
-define("CUSLAN_67", "Šablona nabídky");
-define("CUSLAN_68", "Text vlastní tlačítka");
-define("CUSLAN_69", "Adresa URL vlastní tlačítka");
-define("CUSLAN_70", "Icon/glyf nabídky");
-define("CUSLAN_71", "Menu obrázek/Video");
-define("CUSLAN_72", "Šablona seznamu knih/kapitol");
-define("CUSLAN_73", "Nabídka vytvořena");
-define("CUSLAN_74", "Aktualizována nabídka");
-define("CUSLAN_75", "Chybí Menu-id zjištěn:");
-define("CUSLAN_76", "Nabídka s cestou #");
-define("CUSLAN_77", "Smazáno");
-define("CUSLAN_78", "Nelze odstranit nabídku s cestou");
-
 
 define("CUSLAN_1", "Přehled");
 define("CUSLAN_2", "Název stránky");
 define("CUSLAN_3", "Položek na stránku");
 define("CUSLAN_4", "Vlastní pole");
 define("CUSLAN_5", "(Nová kniha)");
-define("CUSLAN_79", "Musíte zadat nadpis stránky nebo název nabídky.");
+define("CUSLAN_9", "Text");
+define("CUSLAN_11", "Meta popis");
+define("CUSLAN_12", "Vytvořit stránku");
+define("CUSLAN_29", "Seznam stránek pokud není žádná vybraná");
+define("CUSLAN_30", "Čas vypršení cookie (v sekundách)");
+define("CUSLAN_31", "Vytvořit menu");
+define("CUSLAN_48", "Vaše stránky");
+define("CUSLAN_49", "Vaše menu");
+define("CUSLAN_50", "Seznam knih / kapitol");
+define("CUSLAN_51", "Přidat knihu / kapitolu");
+define("CUSLAN_52", "Kniha");
+define("CUSLAN_53", "Název knihy nebo kapitoly");
+define("CUSLAN_55", "Oprávnění k editaci");
+define("CUSLAN_56", "Nadřazené");
+define("CUSLAN_57", "Prosím, vyberte jedinečný SEF URL text pro tuto položku.");
+define("CUSLAN_58", "Prohlížet stránky v této kapitole");
+define("CUSLAN_59", "Stránka");
+define("CUSLAN_60", "Možnosti stránky");
+define("CUSLAN_61", "Menu");
+define("CUSLAN_62", "Možnosti menu");
+define("CUSLAN_63", "Knihy / Kapitoly");
+define("CUSLAN_64", "Název menu");
+define("CUSLAN_65", "Titulek menu");
+define("CUSLAN_66", "Tělo menu");
+define("CUSLAN_67", "Vzhled menu");
+define("CUSLAN_68", "Vlastní text pro tlačítko");
+define("CUSLAN_69", "Vlastní odkaz tlačítka");
+define("CUSLAN_70", "Ikona / Glyph pro menu");
+define("CUSLAN_71", "Obrázek / Video pro menu");
+define("CUSLAN_72", "Přehled vzhledů pro knihy /  kapitoly");
+define("CUSLAN_73", "Menu vytvořeno");
+define("CUSLAN_74", "Menu upraveno");
+define("CUSLAN_75", "Chybějící ID MENU:");
+define("CUSLAN_76", "Menu s cestou #");
+define("CUSLAN_77", "smazáno");
+define("CUSLAN_78", "Nelze odstranit menu s cestou");
+define("CUSLAN_79", "Musíte zadat název stránky nebo název nabídky.");

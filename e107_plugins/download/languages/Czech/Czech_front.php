@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/28 02:33:25
+|        Last Modified: 2017/11/21 23:20:31
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/28 02:33:25 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 23:20:31 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
@@ -54,6 +54,3 @@ define("LAN_dl_74", "Celkem stažení z tohoto serveru:");
 define("LAN_dl_75", "žádné obrázky nejsou dostupné");
 define("LAN_dl_77", "Počet stažení");
 define("LAN_dl_78", "Tento soubor byl vyřazen nebo přesunut. Pokračujte prosím do sekce [downloads area] a vyhledejte aktuální verzi.");
-
-
-?>

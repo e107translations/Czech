@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/10/30 14:02:03
+|        Last Modified: 2017/11/21 23:14:49
 |
-|        $URL: www.e107.funsite.cz $
-|        $Revision: 2.16 $
-|        $Id: 2017/10/30 14:02:03 $
-|        $Author: Oxigen O2 $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 23:14:49 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
@@ -24,6 +24,3 @@ define("CLOCK_AD_L10", "Přípona pro 2");
 define("CLOCK_AD_L11", "Přípona pro 3");
 define("CLOCK_AD_L12", "Přípona pro 4 a další");
 define("CLOCK_AD_L13", "Textová přípona za datem, pokud to váš jazyk vyžaduje (např.: 'st' pro 1, 'nd' pro 2, 'rd' pro 3 a 'th' pro 4 a další - pro angličtinu). Pokud není potřeba, nechte prázdné.");
-
-
-?>

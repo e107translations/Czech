@@ -1,19 +1,20 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:48:18
 |
-|        $URL: ../e107_languages/Czech/lan_search.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 08:58:38 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:48:18 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "Vyhledávání");
 define("LAN_140", "Uživatelé");
-define("LAN_180", "Hledat");
 define("LAN_192", "Všechny kategorie");
 define("LAN_193", "Kalendář akcí");
 define("LAN_194", "Všechny kategorie");
@@ -23,8 +24,8 @@ define("LAN_197", "Stahování");
 define("LAN_198", "Neshoduje se");
 define("LAN_199", "Vyhledat v:");
 define("LAN_416", "K přístupu na tuto stranu musíte být přihlášen");
-define("LAN_417", "Výraz pro vyhledávání musí mít nejméně 3 znaky.");
-define("LAN_418", "ostatních strákách");
+define("LAN_417", "Výraz pro vyhledávání musí mít nejméně [x] znaky.");
+define("LAN_418", "Ostatních strákách");
 define("LAN_SEARCH_1", "Vybrat vše");
 define("LAN_SEARCH_2", "Zrušit výběr");
 define("LAN_SEARCH_3", "Zasláno v");
@@ -90,7 +91,6 @@ define("LAN_SEARCH_64", "Všechny kategorie ke stažení");
 define("LAN_SEARCH_65", "Ke stažení");
 define("LAN_SEARCH_66", "Datum přidání");
 define("LAN_SEARCH_67", "Detail všech stahování");
-define("LAN_SEARCH_68", "Datum");
 define("LAN_SEARCH_69", "Shodnost");
 define("LAN_SEARCH_70", "Zasláno ke stažení");
 define("LAN_SEARCH_71", "Zasláno jako odpověď k novince");
@@ -101,9 +101,5 @@ define("LAN_SEARCH_75", "Typ vyhledávání");
 define("LAN_SEARCH_76", "Vloženo na stranu");
 define("LAN_SEARCH_77", "Vloženo v profilu strany");
 define("LAN_SEARCH_98", "Novinky");
-define("LAN_SEARCH_99", "Komentáře");
 define("LAN_SEARCH_201", "Prosím přeformulujte dotaz");
 define("LAN_SEARCH_202", "Rozšířené vyhledávání");
-
-
-?>

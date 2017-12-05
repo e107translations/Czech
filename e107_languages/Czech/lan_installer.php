@@ -4,13 +4,15 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:26:52
 |
-|        $URL: ../e107_languages/Czech/lan_installer.php $
-|        $Revision: 1.0.1 $
-|        $Id: 2012/05/17 21:03:51 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:26:52 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LANINS_001", "Verze %1$s");
 define("LANINS_002", "Instalace");
 define("LANINS_003", "1");
@@ -53,7 +55,7 @@ define("LANINS_043", "Nelze vytvořit databázi. Ujistěte se prosím, že máte
 define("LANINS_044", "Databáze byla úspěšně vytvořena.");
 define("LANINS_045", "Klikněte na další krok.");
 define("LANINS_046", "5");
-define("LANINS_047", "Detaily Správce");
+define("LANINS_047", "Detaily administrátora");
 define("LANINS_048", "Vrátit zpět na poslední krok");
 define("LANINS_049", "Hesla, která byla vložena nejsou stejná. Vraťte se prosím zpět a zkuste to znovu.");
 define("LANINS_050", "XML rozšíření");
@@ -61,7 +63,7 @@ define("LANINS_051", "nainstalováno");
 define("LANINS_052", "nenainstalováno");
 define("LANINS_055", "Potvrzení instalace");
 define("LANINS_056", "6");
-define("LANINS_057", "  e107 má nyní k dispozici všechny informace nezbytné pro instalaci.<br /><br />Klikněte prosím na tlačítko. Bude vytvořena databáze a uložena všechna nastavení.");
+define("LANINS_057", "  e107 má nyní k dispozici všechny informace nezbytné pro instalaci. Klikněte prosím na tlačítko. Bude vytvořena databáze a uložena všechna nastavení.");
 define("LANINS_058", "7");
 define("LANINS_060", "Není možné přečíst soubor s daty pro sql.Ujistěte se, že soubor [b]core_sql.php[/b] existuje adresáři [b]/e107_core/sql[/b]  .");
 define("LANINS_061", "e107 se nezdařilo vytvořit všechny tabulky databáze. Před tím, než to zkusíte znovu, vyčistěte databázi a odstraňte všechny problémy.");
@@ -107,12 +109,9 @@ define("LANINS_128", "Přepsat");
 define("LANINS_129", "Databáze nebyla nalezena.");
 define("LANINS_134", "Instalace");
 define("LANINS_135", "z");
-define("LANINS_136", "Existující databáze byla vymazána ");
+define("LANINS_136", "Existující databáze byla vymazána");
 define("LANINS_137", "Byla nalezena existující databáze");
 define("LANINS_141", "Vyplňte níže uvedený formulář s údaji o MySQL. Pokud tyto informace neznáte, obraťte se na poskytovatele hostingu. Pro další informace můžete umístit kurzor myši nad každé pole folmuráře.");
 define("LANINS_142", "DŮLEŽITÉ: Prosím přejmenujte e107.htaccess na .htaccess");
 define("LANINS_144", "DŮLEŽITÉ: Zkopírujte a vložte obsah souboru [b]e107.htaccess[/b] do souboru [b].htaccess[/b]. Prosím, dejte pozor, abyste NEPŘEPSALI existující data, která  v něm mohou být.");
 define("LANINS_145", "e107 v2.x vyžaduje instalaci PHP [x]. Prosím, kontaktujte svého hostitele nebo si přečtěte informace v [y] před pokračováním.");
-
-
-?>

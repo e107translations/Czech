@@ -1,16 +1,18 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/21 17:32:08
 |
-|        $URL: ../e107_languages/Czech/lan_news.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 08:55:22 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/11/21 17:32:08 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "Novinky");
 define("LAN_NEWS_1", "Novinky pouze pro některé členy");
 define("LAN_NEWS_2", "K zobrazení této novinky nemáte oprávnění");
@@ -22,8 +24,8 @@ define("LAN_NEWS_13", "Komentáře jsou <b>vypnuty</b>.");
 define("LAN_NEWS_14", "<br />Doba zobrazování:");
 define("LAN_NEWS_15", "Velikost:");
 define("LAN_NEWS_16", "Rozšířená délka:");
-define("LAN_NEWS_17", "b.");
-define("LAN_NEWS_18", "Info:");
+define("LAN_NEWS_17", "b.");
+define("LAN_NEWS_18", "Informace:");
 define("LAN_NEWS_19", "Nyní");
 define("LAN_NEWS_23", "Kategorie novinek");
 define("LAN_NEWS_24", "Vytvořit z této novinky PDF");
@@ -39,6 +41,3 @@ define("LAN_NEWS_463", "Pro danou kategorii nejsou k dispozici žádné novinky 
 define("LAN_NEWS_100", "v");
 define("LAN_NEWS_307", "Počet příspěvků v této kategorii:");
 define("LAN_NEWS_308", "Možná hledáte jednu z níže uvedených novinek?");
-
-
-?>
