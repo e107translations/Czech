@@ -4,52 +4,26 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:22:53
+|        Last Modified: 2017/12/05 20:29:41
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/12/05 20:29:41 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-// define("NFLAN_03", "Konfigurovat RSS novinky");
-// define("NFLAN_04", "Doplněk RSS novinek byl úspěšně nainstalovaný. Pro přidání RSS novinky a konfiguraci, vraťte se na hlavní stránku administrace a klikněte na ikonu RSS novinky v sekci doplňků.");
-// define("NFLAN_07", "Existující RSS novinky");
-// define("NFLAN_08", "Hlavní stránka RSS novinek");
-// define("NFLAN_09", "Vytvořit RSS novinek");
-// define("NFLAN_10", "Adresa URL kanálu RSS.");
+
 define("NFLAN_11", "Cesta k obrázku");
 define("NFLAN_12", "Aktivace");
 define("NFLAN_13", "Nikde (neaktivní)");
 define("NFLAN_14", "Jen v menu");
-// define("NFLAN_17", "Zadejte 'výchozí' použít obrázek definovaný v krmivu. Chcete-li použít vlastní obrázek, zadejte úplnou cestu. Ponechte prázdné pro žádný obrázek.");
 define("NFLAN_18", "Aktualizační interval v sekundách");
-define("NFLAN_19", "např 3600: novinek bude aktualizován každou hodinu");
+define("NFLAN_19", "např. 3600: RSS novinek bude aktualizovaný každou hodinu");
 define("NFLAN_20", "Jen na hlavní stránce RSS novinek");
 define("NFLAN_21", "V menu i na stránce RSS novinek");
-// define("NFLAN_22", "Vyberte, kam chcete zobrazených diskusních příspěvků.");
-define("NFLAN_26", "Aktualizační interval");
-// define("NFLAN_37", "Stručný popis krmiva. Zadejte výchozí použít popis definované v krmivu");
-// define("NFLAN_41", "Zatím nebyla definovaná RSS novinka");
-define("NFLAN_42", "[b]»[/b] <u>Název informačního kanálu:</u>
-	Identifikační název kanálu může být cokoliv, co se vám líbí.<br><br>
-	[b]»[/b] <u>URL kanálu rss:</u>
-	Adresa rss kanálu<br><br>
-	[b]»[/b] <u>Cesta k obrázku:</u>
-	Je-li informační kanál definované v ní obrázek, zadejte 'default' ji použít. Chcete-li použít vlastní obrázek, zadejte úplnou cestu k němu. Nechte prázdné pro používání žádný obraz vůbec.<br><br>
-	[b]»[/b] <u>Popis:</u>
-	Zadejte stručný popis krmiva, nebo 'default' používat označení definované v kanálu (pokud existuje).<br><br>
-	[b]»[/b] <u>Interval aktualizace v sekundách:</u>
-	Počet sekund, které uplynou před aktualizací informačního kanálu, například 1800: 30 minut, 3600: za hodinu.<br><br>
-	[b]»[/b] <u>Aktivace:</u>
+define("NFLAN_26", "Aktualizační interval"
 define("NFLAN_43", "Pomoc pro RSS novinky");
-// define("NFLAN_44", "kliknout pro zobrazení");
+define("NFLAN_43", "RSS nápověda");
+define("NFLAN_42", "	[h=4]Název RSS:[/h] Identifikačním názvem RSS může být cokoliv. [h=4]URL k RSS novince:[/h] Adresa RSS novinky [h=4]Cesta k obrázku:[/h]  Když má RSS definovaný obrázek, pro používání vložte 'přednastavené'. Pro použití vlastního obrázku, vložte plnou cestu k obrázku. A nakonec, nechte prázdné, pokud nechcete použít obrázek. [h=4]Popis[/h] Vložte krátký popis dodávky nebo 'přednastavené' pro použití popisu, který je definovaný v RSS (pokud tam nějaký je). [h=4]Aktualizační interval v sekundách:[/h] Počet sekund, které mají uběhnout předtím, než je RSS aktualizovaná, např.: 1800 pro 30 minut, 3600 pro 1 hodinu. [h=4]Aktivace:[/h] Kde chcete zobrazit výsledky RSS? Aby jste viděli menu RSS, budete potřebovat aktivovat menu [b]RSS novinek[/b] na [link=http://www.feedster.com/ ]feedster.com[/link]. Pro získání vhodného seznamu dostupných RSS, navštivte [link=http://www.feedster.com/ external]feedster.com[/link] nebo [link=http://www.feedster.com/ external]feedster.com[/link]");
 define("NFLAN_45", "Počet položek, které se zobrazí v menu");
 define("NFLAN_46", "Počet položek, které se zobrazí na hlavní stránce");
-// define("NFLAN_47", "0 nebo prázdné pro zobrazení všech");
-// define("NFLAN_49", "Není možné spustit RSS novinky - používáte nestandardní syntax");
-// define("LAN_AL_NEWSFD_01", "Vytvořil(a) novinek");
-// define("LAN_AL_NEWSFD_02", "Aktualizace novinek");
-// define("LAN_AL_NEWSFD_03", "News Feed odstraněny");
-
-
-
-
-define("NFLAN_43", "Nápověda diskusních příspěvků");
