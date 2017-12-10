@@ -4,13 +4,18 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/20 20:20:21
+|        Last Modified: 2017/12/10 17:24:49
 |
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.7 $
+|        $Id: 2017/12/10 17:24:49 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "Statistiky");
 define("ADSTAT_L1", "Tento doplněk zaznamenává všechny návštěvy vašich stránek a vytváží detailní seznam statistik na základě získaných dat.");
+define("ADSTAT_L2", "Statistiky byly úspěšně nainstalovány. Chcete-li převést vaše stávající statistiky na nový systém, <a href=''.e_PLUGIN.'log/update_routine.php'>klikněte sem pro spuštění aktualizace</a>.");
 define("ADSTAT_L3", "Zaznamenávané statistiky.");
 define("ADSTAT_L4", "Nemáte oprávnění zobrazit tuto stránku.");
 define("ADSTAT_L5", "Možnosti na této stránce byly vypnuty.");
@@ -42,7 +47,7 @@ define("ADSTAT_L30", "Odkazující stránky");
 define("ADSTAT_L31", "Hledané výrazy ve vyhledávačích");
 define("ADSTAT_L32", "Příchozí z");
 define("ADSTAT_L33", "Návštěvy za posledních");
-define("ADSTAT_L34", "Návštěv");
+define("ADSTAT_L34", "Návštěvy");
 define("ADSTAT_L35", "Unikátní návštěvy za posledních");
 define("ADSTAT_L36", "dny na stránku");
 define("ADSTAT_L37", "Návštěvy za měsíc");
@@ -50,18 +55,14 @@ define("ADSTAT_L38", "Unikátní návštěvy za měsíc");
 define("ADSTAT_L39", "Odstranit tento záznam");
 define("ADSTAT_L40", "dnů");
 define("ADSTAT_L42", "Zatím žádné měsíční statistiky.");
-define("ADSTAT_L43", "Dnešní chyby stránky");
-define("ADSTAT_L44", "Všechny zobrazené chyby");
+define("ADSTAT_L43", "Dnešní chybné stránky");
+define("ADSTAT_L44", "Chybné stránky za celou dobu");
 define("ADSTAT_L45", "Statistiky smazány pro:");
-define("ADSTAT_L46", "Poznámka: všechny statistiky za dnešek nebyly smazány");
+define("ADSTAT_L46", "Poznámka: žádné statistiky pro dnešek nebudou smazány");
 define("ADSTAT_L47", "Nenalezeny žádné statistiky pro:");
 define("ADSTAT_L48", "Seřadit podle součtu");
 define("ADSTAT_L49", "seřadit abecedně");
 define("ADSTAT_L50", "Celkové statistiky");
 define("ADSTAT_L51", "Aktuální měsíční statistiky");
-define("ADSTAT_L52", "Předchozí měsíc statistiky");
-
-
-
-define("ADSTAT_L2", "Statistiky protokolování byla úspěšně nainstalována. Chcete-li převést vaše stávající statistiky na nový systém, prosím <a href=''.e_PLUGIN.'log/update_routine.php'>klikněte sem pro spuštění rutiny aktualizace</a>.");
+define("ADSTAT_L52", "Statistiky za předchozí měsíc");
 define("ADSTAT_L53", "Informace");
