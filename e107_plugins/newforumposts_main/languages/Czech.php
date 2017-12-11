@@ -20,8 +20,7 @@ define("NFPM_LAN_4", "Odpovědí");
 define("NFPM_LAN_5", "Poslední příspěvek");
 define("NFPM_LAN_6", "Témata");
 define("NFPM_LAN_7", "od");
-define("NFPM_L1", "Tento doplněk po aktivaci a následném nastavení v administraci,
- umožní na hlavní straně zobrazovat seznam posledních příspěvků fóra.");
+define("NFPM_L1", "Tento doplněk po aktivaci a následném nastavení v administraci, Umožní na hlavní straně zobrazovat seznam posledních příspěvků fóra.");
 define("NFPM_L2", "Poslední příspěvky fóra");
 define("NFPM_L3", "Pro konfiguraci pokračujte do administrace na položku tohoto doplňku.");
 define("NFPM_L4", "Aktivujte zvolením oblasti pro zobrazení.");

@@ -4,11 +4,11 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/10 09:50:21
+|        Last Modified: 2017/12/10 10:53:12
 |
 |        $URL: https://github.com/oxigeno2/e107 $
 |        $Revision: 2.1.7 $
-|        $Id: 2017/12/10 09:50:21 $
+|        $Id: 2017/12/10 10:53:12 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -32,6 +32,7 @@ define("LIST_ADMIN_13", "Vítejte na přehledu nejnovějších aktualit na webu 
 define("LIST_ADMIN_14", "Aktuality na webu");
 define("LIST_ADMIN_15", "Nové položky od vaší poslední návštěvy");
 define("LIST_ADMIN_16", "Vítejte na přehledu nejnovějších aktualit na webu ".SITENAME." ! Tato stránka zobrazuje seznam posledních příspěvků v nejběžnějších sekcích webu.");
+define("LIST_ADMIN_17", "Neprovedeny žádné změny - neaktualizováno");
 define("LIST_ADMIN_SECT_1", "Zobrazované sekce");
 define("LIST_ADMIN_SECT_2", "Označte sekce které budou v přehledu zobrazeny");
 define("LIST_ADMIN_SECT_4", "Styl zobrazení (zobrazená,skrytá)");

@@ -23,7 +23,7 @@ define("XMLRPC_PREFS_005", "Blog ID pro klienta");
 define("XMLRPC_PREFS_006", "Název blogu pro klienta");
 define("XMLRPC_HELP_001", "Pokyny");
 define("XMLRPC_HELP_010", "Obecné");
-define("XMLRPC_HELP_011", "Tento plugin, sám nic nedělá! Je to pouze pro nastavení některých proměnných XMLRPC. XMLRPC klienta (např.: Windows Live Writer) na <strong>'. SITEURL.' MetaWeblog.php</strong> a vyplňte požadované hodnoty. Varování! Tento modul je experimentální!");
+define("XMLRPC_HELP_011", "Tento plugin, sám nic nedělá! Je to pouze pro nastavení některých proměnných XMLRPC. XMLRPC klienta (např.: Windows Live Writer) na <strong>".SITEURL." MetaWeblog.php</strong> a vyplňte požadované hodnoty. Varování! Tento modul je experimentální!");
 define("XMLRPC_HELP_020", "Název doplňku");
 define("XMLRPC_HELP_021", "Bez ohledu na doplňku není výstup");
 define("XMLRPC_HELP_030", "Typ zprávy vykreslení");
