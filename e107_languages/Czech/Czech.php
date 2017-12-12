@@ -37,7 +37,7 @@ define("CORE_LAN_KB", "kB");
 define("CORE_LAN_MB", "MB");
 define("CORE_LAN_GB", "GB");
 define("CORE_LAN_TB", "TB");
-define("EMESSLAN_TITLE_INFO", "Systémové informace");
+define("EMESSLAN_TITLE_INFO", "Systémová informace");
 define("EMESSLAN_TITLE_ERROR", "Chyba");
 define("EMESSLAN_TITLE_SUCCESS", "Úspěch");
 define("EMESSLAN_TITLE_WARNING", "Varování");

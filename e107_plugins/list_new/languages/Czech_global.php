@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 
-define("LAN_PLUGIN_LISTNEW_NAME", "Vypsat nové položky");
-define("LAN_PLUGIN_LISTNEW_DESCRIPTION", "This plugin allows you to view a list and/or menu of recent additions in all e107 categories. You can either view the list with data since your last visit, or view a general latest additions list.");
+define("LAN_PLUGIN_LISTNEW_NAME", "Přehled");
+define("LAN_PLUGIN_LISTNEW_DESCRIPTION", "Tento doplněk umožňuje zobrazit seznam posledních příspěvků, položek ve všech kategoriích vašich stránek. Zobrazí všechny aktuality od vaší poslední návštěvy. Je dostupné i ve formě menu. Všechny vlastnosti můžete nastavit v administraci.");
 
 

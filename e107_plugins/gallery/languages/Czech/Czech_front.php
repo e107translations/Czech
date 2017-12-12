@@ -13,5 +13,5 @@
 +---------------------------------------------------------------+
 */
 
-define("LAN_GALLERY_FRONT_01", "Klepněte pravým tlačítkem myši na tlačítko > Uložit odkaz jako");
+define("LAN_GALLERY_FRONT_01", "Klepněte pravým tlačítkem myši na tlačítko - Uložit odkaz jako");
 define("LAN_GALLERY_FRONT_02", "Rozbalte obrázek");

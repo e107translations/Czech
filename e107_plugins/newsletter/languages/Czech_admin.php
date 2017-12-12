@@ -33,7 +33,7 @@ define("NLLAN_32", "Číslo vydání");
 define("NLLAN_33", "Text");
 define("NLLAN_36", "Aktualizovat vydání zpravodaje");
 define("NLLAN_37", "Vytvořit vydání zpravodaje");
-define("NLLAN_39", "Vydání zpravodaje uložené v databázi - k odeslání, klepněte v nabídce Možnosti na tlačítko \ "Uvolnit vydání \".");
+define("NLLAN_39", "Vydání zpravodaje uložené v databázi - k odeslání, klepněte v nabídce Možnosti na tlačítko \"Uvolnit vydání\".");
 define("NLLAN_40", "Zpravodaj přidán do fronty - vydání odesláno [x] odběratelům.");
 define("NLLAN_41", "Nebyli nalezeni žádní odběratelé - e-mail byl zrušen");
 define("NLLAN_44", "Titulní stránka zpravodaje");
