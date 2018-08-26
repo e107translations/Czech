@@ -31,5 +31,5 @@ define("LANDT_08", "min");
 define("LANDT_08s", "minuty");
 define("LANDT_09", "sek");
 define("LANDT_09s", "sekundy");
-define("LANDT_AGO", "před");
+define("LANDT_AGO", "zpátky");
 define("LANDT_10", "Právě teď");
