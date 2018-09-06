@@ -12,10 +12,9 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Uživatelovy příspěvky");
-define("UP_LAN_0", "Příspěvky do fóra od");
-define("UP_LAN_1", "Komentáře od");
+define("UP_LAN_0", "Všechny příspěvky do fóra od [x]");
+define("UP_LAN_1", "Všechny komentáře od [x]");
 define("UP_LAN_2", "Vlákno");
 define("UP_LAN_3", "Zobrazení");
 define("UP_LAN_4", "Odpovědí");

@@ -12,11 +12,10 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_USER_01", "Zobrazované jméno");
 define("LAN_USER_02", "Přihlašovací jméno");
 define("LAN_USER_03", "Skutečné jméno");
-define("LAN_USER_04", "Vlastní nadpis");
+define("LAN_USER_04", "Vlastní název");
 define("LAN_USER_06", "Fotografie");
 define("LAN_USER_07", "Avatar");
 define("LAN_USER_09", "Podpis");
@@ -72,7 +71,7 @@ define("LAN_USER_69", "Příspěvků ve fóru");
 define("LAN_USER_71", "Podpis:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "choice of Content/Mail-lists");
-define("LAN_USER_74", "Vlastní nadpis");
+define("LAN_USER_74", "Vlastní název");
 define("LAN_USER_75", "Váš [x] je vyžadován");
 define("LAN_USER_76", "Jste přihlášeni k odběru");
 define("LAN_USER_77", "Vaše heslo musí mít nejméně [x] znaků.");

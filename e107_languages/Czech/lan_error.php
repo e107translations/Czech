@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Chyba");
 define("LAN_ERROR_TITLE", "Jejda!");
 define("LAN_ERROR_1", "Chyba 401 - Přístup odepřen");
@@ -60,3 +59,7 @@ define("LAN_ERROR_43", "Stránky dočasně nedostupné");
 define("LAN_ERROR_44", "Logo stránek");
 define("LAN_ERROR_45", "Co můžete dělat?");
 define("LAN_ERROR_46", "Kontrola protokolu pro více podrobností.");
+define("LAN_ERROR_47", "Chyba: Nadpis novinky nesmí být prázdný!");
+define("LAN_ERROR_48", "Chyba: Pole SEF URL je povinné pole a nesmí být prázdné!");
+define("LAN_ERROR_49", "Chyba: SEF URL novinky je unikátní - aktuální adresa je již používána! Zvolte jinou adresu SEF URL.");
+define("LAN_ERROR_50", "Chyba: Kategorie pro danou novinku musí být zvolena!");

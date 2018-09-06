@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Uživatelské nastavení");
 define("MAX_AVWIDTH", "Maximální rozměry jsou");
 define("MAX_AVHEIGHT", " x");
@@ -85,3 +84,10 @@ define("LAN_435", "XML soubor uživatelského nastavení");
 define("LAN_CUSTOMTITLE", "Titul");
 define("LAN_USET_5", "Přihlášen do");
 define("LAN_USET_6", "Přihlaste se k odběru novinek a/nebo do různých uživatelských skupin.");
+define("LAN_USET_50", "Smazat účet");
+define("LAN_USET_51", "Jste si jistý? Tento postup nelze zrušit! Po dokončení bude váš účet a veškeré osobní údaje, které jste zadali na tomto webu, trvale ztraceny a nebudete se moci připojit.");
+define("LAN_USET_52", "Na adresu [x] byl odeslán potvrzující e-mail. Klepnutím na odkaz v e-mailu trvale smažete váš účet.");
+define("LAN_USET_53", "Potvrzení o smazání účtu");
+define("LAN_USET_54", "Potvrzovací e-mail odeslán");
+define("LAN_USET_55", "Kliknutím na následující odkaz dokončíte smazání účtu.");
+define("LAN_USET_56", "Váš účet byl smazán");

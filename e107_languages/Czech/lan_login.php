@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_LOGIN_1", "Jméno uživatele");
 define("LAN_LOGIN_2", "Heslo");
 define("LAN_LOGIN_3", "Chráněný server");
@@ -48,3 +47,4 @@ define("LAN_LOGIN_32", "Vidíte tuto zprávu, protože jste přihlášeni jako h
 define("LAN_LOGIN_33", "[Návrat na úvodní stránku]");
 define("LAN_LOGIN_34", "Možnost registrace uživatele nebo přihlášení je momentálně vypnuta.");
 define("LAN_LOGIN_35", "[Povolit]");
+define("LAN_LOGIN_36", "Emaily odeslané na [x] nejsou doručeny. Prosím, [ověřte si, zda je vaše e-mailová adresa správná].");

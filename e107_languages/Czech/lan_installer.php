@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LANINS_001", "Verze %1$s");
 define("LANINS_002", "Instalace");
 define("LANINS_003", "1");
@@ -115,3 +114,5 @@ define("LANINS_141", "Vyplňte níže uvedený formulář s údaji o MySQL. Poku
 define("LANINS_142", "DŮLEŽITÉ: Prosím přejmenujte e107.htaccess na .htaccess");
 define("LANINS_144", "DŮLEŽITÉ: Zkopírujte a vložte obsah souboru [b]e107.htaccess[/b] do souboru [b].htaccess[/b]. Prosím, dejte pozor, abyste NEPŘEPSALI existující data, která  v něm mohou být.");
 define("LANINS_145", "e107 v2.x vyžaduje instalaci PHP [x]. Prosím, kontaktujte svého hostitele nebo si přečtěte informace v [y] před pokračováním.");
+define("LANINS_146", "Styl administrační oblasti");
+define("LANINS_147", "Administrace");

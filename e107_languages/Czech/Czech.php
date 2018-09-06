@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 15:27:27
+|        Last Modified: 2018/09/06 18:31:10
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 15:27:27 $
+|        $Revision: 2.1.9 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -107,6 +106,7 @@ define("LAN_FILES", "Soubory");
 define("LAN_SIZE", "Velikost");
 define("LAN_VERSION", "Verze");
 define("LAN_DOWNLOAD", "Stáhnout");
+define("LAN_DOWNLOAD_NO_PERMISSION", "Soubor nebyl nalezen nebo nemáte oprávnění ke stažení tohoto souboru");
 define("LAN_WEBSITE", "Webová stránka");
 define("LAN_COMMENTS", "Komentáře");
 define("LAN_LOCATION", "Umístění");
@@ -122,7 +122,8 @@ define("LAN_WROTE", "napsal");
 define("LAN_RE_ORDER", "Znovu seřadit");
 define("LAN_RELATED", "Souvisejíci");
 define("LAN_CLOSE", "Zavřít");
-define("LAN_EXPAND", "Rozšířit");
+define("LAN_EXPAND", "Rozbalit");
+define("LAN_LIST", "Seznam");
 define("LAN_ENTER_USRNAME_EMAIL", "Prosím, zadejte své uživatelské jméno nebo e-mail");
 define("LAN_PWD_REQUIRED", "Heslo je povinné");
 define("LAN_SHOW", "Zobrazit");

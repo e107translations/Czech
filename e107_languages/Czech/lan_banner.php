@@ -1,14 +1,14 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website system Czech Language File
+|        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2018/09/06 18:31:10
 |
-|        $URL: ../e107_languages/Czech/lan_banner.php $
-|        $Revision: 0.8 $
-|        $Id: 2012/01/15 08:53:15 $
-|        $Author: Oxigen $
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.1.9 $
+|        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
