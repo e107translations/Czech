@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("BANLAN_2", "Žádné zákazy.");
 define("BANLAN_3", "Současné zakázané návštěvy");
 define("BANLAN_5", "Vložit IP, email nebo hostitele");
@@ -126,3 +125,4 @@ define("BANLAN_123", "Přidat");
 define("BANLAN_124", "Vyprší");
 define("BANLAN_125", "Použití mé IP adresy");
 define("BANLAN_126", "IP / Email");
+define("BANLAN_127", "Smazat všechny neúspěšná přihlášení z databáze ( [x] )");

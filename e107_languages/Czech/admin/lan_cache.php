@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("CACLAN_1", "Stav systémové mezipaměti");
 define("CACLAN_2", "Nastavit mezipaměť");
 define("CACLAN_3", "Nastavení mezipaměťi systému");
@@ -35,6 +34,6 @@ define("CACLAN_24", "Vyprázdnit mezipaměť DB");
 define("CACLAN_25", "Vyprázdnit mezipaměť obrázků");
 define("CACLAN_26", "Vyprázdnit všechnu mezipaměť");
 define("CACLAN_27", "Vyprázdnit mezipaměť prohlížeče");
-define("CACLAN_28", "Vyrovnávací pamět JS/CSS");
+define("CACLAN_28", "Mezipaměť JS/CSS");
 define("CACLAN_29", "Konsolidovat a ukládat do mezipaměti soubory javascript a kaskádové soubory stylů.");
-define("CACLAN_30", "Vyrovnávací pamět JS/CSS je prázdná");
+define("CACLAN_30", "Vyprázdnit mezipaměť JS/CSS");

@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:38:01
+|        Last Modified: 2018/09/06 18:41:50
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:38:01 $
+|        $Revision: 2.1.9 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -22,12 +21,6 @@ define("LAN_IMA_001", "Úprava není povolena.");
 define("LAN_IMA_002", "Není k dispozici dostatek paměti pro otáčení");
 define("LAN_IMA_003", "Otočení");
 define("LAN_IMA_004", "Změna velikosti");
-define("LAN_IMA_O_001", "Obrázky k novinkám");
-define("LAN_IMA_O_002", "Novinky [img] bbkód");
-define("LAN_IMA_O_003", "Stránky [img] bbkód");
-define("LAN_IMA_O_004", "Obrázky pro Featurebox");
-define("LAN_IMA_O_005", "Featurebox [img] bbkód");
-define("LAN_IMA_O_006", "[img] bbkód");
 define("IMALAN_1", "Povolit ukládání obrázků");
 define("IMALAN_2", "Zobrazovat obrázky, použije se pro celý web (i v komentářích, apod.), které byly vloženy pomocí [img] BBCode");
 define("IMALAN_3", "Metoda pro změnu velikosti");
@@ -79,12 +72,13 @@ define("IMALAN_66", "Jméno souboru");
 define("IMALAN_68", "Zavřít");
 define("IMALAN_69", "Adresář");
 define("IMALAN_70", "Systémová složka nebyla nalezena!");
+define("IMALAN_72", "Ikony");
 define("IMALAN_73", "Kvalita miniatury");
 define("IMALAN_74", "Nastavte tak nízké jak to jde než dojde k viditelné ztrátě kvality. Maximální hodnota je 100.");
 define("IMALAN_75", "Šířka avataru");
 define("IMALAN_76", "Avatary budou zmenšeny na zadanou velikost (v pixelech)");
 define("IMALAN_77", "Výška avataru");
-define("IMALAN_78", "Avatary budou zmenšeny na zadanou velikost (v pixelech)");
+define("IMALAN_78", "Všeobecné");
 define("IMALAN_79", "Změna rozměrů obrázku");
 define("IMALAN_80", "Aktivace vodoznaku");
 define("IMALAN_81", "Všechny obrázky o šířce nebo výšce větší než zadaná hodnota bude mít při změně velikosti vodoznak .");
@@ -95,7 +89,7 @@ define("IMALAN_85", "Volitelný font pro vodoznak. Font nahrajte ve formátu .tt
 define("IMALAN_86", "Velikost vodoznaku");
 define("IMALAN_87", "Velikost fontu zadejte v pt (typografický bod)");
 define("IMALAN_88", "Umístění vodoznaku");
-define("IMALAN_89", "Určí umístění vodoznaku v obrázku");
+define("IMALAN_89", "Vodoznak");
 define("IMALAN_90", "Odsazení vodoznaku");
 define("IMALAN_91", "Určí odsazení vodoznaku od okraje obrázku");
 define("IMALAN_92", "Barva vodoznaku");
@@ -160,7 +154,7 @@ define("IMALAN_151", "Vybrat z knihovny");
 define("IMALAN_152", "Vzhled");
 define("IMALAN_153", "Použitý obrázek");
 define("IMALAN_154", "Nepoužívá se");
-define("IMALAN_155", "Folder pro výběr předlohy");
+define("IMALAN_155", "Předvolený adresář pro avatary");
 define("IMALAN_156", "Smazat všechny nevyužité snímky");
 define("IMALAN_157", "Tok textu");
 define("IMALAN_158", "Odsazení vlevo");
@@ -189,3 +183,5 @@ define("IMALAN_180", "0 byte soubor nalezen v:");
 define("IMALAN_181", "Před pokračováním odstraňte prosím.");
 define("IMALAN_182", "Převést do formátu JPEG při importu");
 define("IMALAN_183", "Soubory PNG a GIF budou automaticky převedeny na formát jpeg. (ikony jsou vyloučeny)");
+define("IMALAN_184", "Výchozí velikost obrázků");
+define("IMALAN_185", "Maximální výška v pixelech");

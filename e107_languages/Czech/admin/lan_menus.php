@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("MENLAN_7", "Nastavení viditelnosti pro");
 define("MENLAN_10", "Nové menu instalováno");
 define("MENLAN_11", "Menu odstraněno");
@@ -54,5 +53,5 @@ define("MENLAN_55", "Rozvržení menu");
 define("MENLAN_56", "Vlastní stránky");
 define("MENLAN_57", "Drag-and-Drop menu");
 define("MENLAN_58", "Správce menu umožňuje vložit a uspořádat vaše menu v šabloně. Umístěte kurzor myši nad oblast, chcete-li upravit již existující menu.");
-define("MENLAN_59", "Plocha [x]");
+define("MENLAN_59", "Oblast [x]");
 define("MENLAN_60", "Toto téma používá zastaralé prvky. Všechny [x]HEADER a [x]FOOTER proměnné by měly být smazány ze souboru theme.php.");

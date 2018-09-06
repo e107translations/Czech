@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 19:48:33
+|        Last Modified: 2018/09/06 19:07:44
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 19:48:33 $
+|        $Revision: 2.1.9 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -131,6 +130,12 @@ define("ADLAN_186", "Následující staré soubory lze bezpečně odstranit ze s
 define("ADLAN_187", "Nelze vytvořit [x]. Zkontrolujte prosím oprávnění složky.");
 define("ADLAN_188", "Nastavení vašeho časového pásma [x] je neplatné. Bylo resetováno na UTC. Chcete-li změnit, přejděte na možnost Administrace -> Předvolby -> Možnosti zobrazení data.");
 define("ADLAN_189", "Následující doplňky nejsou kompatibilní s touto verzí e107 a měly by být odinstalovány:");
+define("ADLAN_190", "Potřebujete pomoc?");
+define("ADLAN_191", "Přihlaste se do naší komunity a získejte [bezplatnou podporu] pro případné problémy s upgradem.");
+define("ADLAN_192", "Přihlaste se k naší komunitě a získejte [bezplatnou podporu] pro všechny problémy, s nimiž se můžete setkat.");
+define("ADLAN_193", "Složka [x] není zapisovatelná. Opravte oprávnění před pokračováním.");
+define("ADLAN_194", "Zjištěna složka se staršími avatary. Ujistěte se, že složka [x] avatary / je zapisovatelná. Před pokrašováním prosím opravte.");
+define("ADLAN_195", "Staré složky byly přesunuty do adresáře pro zálohování");
 define("ADLAN_CL_2", "Uživatelé");
 define("ADLAN_CL_3", "Obsah");
 define("ADLAN_CL_4", "Komentáře");
@@ -241,6 +246,7 @@ define("LAN_UPLOAD_CONFIRM", "Všechny neuložené možnosti budou ztraceny. Pok
 define("LAN_UPLOAD_777", "Složka neexistuje nebo není zapisovatelná, musíte nastavit CHMOD na hodnotu 777 těmto složkám před úpravami:");
 define("LAN_UPLOAD_SERVEROFF", "Tato možnost je vypnutá, pokud není zapnuté nahrávání souborů");
 define("LAN_WIDTH", "Šířka");
+define("LAN_HEIGHT", "Výška");
 define("LAN_ON", "Zap.");
 define("LAN_OFF", "Vyp.");
 define("LAN_DISABLED", "Vypnuto");
@@ -267,7 +273,6 @@ define("LAN_MENULAYOUT", "Rozvržení menu");
 define("LAN_MEDIAMANAGER", "Správce medií");
 define("LAN_MOREINFO", "Více informací..");
 define("LAN_COMMENTMAN", "Správce komentářů");
-define("LAN_LIST", "Seznam");
 define("LAN_FILTER", "Filtr");
 define("LAN_STATUS", "Stav");
 define("LAN_URL", "Adresa URL");
@@ -384,8 +389,19 @@ define("LAN_LOCK", "Zamčeno");
 define("LAN_SYSTEM_USER", "Uživatel systému");
 define("LAN_ENGINE", "Motor");
 define("LAN_SOURCE", "Zdroj");
+define("LAN_UPGRADING", "Aktualizovat?");
+define("LAN_DONT_SHOW_AGAIN", "Znovu nezobrazovat");
 define("LAN_ERROR_CONNECTION", "Nelze se připojit k aktualizacím. Zkontrolujte prosím firewall nebo připojení k internetu.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] nemůže být stejný jako [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Zobrazit mřížku");
 define("LAN_UI_VIEW_LIST_LABEL", "Zobrazit seznam");
 define("LAN_CHECKING_FOR_UPDATES", "Kontrola aktualizací");
+define("LAN_UI_FILTER_NEXT_HOUR", "Další hodinu");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "Dalších 24 hodin");
+define("LAN_UI_FILTER_NEXT_WEEK", "Příští týden");
+define("LAN_UI_FILTER_NEXT_MONTH", "Příští měsíc");
+define("LAN_UI_FILTER_NEXT_YEAR", "Příští rok");
+define("LAN_UI_FILTER_IS_EMPTY", "Je prázdný");
+define("LAN_RECALCULATE_COMMENT_COUNT", "Přepočítat počet komentářů");
+define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Počet komentářů byl úspěšně přepočítán!");
+define("LAN_NO_RESULTS_FOUND", "Nenalezeny žádné výsledky.");

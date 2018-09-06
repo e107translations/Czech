@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("USRLAN_1", "Nastavení uloženo.");
 define("USRLAN_3", "je nyní administrátorem - pro nastavení oprávnění pokračujte na");
 define("USRLAN_4", "Administrátorské stránky");
@@ -34,10 +33,10 @@ define("USRLAN_34", "Odebrat status administrátora");
 define("USRLAN_35", "Udělit status administrátora");
 define("USRLAN_36", "Nastavit třídu");
 define("USRLAN_44", "Povolit uživatelům nahrávat obrázek (avatar)?");
-define("USRLAN_47", "Maximální šířka obrázku (v bodech)");
-define("USRLAN_48", "standardně 120");
-define("USRLAN_49", "Maximální výška (v bodech)");
-define("USRLAN_50", "přednastaveno 100");
+define("USRLAN_47", "Maximální šířka obrázku (v pixelech)");
+define("USRLAN_48", "standardně 120px");
+define("USRLAN_49", "Maximální výška (v pixelech)");
+define("USRLAN_50", "standardně 100px");
 define("USRLAN_51", "Uložit nastavení");
 define("USRLAN_52", "Nastavení uživatelů");
 define("USRLAN_53", "Povolit uživatelům nahrávat fotografii?");
@@ -68,7 +67,7 @@ define("USRLAN_90", "Hledat/Obnovit");
 define("USRLAN_91", "Třída");
 define("USRLAN_92", "Neplatné znaky v uživatelském jméně");
 define("USRLAN_93", "Smazat neověřené účty");
-define("USRLAN_94", "Smazat uživatelské účty, které nebyly ověřeny do doby - vynecháním službu vypnete <br />Toto nastavení ignorujte, pokud Administrátor uživatele moderuje sám.");
+define("USRLAN_94", "Smazat uživatelské účty, které nebyly ověřeny do doby - zadáním nuly službu vypnete <br />Toto nastavení ignorujte, pokud Administrátor uživatele moderuje sám.");
 define("USRLAN_95", "minut");
 define("USRLAN_112", "Přeposlat e-mail");
 define("USRLAN_113", "Registrační informace od");
@@ -158,10 +157,10 @@ define("USRLAN_212", "Hodnost uživatele");
 define("USRLAN_214", "Přidat novou hodnost");
 define("USRLAN_216", "--vybrat obrázek--");
 define("USRLAN_219", "Starší než 30 dní");
-define("LAN_MAINADMIN", "Hlavní Admin");
-define("LAN_NOTVERIFIED", "bez ověření");
-define("LAN_BANNED", "Zakázán");
-define("LAN_BOUNCED", "Odražen");
+define("LAN_MAINADMIN", "Hlavní administrátor");
+define("LAN_NOTVERIFIED", "Neověřený");
+define("LAN_BANNED", "Blokován");
+define("LAN_BOUNCED", "Odražený");
 define("LAN_UI_1_HOUR", "1 hodina");
 define("LAN_UI_3_HOURS", "3 hodiny");
 define("LAN_UI_6_HOURS", "6 hodin");
@@ -190,8 +189,8 @@ define("USRLAN_237", "Uživatelské jméno a zobrazované jméno nesmí být jin
 define("USRLAN_238", "Váš aktuální stav je [b] Aktivní [/b]");
 define("USRLAN_239", "Oznámení a stav uživatele");
 define("USRLAN_240", "Aktivovat, neoznamovat");
-define("USRLAN_241", "Aktivovat, upozornit (heslo)");
-define("USRLAN_242", "Vyžadovat aktivaci, Upozornit (heslo a aktivační odkaz)");
+define("USRLAN_241", "Aktivovat, oznámit (heslo)");
+define("USRLAN_242", "Vyžadovat aktivaci, oznámit (heslo a aktivační odkaz)");
 define("USRLAN_243", "Nastavit oprávnění");
 define("USRLAN_244", "Porušení zabezpečení (nedostatečné oprávnění) - Administrátor [x] ([y], [z] ) se pokusil odebrat stav administrátora z adresy [u] ([v], [w])");
 define("USRLAN_245", "Porušení zabezpečení (nedostatečná oprávnění) - Administrátor [x] ([y], [z]) se pokusil vytvořit [u] ([v], [w]) systému admin");

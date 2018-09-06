@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("CORE_DATE_ORDER", "dmy");
 define("LAN_MAILOUT_01", "Od (jméno)");
 define("LAN_MAILOUT_02", "Od (e-mail)");
@@ -53,9 +52,9 @@ define("LAN_MAILOUT_38", "Zrušit");
 define("LAN_MAILOUT_39", "E-mailování");
 define("LAN_MAILOUT_41", "před odesláním pošty z této stránky.");
 define("LAN_MAILOUT_43", "Uživatelské jméno");
-define("LAN_MAILOUT_44", "Přihlášení uživatele");
+define("LAN_MAILOUT_44", "Přihlašovací jméno");
 define("LAN_MAILOUT_45", "E-mail uživatele");
-define("LAN_MAILOUT_46", "User-Match");
+define("LAN_MAILOUT_46", "Uživatelská shoda ");
 define("LAN_MAILOUT_47", "obsahuje");
 define("LAN_MAILOUT_48", "shoda");
 define("LAN_MAILOUT_51", "Předmět");
@@ -117,7 +116,7 @@ define("LAN_MAILOUT_117", "dokončit");
 define("LAN_MAILOUT_118", "Klikněte na pokračovat a začněte odesílat e-maily. Klepnutím na tlačítko zrušit ukončete běh a po dokončení vyberte jinou stránku.");
 define("LAN_MAILOUT_119", "Pouze protokolování, s chybami");
 define("LAN_MAILOUT_120", "Typ účtu");
-define("LAN_MAILOUT_121", "Standard POP3");
+define("LAN_MAILOUT_121", "Standardní POP3");
 define("LAN_MAILOUT_122", "POP3, TLS zakázáno");
 define("LAN_MAILOUT_123", "POP3 s TLS");
 define("LAN_MAILOUT_124", "IMAP");
@@ -130,7 +129,7 @@ define("LAN_MAILOUT_130", "Datum vytvoření");
 define("LAN_MAILOUT_131", "Zaslání začátek");
 define("LAN_MAILOUT_132", "Odeslání dokončeno");
 define("LAN_MAILOUT_134", "Priorita");
-define("LAN_MAILOUT_136", "Mailout Status");
+define("LAN_MAILOUT_136", "Stav odchozí pošty");
 define("LAN_MAILOUT_137", "Mail Ref");
 define("LAN_MAILOUT_138", "Stav e-mailu");
 define("LAN_MAILOUT_139", "Datum aktivní");
@@ -170,7 +169,7 @@ define("LAN_MAILOUT_172", "Typ / stav pošty");
 define("LAN_MAILOUT_173", "Příjemci");
 define("LAN_MAILOUT_174", "Bezpečnostní kontrola selže: [x] [z]");
 define("LAN_MAILOUT_175", "Před");
-define("LAN_MAILOUT_176", "Equal to");
+define("LAN_MAILOUT_176", "Schodný s");
 define("LAN_MAILOUT_177", "Po");
 define("LAN_MAILOUT_178", "Poslední návštěva webu");
 define("LAN_MAILOUT_179", "Potvrzení odeslání e-mailu");

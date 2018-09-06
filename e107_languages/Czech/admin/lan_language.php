@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LANG_LAN_00", "[x] nemohla být vytvořena.(již existuje)");
 define("LANG_LAN_01", "[x] byla smazána (pokud existovala) a vytvořena.");
 define("LANG_LAN_02", "[x] nemohla být smazána");

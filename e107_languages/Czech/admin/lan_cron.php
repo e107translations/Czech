@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CRON_M_02", "Obnovit");
 define("LAN_CRON_2", "Funkce");
 define("LAN_CRON_3", "Info");
@@ -65,6 +64,8 @@ define("LAN_CRON_51", "Hodina");
 define("LAN_CRON_52", "Den");
 define("LAN_CRON_53", "Mšsíc");
 define("LAN_CRON_54", "Všední den");
+define("LAN_CRON_55", "Zálohování databáze se nezdařilo");
+define("LAN_CRON_56", "Zálohování databáze dokončeno");
 define("LAN_CRON_60", "Přejít na cPanel");
 define("LAN_CRON_61", "Vytvořit nové heslo jádra");
 define("LAN_CRON_62", "Spusťte funkci Konfigurace: [b][x][/b]");

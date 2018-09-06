@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 21:12:32
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 21:12:32 $
+|        $URL: https://github.com/e107translations/Czech/ $
+|        $Revision: 2.1.8 $
+|        Last Modified: 2017/12/26 12:43:27$
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -72,7 +71,7 @@ define("EPL_ADLAN_54", "Vyberte si prosím možnosti nastavení odinstalace:");
 define("EPL_ADLAN_55", "Odinstalovat doplněk");
 define("EPL_ADLAN_57", "Smazat tabulky doplňku");
 define("EPL_ADLAN_58", "Pokud neodstraníte tabulky, lze doplněk znovu nainstalovat bez ztráty dosavadních dat doplňku. Vytváření tabulek během nové instalace selže. Tabulky bude nutné smazat ručně, pokud je budete chtít odstranit.");
-define("EPL_ADLAN_59", "Smazat tabulky doplňku");
+define("EPL_ADLAN_59", "Smazat soubry doplňku");
 define("EPL_ADLAN_60", "e107 se pokusí smazat všechny soubory daného doplňku.");
 define("EPL_ADLAN_62", "Zrušit odinstalaci");
 define("EPL_ADLAN_63", "Odinstalace:");
@@ -220,18 +219,18 @@ define("EPL_ADLAN_213", "Obrázek (string)");
 define("EPL_ADLAN_214", "Obrázky (array)");
 define("EPL_ADLAN_215", "Skrytý");
 define("EPL_ADLAN_216", "Klikněte zde");
-define("EPL_ADLAN_217", "[x] navštívit původní administrátorskou oblast");
+define("EPL_ADLAN_217", "[x] a přejděte na vytvořenou administrační stránku doplňku.");
 define("EPL_ADLAN_218", "Nelze zapisovat [x]");
 define("EPL_ADLAN_219", "Soubory nebyly vytvořeny! Zkopírujte a vložte kód do níže uvedených souborů.");
 define("EPL_ADLAN_220", "Vyhledat doplňky");
-define("EPL_ADLAN_221", "Kontrola jazyk. souborů");
+define("EPL_ADLAN_221", "Kontrola jazykových souborů");
 define("EPL_ADLAN_222", "Soubory doplňku");
 define("EPL_ADLAN_223", "Použitý");
 define("EPL_ADLAN_224", "Nepoužitý");
 define("EPL_ADLAN_225", "Nejistý");
 define("EPL_ADLAN_226", "Kontrola jazykových souborů doplňku");
 define("EPL_ADLAN_227", "Vyhledání změn");
-define("EPL_ADLAN_228", "Kontrola adresáře doplňku [x]. <br/> Klikněte na tlačítko Aktualizovat pro okamžité ověření.");
+define("EPL_ADLAN_228", "Kontrola adresáře doplňku [x].  Klikněte na tlačítko Aktualizovat pro okamžité ověření.");
 define("EPL_ADLAN_229", "Obnovit");
 define("EPL_ADLAN_230", "Stažení a instalace:");
 define("EPL_ADLAN_231", "Smazat ikony z aplikace Správce médií");
@@ -269,4 +268,4 @@ define("LAN_UNINSTALL_FAIL", "Nelze odinstalovat!");
 define("LAN_PLUGIN_IS_USED", "[x] doplněk je používán:");
 define("EPL_ADLAN_254", "Takto se zkontroluje jazykové soubory doplňky pro chyby a běžné nebo duplicitní definice souborů LAN.");
 define("EPL_ADLAN_255", "Přepsat soubory");
-define("EPL_ADLAN_256", "Vynecháno [x] (již existuje)");
+define("EPL_ADLAN_256", "Přeskočeno [x] (již existuje)");
