@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("FORLAN_2", "Prosím vyberte, jestli chcete smazat příspěvky úplně, nebo je pouze označit jako neaktivní(nebudou smazány, ale nebudou zobrazeny ve fórech)");
 define("FORLAN_7", "Nastavení fóra");
 define("FORLAN_8", "Fóra pročištěna.");
@@ -130,3 +129,9 @@ define("FORLAN_213", "Příspěvek");
 define("FORLAN_214", "Nechte prázdné pro automatické vygenerování z výše uvedeného nadpisu.");
 define("FORLAN_215", "Není instalován!");
 define("FORLAN_216", "(nový rodič)");
+define("FORLAN_217", "Výchozí systém");
+define("FORLAN_218", "Textové pole");
+define("FORLAN_219", "Bohatý textový editor");
+define("FORLAN_220", "Editor příspěvků");
+define("FORLAN_221", "Který editor by měl být použit k vytváření / úpravě příspěvků?");
+define("FORLAN_222", "Editor rychlých odpovědí");

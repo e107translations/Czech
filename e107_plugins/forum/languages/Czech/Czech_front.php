@@ -4,16 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/22 01:22:22
+|        Last Modified: 2018/09/06 18:50:37
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/22 01:22:22 $
+|        $Revision: 2.1.9 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("e_PAGETITLE", "Fórum");
 define("LAN_FORUM_0002", "Témata");
 define("LAN_FORUM_0003", "Odpovědi");
 define("LAN_FORUM_0004", "Poslední příspěvek");
@@ -53,12 +51,12 @@ define("LAN_FORUM_0038", "(Otevře se v novém okně)");
 define("LAN_FORUM_0039", "Nové příspěvky");
 define("LAN_FORUM_0040", "Žádné nové příspěvky");
 define("LAN_FORUM_0041", "Zamknuté fórum");
-define("LAN_FORUM_0043", "<b>Můžete</b> zakládat nová témata");
-define("LAN_FORUM_0044", "<b>Nemůžete</b> zakládat nová témata");
-define("LAN_FORUM_0045", "<b>Můžete</b> odpovídat na témata");
-define("LAN_FORUM_0046", "<b>Nemůžete</b> odpovídat na témata");
-define("LAN_FORUM_0047", "<b>Můžete</b> upravovat svoje příspěvky");
-define("LAN_FORUM_0048", "<b>Nemůžete</b> upravovat svoje příspěvky");
+define("LAN_FORUM_0043", "Můžete zakládat nová témata");
+define("LAN_FORUM_0044", "Nemůžete zakládat nová témata");
+define("LAN_FORUM_0045", "Můžete odpovídat na témata");
+define("LAN_FORUM_0046", "Nemůžete odpovídat na témata");
+define("LAN_FORUM_0047", "Můžete upravovat svoje příspěvky");
+define("LAN_FORUM_0048", "Nemůžete upravovat svoje příspěvky");
 define("LAN_FORUM_0049", "Vítejte hoste");
 define("LAN_FORUM_0050", "Do těchto fór mají přístup neregistrovaní uživatelé, ale pozor, Vaše IP adresa bude zaznamenána pokud napíšete příspěvek.<br />Pro plný přístup do fóra je potřeba");
 define("LAN_FORUM_0051", "Registrace");

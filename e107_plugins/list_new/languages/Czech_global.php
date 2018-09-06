@@ -9,8 +9,5 @@
 |        $Author: Oxigen $
 +---------------------------------------------------------------+
 */
-
-define("LAN_PLUGIN_LISTNEW_NAME", "Přehled");
-define("LAN_PLUGIN_LISTNEW_DESCRIPTION", "Tento doplněk umožňuje zobrazit seznam posledních příspěvků, položek ve všech kategoriích vašich stránek. Zobrazí všechny aktuality od vaší poslední návštěvy. Je dostupné i ve formě menu. Všechny vlastnosti můžete nastavit v administraci.");
-
-
+define("LAN_PLUGIN_LIST_NEW_NAME", "Přehled");
+define("LAN_PLUGIN_LIST_NEW_DESCRIPTION", "Tento doplněk umožňuje zobrazit seznam posledních příspěvků, položek ve všech kategoriích vašich stránek. Zobrazí všechny aktuality od vaší poslední návštěvy. Je dostupné i ve formě menu. Všechny vlastnosti můžete nastavit v administraci.");

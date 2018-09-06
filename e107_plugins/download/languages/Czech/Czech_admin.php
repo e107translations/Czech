@@ -12,11 +12,11 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_DL_OPTIONS", "Možnosti");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Obecné");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Hlášení");
 define("LAN_DL_DOWNLOAD_OPT_AGREE", "Dohody");
+define("LAN_DL_DOWNLOAD_OPT_SECURITY", "Ochrana");
 define("LAN_DL_UPLOAD", "Nahrát");
 define("LAN_DL_USE_PHP", "Stahování ovládané pomocí PHP");
 define("LAN_DL_USE_PHP_INFO", "Zaškrtnutím zapnete funkci řízení všech stahování pomocí PHP.");
@@ -150,3 +150,12 @@ define("DOWLAN_HELP_7", "Nápověda pro zrcadlo");
 define("DOWLAN_HELP_8", "Nápověda k nahrání seznamu");
 define("DOWLAN_HELP_9", "Nápověda k nahratí typů");
 define("DOWLAN_HELP_10", "Nápovědu k možnosti nahrávání");
+define("LAN_DL_SECURITY_DESCRIPTION", "Soubory ke stažení mohou používat funkce ochrany adresy URL na straně serveru, aby zabránila odkazování a / nebo vynutila vypršení platnosti odkazů. " . "Tato část by měla být nakonfigurována předtím, než je server pro stahování nakonfigurován tak, aby se snížila pravděpodobnost narušení stahovacích souborů.");
+define("LAN_DL_SECURITY_MODE", "Režim ochrany URL");
+define("LAN_DL_SECURITY_MODE_NONE", "Žádný (výchozí)");
+define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");
+define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Klepněte na tlačítko pro přepnutí seznamu proměnných podporovaných Nginx");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Stejný výraz jako nakonfigurován na serveru");
+define("LAN_DL_SECURITY_LINK_EXPIRY", "Doba platnosti v sekundách");
+define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Počet sekund, po který má odkaz na stahování vydat po vygenerování. Efektivní pouze, pokud výraz podporuje čas pro  vypršení platnosti. " . "Pokud je toto pole prázdné, je ve výchozím nastavení velmi dlouhé.");

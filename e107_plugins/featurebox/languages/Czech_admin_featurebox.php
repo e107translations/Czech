@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("FBLAN_08", "Text zprávy");
 define("FBLAN_12", "Režim");
 define("FBLAN_13", "Náhodně měněné texty");
@@ -29,3 +28,6 @@ define("FBLAN_30", "Šablony kategorie");
 define("FBLAN_31", "Náhodný");
 define("FBLAN_32", "Parametry (volitelné)");
 define("FBLAN_33", "Volitelné parametry jazyka Javascript (formát se může změnit)");
+define("FBLAN_34", "Nepřiřazeno");
+define("FBLAN_35", "Kolotoč");
+define("FBLAN_36", "Záložky");
