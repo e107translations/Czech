@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/22 00:11:56
+|        Last Modified: 2020/07/31 18:54:07
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/22 00:11:56 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("FORLAN_2", "Prosím vyberte, jestli chcete smazat příspěvky úplně, nebo je pouze označit jako neaktivní(nebudou smazány, ale nebudou zobrazeny ve fórech)");
 define("FORLAN_7", "Nastavení fóra");
 define("FORLAN_8", "Fóra pročištěna.");
@@ -111,7 +111,7 @@ define("FORLAN_184", "Oprávnění vytvořit téma fóra");
 define("FORLAN_185", "Označuje, kdo může vytvářet nové témata fóra");
 define("FORLAN_186", "Počet témat na stránku");
 define("FORLAN_187", "Počet témat zobrazených na jedné stránce");
-define("FORLAN_189", "Klepnutím na tlačítko 'Smazat' vymažte přehled. <br /> <br /> Klepnutím na tlačítko 'Zobrazit' zobrazíte téma / vlákno");
+define("FORLAN_189", "Klepnutím na tlačítko 'Smazat' vymažte přehled. [br][br]Klepnutím na tlačítko 'Zobrazit' zobrazíte téma / vlákno[br][br]Chcete-li být informováni o všech nových zprávách, přečtěte si část [Nastavení oznámení].");
 define("FORLAN_200", "Sledování témat");
 define("FORLAN_201", "Umožnit, uživatelům sledovat témata.");
 define("FORLAN_202", "Emailová upozornění na aktivitu v sledovaných tématech");

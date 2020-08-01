@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 23:19:05
+|        Last Modified: 2020/07/31 18:44:33
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 23:19:05 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_DL_OPTIONS", "Možnosti");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Obecné");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Hlášení");
@@ -24,6 +24,7 @@ define("LAN_DL_SUBSUB_CAT", "Zobrazit dílčí sub-kategorie");
 define("LAN_DL_SUBSUB_CAT_INFO", "Toto ověření se zobrazí dílčí sub-kategorií na této hlavní stránce");
 define("LAN_DL_SUBSUB_COUNT", "Kombinovat kategorie počty");
 define("LAN_DL_SUBSUB_COUNT_INFO", "Zahrnout dílčí sub-kategorie počty v podkategorii počty");
+define("LAN_DL_BROKENDOWNLOADSREPORTS", "Oznámení o neúspěšném stahování");
 define("DOWLAN_1", "Soubor ke stažení byl přidán do databáze.");
 define("DOWLAN_2", "Soubor byl upraven v databázi.");
 define("DOWLAN_5", "Ještě nejsou nastavené žádné kategorie pro soubory ke stažení. Dokud nějakou kategorii nevytvoříte, nejde vložit souboru ke stažení.");
@@ -101,7 +102,6 @@ define("DOWLAN_145", "Stažení souboru je viditelné pro");
 define("DOWLAN_146", "Vlastní zpráva o zakázaní stahování nebo URL");
 define("DOWLAN_148", "Zaškrtnutím bude časová značka nahrazena aktuálními hodnotami data a času");
 define("DOWLAN_149", "URL adresa");
-define("DOWLAN_150", "Upozornit emailem správce, pokud je nahlášen soubor, který není možný stáhnout");
 define("DOWLAN_151", "Možnost oznámení nefuknčního souboru ke stažení");
 define("DOWLAN_152", "Nemohu přesunout soubor");
 define("DOWLAN_153", "Přesunout soubor do složky");
@@ -140,6 +140,7 @@ define("DOWLAN_193", "Vyberte možnost");
 define("DOWLAN_195", "Typ zcadla");
 define("DOWLAN_196", "seznam");
 define("DOWLAN_197", "náhodné");
+define("DOWLAN_199", "Předložil");
 define("DOWLAN_HELP_1", "Pomoc");
 define("DOWLAN_HELP_2", "<p>Vytvořit nebo upravit soubor ke stažení.</p><p>Zadejte pouze jeden z: souboru, URL nebo zrcadla.</p><p>Ujistěte se, že jste vybraly kategorii, jinak nebude soubor viditelný na stránce k stahování.</p>");
 define("DOWLAN_HELP_3", "Nápověda pro cat");
@@ -150,6 +151,7 @@ define("DOWLAN_HELP_7", "Nápověda pro zrcadlo");
 define("DOWLAN_HELP_8", "Nápověda k nahrání seznamu");
 define("DOWLAN_HELP_9", "Nápověda k nahratí typů");
 define("DOWLAN_HELP_10", "Nápovědu k možnosti nahrávání");
+define("DOWLAN_HELP_11", "Chcete-li zprávu smazat, klikněte na tlačítko „odstranit“. [br] [br] Chcete-li spravovat soubor, klikněte na tlačítko „zobrazit“. [br] [br] Chcete-li být informováni o všech nových oznámeních, přečtěte si část [Nastavení oznámení] .");
 define("LAN_DL_SECURITY_DESCRIPTION", "Soubory ke stažení mohou používat funkce ochrany adresy URL na straně serveru, aby zabránila odkazování a / nebo vynutila vypršení platnosti odkazů. " . "Tato část by měla být nakonfigurována předtím, než je server pro stahování nakonfigurován tak, aby se snížila pravděpodobnost narušení stahovacích souborů.");
 define("LAN_DL_SECURITY_MODE", "Režim ochrany URL");
 define("LAN_DL_SECURITY_MODE_NONE", "Žádný (výchozí)");

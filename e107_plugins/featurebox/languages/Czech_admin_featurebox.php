@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 23:22:39
+|        Last Modified: 2020/07/31 18:51:56
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 23:22:39 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("FBLAN_08", "Text zprávy");
 define("FBLAN_12", "Režim");
 define("FBLAN_13", "Náhodně měněné texty");

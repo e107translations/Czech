@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/22 01:23:50
+|        Last Modified: 2020/08/01 06:42:27
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/22 01:23:50 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -26,3 +25,4 @@ define("LAN_FORUM_MENU_012", "Maximální stáří zobrazených příspěvků");
 define("LAN_FORUM_MENU_013", "Použijte nulu na méně vytíženém webu, nastavení hodnoty v dnech zkracuje čas na databázi na vytíženém webu");
 define("LAN_FORUM_MENU_014", "Výška posuvné vrstvy (v pixelech)");
 define("LAN_FORUM_MENU_015", "Ponechte prázdné pro žádné posouvání");
+define("LAN_FORUM_MENU_016", "Dosud nebyly vytvořeny žádné kategorie fóra!");

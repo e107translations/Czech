@@ -4,16 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/22 01:43:30
+|        Last Modified: 2020/08/01 07:35:13
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/22 01:43:30 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("LAN_SOCIAL_ADMIN_SUMM", "Přidá Facebook, Twitter a další widgety sociálních médií do e107.");
 define("LAN_SOCIAL_ADMIN_00", "Aplikace");
 define("LAN_SOCIAL_ADMIN_01", "Stránky");
 define("LAN_SOCIAL_ADMIN_02", "Sociální registrace/přihlášení");
@@ -22,8 +20,6 @@ define("LAN_SOCIAL_ADMIN_04", "Poskytovatel");
 define("LAN_SOCIAL_ADMIN_05", "Klíč / ID");
 define("LAN_SOCIAL_ADMIN_06", "Tajný");
 define("LAN_SOCIAL_ADMIN_07", "Umožňuje uživatelům registrovat se / přihlásit pomocí účtů sociálních sítí. Pokud je tato volba povolena, tato možnost bude stále umožňovat uživatelům registraci / přihlášení, a to i v případě, že systém pro základní registraci je vypnut.");
-define("LAN_SOCIAL_ADMIN_08", "Poznámka: Ve většině případů budete muset od některého z poskytovatelů získat klíč ID a tajný klíč. \n Klikněte na modré odkazy napravo pro konfiguraci. \n \n Můžete otestovat konfiguraci pomocí následující adresy URL:");
-define("LAN_SOCIAL_ADMIN_09", "URL adresa zpětného volání je:");
 define("LAN_SOCIAL_ADMIN_10", "Získat klíč od poskytovatele");
 define("LAN_SOCIAL_ADMIN_11", "Váš");
 define("LAN_SOCIAL_ADMIN_12", "strana");
@@ -57,3 +53,14 @@ define("LAN_SOCIAL_ADMIN_39", "Poskytovatelé");
 define("LAN_SOCIAL_ADMIN_40", "Aktualizovat uživatelské zobrazované jméno");
 define("LAN_SOCIAL_ADMIN_41", "Aktualizovat uživatelský avatar");
 define("LAN_SOCIAL_ADMIN_42", "Vlastní obrázek");
+define("LAN_SOCIAL_ADMIN_43", "Pro pokračování v používání tohoto doplňku je vyžadována [aktualizace databáze].");
+define("LAN_SOCIAL_ADMIN_44", "Přidat nového poskytovatele");
+define("LAN_SOCIAL_ADMIN_45", "Tito poskytovatelé sociálního přihlášení jsou aktuálně nakonfigurováni.\nPokud je zapnut hlavní přepínač [b] Sociální registrace / přihlášení [/b], může být každý poskytovatel v této tabulce, který je také zapnut, použit pro registraci uživatelů a přihlášení. Pokud zde vyprázdníte pole poskytovatele a uložíte, přesune se do části [b] Přidat nového poskytovatele [/b].");
+define("LAN_SOCIAL_ADMIN_46", "Toto jsou dostupní poskytovatelé sociálního přihlášení, kteří nebyli nakonfigurováni. Jakmile zde nakonfigurujete a uložíte poskytovatele, přejde do části [b] Sociální registrace/přihlášení [/b].");
+define("LAN_SOCIAL_ADMIN_47", "Nefunkční nakonfigurovaní poskytovatelé");
+define("LAN_SOCIAL_ADMIN_48", "Tito poskytovatelé sociálních přihlášení byli konfigurováni v minulosti, ale již nemají adaptér, který je může podporovat. [br] Může to být způsobeno tím, že již neexistují nebo jsou nahrazováni jiným poskytovatelem.");
+define("LAN_SOCIAL_ADMIN_49", "Testovací stránka");
+define("LAN_SOCIAL_ADMIN_50", "Povolit nebo zakázat testovací stránku sociálního přihlášení");
+define("LAN_SOCIAL_ADMIN_08", "Poznámka: Ve většině případů budete muset od poskytovatelů sociálního přihlášení získat ID aplikace a tajný klíč. \n Pokud je jméno poskytovatele odkazem, tento odkaz by vás měl přenést do konfigurační dokumentace přihlašovací aplikace. \n\n Můžete vyzkoušet svou konfigurace s následující URL po povolení volby na [b] Testovací stránce [/b]:");
+define("LAN_SOCIAL_ADMIN_09", "URL adresa zpětného volání je:");
+define("LAN_SOCIAL_ADMIN_51", "Systém sociálního přihlášení");

@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 23:12:53
+|        Last Modified: 2020/07/31 18:37:10
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 23:12:53 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -29,9 +28,9 @@ define("CHATBOX_L14", "Smajlíci");
 define("CHATBOX_L15", "Příspěvek je prázdný a nebo příliš dlouhý");
 define("CHATBOX_L17", "Duplicitní příspěvek");
 define("CHATBOX_L18", "Zpráva upravena");
-define("CHATBOX_L19", "Můžete psát pouze jednou za ".(FLOODPROTECT ? FLOODTIMEOUT : 'n/a')." vteřin");
+define("CHATBOX_L19", "Můžete psát pouze jednou za [x] vteřin");
 define("CHATBOX_L20", "Chatbox (všechny příspěvky)");
 define("CHATBOX_L22", "v");
 define("CHATBOX_L24", "Nemáte potřebná práva pro zobrazení této stránky.");
-define("CHATBOX_L25", "[ tento příspěvek byl zablokován adminem ]");
+define("CHATBOX_L25", "[ příspěvek byl zablokován administrátorem ]");
 define("LAN_CHATBOX_100", "Sem napište svou zprávu");

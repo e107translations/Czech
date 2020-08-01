@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 23:09:03
+|        Last Modified: 2020/07/31 18:34:40
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 23:09:03 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -39,5 +38,4 @@ define("BNRLAN_47", "Všechny vybrané kampaně v samostaných menu");
 define("BNRLAN_48", "Všechny vybrané kampaně (žádné vykreslování boxu)");
 define("BNRLAN_50", "Lokální");
 define("BNRLAN_51", "Vzdálený");
-define("BNRLAN_HELP_01", "Nápověda");
-define("BNRLAN_HELP_02", "Tento doplněk dovoluje spravovat reklamu na vašich webových stránkách. <br /> <br/> Při vytváření nového reklamního baneru můžete pro přihlášení klienta vytvořit uživatelské jméno a heslo a kontrolovat průběh celé kampaně. <br/> <br/> Reklamu můžete aktivovat pomocí správce nabídek a tam můžete provádět další konfiguraci.");
+define("BNRLAN_HELP_02", "Tento doplněk dovoluje spravovat reklamu na vašich webových stránkách. [br][br] Při vytváření nového reklamního baneru můžete pro přihlášení klienta vytvořit uživatelské jméno a heslo a kontrolovat průběh celé kampaně. [br][br]Reklamu můžete aktivovat pomocí správce nabídek a tam můžete provádět další konfiguraci.");

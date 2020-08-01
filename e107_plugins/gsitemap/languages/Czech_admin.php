@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/05 19:12:46
+|        Last Modified: 2020/07/31 18:58:35
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/12/05 19:12:46 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -26,7 +25,6 @@ define("GSLAN_14", "týdenní");
 define("GSLAN_15", "měsíčně");
 define("GSLAN_16", "ročně");
 define("GSLAN_18", "Importovat zaškrtnuté odkazy");
-define("GSLAN_19", "Google Sitemap");
 define("GSLAN_20", "Výpis");
 define("GSLAN_21", "Pokyny");
 define("GSLAN_22", "Vytvořit nový záznam");
@@ -43,4 +41,3 @@ define("GSLAN_36", "Můžete také zadat jednotlivé odkazy ručně kliknutím n
 define("GSLAN_37", "Jakmile máte nějaké položky, přejděte na [URL] a zadejte následující adresu URL -> <b>".SITEURL."gsitemap.php </ b> - pokud tato adresa nevypadá správně prosím, ujistěte se, že adresa URL vašeho webu je správná v admin -> preference");
 define("GSLAN_38", "Další informace o protokolu Google Sitemap naleznete na adrese [URL].");
 define("GSLAN_39", "Žádné odkazy v Sitemap - importovat odkazy na podstránky?");
-define("GSLAN_40", "Záznamy Sitemap Google");

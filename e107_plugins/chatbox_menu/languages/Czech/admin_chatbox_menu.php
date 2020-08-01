@@ -4,16 +4,15 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 23:13:59
+|        Last Modified: 2020/07/31 18:39:58
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 23:13:59 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("CHBLAN_11", "Příspěvky chatboxu ke zobrazení");
+define("CHBLAN_11", "Příspěvky chatboxu k zobrazení");
 define("CHBLAN_12", "počet příspěvků zobrazených v chatboxu");
 define("CHBLAN_20", "Nastavení Chatboxu");
 define("CHBLAN_22", "Smazat příspěvky, které jsou starší než zadaná doba");

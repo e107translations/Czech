@@ -4,8 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/22 01:27:30
+|        Last Modified: 2020/07/31 18:57:41
 |
+|        $URL: https://github.com/oxigeno2/e107 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
