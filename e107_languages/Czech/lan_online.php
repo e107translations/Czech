@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("ONLINE_EL1", "Hosté:");
 define("ONLINE_EL2", "Uživatelé:");
 define("ONLINE_EL3", "Na této stránce:");
@@ -55,7 +54,7 @@ define("ADMINAREA", "Administrátorské rozhraní");
 define("BUGTRACKER", "Hlášení chyb");
 define("EVENT", "Seznam událostí");
 define("CALENDAR", "Kalendář událostí");
-define("FAQ", "FAQ - Nejčastěji kladené dotazy");
+define("FAQ", "Faq");
 define("PM", "Soukromé zprávy");
 define("SURVEY", "Průzkum");
 define("ARTICLE", "Článek");

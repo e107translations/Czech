@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 17:28:19
+|        Last Modified: 2020/07/22 10:18:17
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 17:28:19 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_LOGIN_1", "Jméno uživatele");
 define("LAN_LOGIN_2", "Heslo");
 define("LAN_LOGIN_3", "Chráněný server");
@@ -48,3 +48,4 @@ define("LAN_LOGIN_33", "[Návrat na úvodní stránku]");
 define("LAN_LOGIN_34", "Možnost registrace uživatele nebo přihlášení je momentálně vypnuta.");
 define("LAN_LOGIN_35", "[Povolit]");
 define("LAN_LOGIN_36", "Emaily odeslané na [x] nejsou doručeny. Prosím, [ověřte si, zda je vaše e-mailová adresa správná].");
+define("LAN_LOGIN_37", "Váš účet dosud nebyl aktivován administrátorem.");

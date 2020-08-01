@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2018/09/06 18:31:10
+|        Last Modified: 2020/07/22 09:56:20
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.9 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -87,6 +87,7 @@ define("LAN_IP", "IP adresa");
 define("LAN_IP_ADDRESS", "IP adresa");
 define("LAN_AUTHOR", "Autor");
 define("LAN_CATEGORY", "Kategorie");
+define("LAN_CATEGORIES", "Kategorie");
 define("LAN_GUEST", "Host");
 define("LAN_NEXT", "Další");
 define("LAN_PREVIOUS", "Předchozí");
@@ -124,6 +125,8 @@ define("LAN_RELATED", "Souvisejíci");
 define("LAN_CLOSE", "Zavřít");
 define("LAN_EXPAND", "Rozbalit");
 define("LAN_LIST", "Seznam");
+define("LAN_DATESTAMP", "Datum");
+define("LAN_SUBJECT", "Předmět");
 define("LAN_ENTER_USRNAME_EMAIL", "Prosím, zadejte své uživatelské jméno nebo e-mail");
 define("LAN_PWD_REQUIRED", "Heslo je povinné");
 define("LAN_SHOW", "Zobrazit");
@@ -132,3 +135,5 @@ define("LAN_SUMMARY", "Souhrn");
 define("LAN_REQUIRED_BLANK", "Nebyla vyplněná povinná pole.");
 define("LAN_PLEASEWAIT", "Prosím čekejte");
 define("LAN_CHOOSE_FILE", "Vybrat soubor");
+define("LAN_REQUIRED", "Požadované");
+define("LAN_DEVELOPERMODE_CHECK", "[b] Režim pro vývojáře je aktuálně zapnutý. Tento režim používejte pouze při vývoji! [/b] [br] Pokud používáte váš web v živé produkci, deaktivujte režim vývojáře. Je-li povolen režim vývojáře, mohou být citlivé informace zobrazeny veřejnosti!");

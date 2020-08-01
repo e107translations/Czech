@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 16:17:57
+|        Last Modified: 2020/07/22 09:56:34
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 16:17:57 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -34,3 +33,7 @@ define("LANCONTACT_17", "Prosím, zadejte vaše jméno.");
 define("LANCONTACT_18", "Prosím, zadejte vaší emailovou adresu.");
 define("LANCONTACT_19", "Prosím, zadejte předmět pro váš email.");
 define("LANCONTACT_20", "Prosím, zadejte obsah vaší zprávy pro nás.");
+define("LANCONTACT_21", "Souhlasím s tím, aby tento web ukládal mé odeslané informace, aby mohl odpovědět na můj dotaz");
+define("LANCONTACT_22", "Zásady ochrany osobních údajů");
+define("LANCONTACT_23", "Naše zásady ochrany osobních údajů najdete zde: [x]");
+define("LANCONTACT_24", "GDPR dohoda");

@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 17:47:42
+|        Last Modified: 2020/07/22 10:47:55
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 17:47:42 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -67,3 +66,14 @@ define("LANHELP_51", "Zakázat HTML: [nobr]text[/nobr]");
 define("LANHELP_52", "Nový řádek (HTML): [br]");
 define("LANHELP_53", "Zarovnání do bloku: \n[justify]Tento text bude zarovnán[/justify");
 define("LANHELP_54", "HTML block (div tag): [block]Váš článek[/block]");
+define("LANHELP_55", "Formát");
+define("LANHELP_56", "Vložit tabulku");
+define("LANHELP_57", "Nadpis");
+define("LANHELP_58", "Blok");
+define("LANHELP_59", "Citace");
+define("LANHELP_60", "Blok kódu");
+define("LANHELP_61", "Vložený kód");
+define("LANHELP_62", "Odstavec");
+define("LANHELP_63", "Vložit obrázek ze správce médií");
+define("LANHELP_64", "Vložit soubor ze správce médií");
+define("LANHELP_65", "Velikost");

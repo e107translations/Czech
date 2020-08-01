@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 16:15:38
+|        Last Modified: 2020/07/22 10:15:04
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 16:15:38 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -32,4 +31,7 @@ define("LANDT_08s", "minuty");
 define("LANDT_09", "sek");
 define("LANDT_09s", "sekundy");
 define("LANDT_AGO", "před");
+define("LANDT_IN", "v");
 define("LANDT_10", "Právě teď");
+define("LANDT_XAGO", "před [x]");
+define("LANDT_INX", "o [x]");
