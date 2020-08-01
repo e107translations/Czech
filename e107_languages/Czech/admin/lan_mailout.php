@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:46:28
+|        Last Modified: 2020/08/01 08:17:25
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:46:28 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("CORE_DATE_ORDER", "dmy");
 define("LAN_MAILOUT_01", "Od (jméno)");
 define("LAN_MAILOUT_02", "Od (e-mail)");
@@ -54,7 +54,7 @@ define("LAN_MAILOUT_41", "před odesláním pošty z této stránky.");
 define("LAN_MAILOUT_43", "Uživatelské jméno");
 define("LAN_MAILOUT_44", "Přihlašovací jméno");
 define("LAN_MAILOUT_45", "E-mail uživatele");
-define("LAN_MAILOUT_46", "Uživatelská shoda ");
+define("LAN_MAILOUT_46", "Uživatelská shoda");
 define("LAN_MAILOUT_47", "obsahuje");
 define("LAN_MAILOUT_48", "shoda");
 define("LAN_MAILOUT_51", "Předmět");
@@ -244,6 +244,7 @@ define("LAN_MAILOUT_254", "Zobrazit šablony e-mailu");
 define("LAN_MAILOUT_255", "Template Email, ID:");
 define("LAN_MAILOUT_256", "Zpět");
 define("LAN_MAILOUT_257", "Generovaná šablona");
+define("LAN_MAILOUT_259", "V předvolbách nejsou vybrány žádné „zdroje e-mailové adresy“");
 define("LAN_SEND", "Odeslat");
 define("LAN_HOLD", "Držet");
 define("LAN_MAILOUT_260", "User-Type");

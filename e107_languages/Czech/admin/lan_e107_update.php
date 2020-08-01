@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:22:19
+|        Last Modified: 2020/07/22 12:41:14
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:22:19 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -50,3 +49,4 @@ define("LAN_UPDATE_56", "Sytém aktualizován");
 define("LAN_UPDATE_57", "Před pokračováním ručně odstraňte následující zastaralé složky z vašeho systému:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Doplňky aktualizovány");
 define("LAN_UPDATE_CAPTION_CORE", "Jádro systému aktualizováno");
+define("LAN_UPDATE_58", "Důrazně se doporučuje spustit program [Průzkumník souborů] po dokončení všech aktualizací, aby bylo možné zjistit všechny zastaralé soubory, které je třeba odstranit.");

@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2018/09/06 18:41:50
+|        Last Modified: 2020/07/22 16:15:33
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.9 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -185,3 +185,4 @@ define("IMALAN_182", "Převést do formátu JPEG při importu");
 define("IMALAN_183", "Soubory PNG a GIF budou automaticky převedeny na formát jpeg. (ikony jsou vyloučeny)");
 define("IMALAN_184", "Výchozí velikost obrázků");
 define("IMALAN_185", "Maximální výška v pixelech");
+define("IMALAN_186", "Chcete-li filtrovat výsledky, zadejte text");

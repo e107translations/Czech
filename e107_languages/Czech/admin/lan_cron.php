@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:14:30
+|        Last Modified: 2020/08/01 08:04:27
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:14:30 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_CRON_M_02", "Obnovit");
 define("LAN_CRON_2", "Funkce");
 define("LAN_CRON_3", "Info");
@@ -74,3 +74,6 @@ define("LAN_CRON_64", "Administrátor může automatizovat úkoly pomocí e107 S
 define("LAN_CRON_BACKUP", "Zálohování");
 define("LAN_CRON_LOGGING", "Protokolování");
 define("LAN_CRON_RUNNING", "Běžící");
+define("LAN_CRON_65", "Aktualizovat git repozitář témat");
+define("LAN_CRON_66", "Nebyl nalezen žádný git repozitář");
+define("LAN_CRON_67", "Ve složce vzhledu nebylo nalezen žádné git repozitář");

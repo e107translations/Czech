@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:44:40
+|        Last Modified: 2020/08/01 08:15:50
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:44:40 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -131,7 +130,8 @@ define("LAN_AL_WELCOME_01", "Uvítací zpráva byla vytvořena");
 define("LAN_AL_WELCOME_02", "Uvítací zpráva byla aktualizována");
 define("LAN_AL_WELCOME_03", "Uvítací zpráva byla smazána");
 define("LAN_AL_WELCOME_04", "Možnosti uvítací zprávy byly změněny");
-define("LAN_AL_ADMINPW_01", "Heslo správce změněno");
+define("LAN_AL_ADMINPW_01", "Heslo administrátora změněno");
+define("LAN_AL_ADMINPW_02", "Heslo administrátora obnoveno ");
 define("LAN_AL_BANNER_00", "Neznámá zpráva týkající se bannerů");
 define("LAN_AL_BANNER_01", "Aktualizace nabídky bannerů");
 define("LAN_AL_BANNER_02", "Banner vytvořen");

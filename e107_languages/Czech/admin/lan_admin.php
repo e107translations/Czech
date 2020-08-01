@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2018/09/06 19:07:44
+|        Last Modified: 2020/07/22 10:35:21
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.9 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -220,7 +220,6 @@ define("LAN_ROOT", "Kořen");
 define("LAN_LINE", "Řádek");
 define("LAN_SHORTCODES", "Krátké kódy");
 define("LAN_DISPLAYOPT", "Upravit nastavení zobrazení");
-define("LAN_DATESTAMP", "Datum");
 define("LAN_TIMESTAMP", "Časové razítko");
 define("LAN_PAGE", "STRANA");
 define("LAN_AGENT", "PROHLÍŽEČ");
@@ -292,7 +291,6 @@ define("LAN_COPY", "Kopírovat");
 define("LAN_KEYWORDS", "Klíčová slova");
 define("LAN_TEMPLATE", "Vzhled");
 define("LAN_TEMPLATES", "Vzhledy");
-define("LAN_CATEGORIES", "Kategorie");
 define("LAN_DEMO_FORBIDDEN", "Změny na této stránce nejsou možné v demonstračním režimu.");
 define("LAN_COPYRIGHT", "Autorská práva");
 define("LAN_MANAGEPERMS", "Správa oprávnění");
@@ -345,6 +343,7 @@ define("LAN_UI_FILTER_PAST_HOUR", "Poslední hodinu");
 define("LAN_UI_FILTER_PAST_24_HOURS", "Posledních 24 hodin");
 define("LAN_UI_FILTER_PAST_WEEK", "Poslední víkend");
 define("LAN_UI_FILTER_PAST_MONTH", "Poslední měsíc");
+define("LAN_UI_FILTER_PAST_XMONTHS", "Minulých [x] měsíců");
 define("LAN_UI_FILTER_PAST_YEAR", "Poslední rok");
 define("LAN_USER_MANAGEALL", "Spravovat uživatele, uživatelské třídy a rozšířené uživatelské pole");
 define("LAN_USER_LIST", "Seznam uživatelů");
@@ -383,7 +382,6 @@ define("LAN_MAINTENANCE", "Údržba");
 define("LAN_RETURN_TO_FRONT_PANEL", "Návrat na přední panel");
 define("LAN_CHANGE_LANGUAGE", "Změnit jazyk");
 define("LAN_NEWER_VERSION_OF_X", "Novější verze souboru [x] [y] je k dispozici ke stažení.");
-define("LAN_SUBJECT", "Předmět");
 define("LAN_ITEM", "Položka");
 define("LAN_LOCK", "Zamčeno");
 define("LAN_SYSTEM_USER", "Uživatel systému");
@@ -400,8 +398,17 @@ define("LAN_UI_FILTER_NEXT_HOUR", "Další hodinu");
 define("LAN_UI_FILTER_NEXT_24_HOURS", "Dalších 24 hodin");
 define("LAN_UI_FILTER_NEXT_WEEK", "Příští týden");
 define("LAN_UI_FILTER_NEXT_MONTH", "Příští měsíc");
+define("LAN_UI_FILTER_NEXT_XMONTHS", "Další [x] měsíce");
 define("LAN_UI_FILTER_NEXT_YEAR", "Příští rok");
 define("LAN_UI_FILTER_IS_EMPTY", "Je prázdný");
 define("LAN_RECALCULATE_COMMENT_COUNT", "Přepočítat počet komentářů");
 define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Počet komentářů byl úspěšně přepočítán!");
 define("LAN_NO_RESULTS_FOUND", "Nenalezeny žádné výsledky.");
+define("LAN_UI_DROPZONE_DROP_FILES", "Přetáhněte soubory sem a nahrajte");
+define("LAN_DOWNLOAD_COMPLETE", "Stahování dokončeno!");
+define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Vyhledávat v poli");
+define("LAN_ROBOTS", "Roboti");
+define("LAN_ROBOTS_NOINDEX", "Zabraňte vyhledávacím strojům indexovat tuto položku.");
+define("LAN_ROBOTS_NOFOLLOW", "Zabraňte vyhledávacím strojům v následujících odkazech v této položce.");
+define("LAN_ROBOTS_NOARCHIVE", "Zabraňte zobrazování kopií této položky v mezipaměti ve výsledcích vyhledávání.");
+define("LAN_ROBOTS_NOIMAGE", "Zabraňte vyhledávacím strojům indexovat obrázky této položky.");

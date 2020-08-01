@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 21:41:59
+|        Last Modified: 2020/07/22 16:12:27
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 21:41:59 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -261,3 +260,9 @@ define("PRFLAN_273", "Délka relace v sekundách 0 = dokud není prohlížeč uz
 define("PRFLAN_274", "Kontaktní formulář bude viditelný pouze pro tuto skupinu uživatelů.");
 define("PRFLAN_275", " viz strana pomocí protokolu HTTPS (SSL) pro změnu nastavení.");
 define("PRFLAN_276", "Výchozí PHP (doporučeno)");
+define("PRFLAN_277", "Nastavení GDPR");
+define("PRFLAN_278", "URL se zásadami ochrany osobních údajů");
+define("PRFLAN_279", "Zkontrolujte, zda adresa URL existuje! Nejlepší je použít absolutní adresu URL. Toto nastavení bude použito na všech místech, která vyžadují souhlas uživatele (např. Registrace, kontaktní formulář / nabídka atd.).");
+define("PRFLAN_280", "URL odkaz - pravidla a podmínky stránek");
+define("PRFLAN_281", "The 2 links above are used on various page on this site (e.g. signup and contact form/menu).\nPlease create 2 pages (if not already done) that contain your 'Privacy Policy' and the websites 'Terms and conditions'.\nThere are several websites that can generate those text for you.\nCopy the urls of this websites into the fields above (e.g. /page/privacy-policy or /page/terms-and-conditions).\nJust make sure, the pages and urls exist and are working!	");
+define("PRFLAN_282", "Metoda uložení relace");

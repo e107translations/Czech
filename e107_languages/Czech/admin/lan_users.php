@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 22:16:04
+|        Last Modified: 2020/07/22 16:03:13
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 22:16:04 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("USRLAN_1", "Nastavení uloženo.");
 define("USRLAN_3", "je nyní administrátorem - pro nastavení oprávnění pokračujte na");
 define("USRLAN_4", "Administrátorské stránky");
@@ -205,6 +205,7 @@ define("USRLAN_253", "starší než");
 define("USRLAN_254", "Resetovat všechna hesla");
 define("USRLAN_255", "Upozornit uživatele");
 define("USRLAN_256", "Vážení");
+define("USRLAN_257", "Povolit uživatelům smazat svůj účet?");
 define("UCSLAN_1", "Odesílat oznámení s upozorněním");
 define("UCSLAN_2", "Aktualizované oprávnění");
 define("UCSLAN_4", "Vaše oprávnění byla aktualizována na");

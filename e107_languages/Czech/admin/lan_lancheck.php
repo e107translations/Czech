@@ -12,7 +12,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CHECK_2", "Začít kontrolu");
 define("LAN_CHECK_3", "Kontrola souboru");
 define("LAN_CHECK_4", "Soubor nenalezen!");
@@ -31,7 +30,7 @@ define("LAN_CHECK_27", "Počet nalezených chyb v jazykovém balíčku");
 define("LAN_CHECK_28", "Identické");
 define("LAN_CHECK_29", "Identický řetězec (pouze varování)");
 define("LAN_CHECK_30", "Chybějící BB kódy");
-define("LAN_CHECK_31", "Chybí znak [a / nebo]");
+define("LAN_CHECK_31", "Chybí znak [ nebo znaky ] ");
 define("LAN_CHECK_32", "Chybí tagy HTML");
 define("LANG_LAN_23", "Vytvořit jazykový balíček z překladem (zip)");
 define("LANG_LAN_30", "Datum uvolnění");

@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 21:49:40
+|        Last Modified: 2020/08/01 08:22:18
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 21:49:40 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -104,8 +103,6 @@ define("TPVLAN_CONV_13", "Do jaké kategorie zařadit tohoto tématu?");
 define("TPVLAN_CONV_14", "Povolte tento styl jako volitelnou volbu v Správci témat.");
 define("TPVLAN_CONV_15", "Pojmenujte tento styl");
 define("TPVLAN_CONV_16", "Adresa URL k náhledu (demo) tohoto tématu.");
-define("TPVLAN_81", "Probíhá stahování...");
-define("TPVLAN_82", "Stahování bylo dokončeno!");
 define("TPVLAN_83", "Automatické stahování není možné!");
 define("TPVLAN_84", "[Prosím stáhněte ručně]");
 define("TPVLAN_85", "Připojování...");
@@ -117,3 +114,10 @@ define("TPVLAN_92", "Nová složka tématu");
 define("TPVLAN_93", "Výběr");
 define("TPVLAN_94", "Téma webu změněno na [x].");
 define("TPVLAN_95", "Skin");
+define("TPVLAN_96", "Nastavte adresy URL / cesty skriptů, které by toto rozvržení měly používat automaticky. Jeden na řádek.");
+define("TPVLANHELP_01", "Správce vzhledů umožňuje nastavit veřejné téma stránek a téma oblasti administrace.");
+define("TPVLANHELP_02", "Další podrobnosti naleznete v popisech (jsou-li k dispozici).");
+define("TPVLANHELP_03", "Ve výchozím nastavení filtr viditelnosti změní rozvržení motivu na základě částečné shody adresy URL.");
+define("TPVLANHELP_04", "Koncové řádky s [b]![/b] přesně odpovídají konci URL.");
+define("TPVLANHELP_05", "Koncové řádky s [b]$[/b] přesně odpovídají konci skriptu.");
+define("TPVLAN_97", "Toto téma vyžaduje novější verzi e107.");

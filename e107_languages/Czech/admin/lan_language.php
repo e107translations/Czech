@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:41:56
+|        Last Modified: 2020/07/22 16:17:28
 |
 |        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:41:56 $
+|        $Revision: 2.3.0 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LANG_LAN_00", "[x] nemohla být vytvořena.(již existuje)");
 define("LANG_LAN_01", "[x] byla smazána (pokud existovala) a vytvořena.");
 define("LANG_LAN_02", "[x] nemohla být smazána");
@@ -35,8 +35,6 @@ define("LANG_LAN_21", "Jazykové nástroje");
 define("LANG_LAN_25", "Jazykový balíček stav vytvoření");
 define("LANG_LAN_26", "Načtení jazykových souborů pouze pro aktuální jazyk");
 define("LANG_LAN_27", "Prosím, ověřte si jazykové soubory (Ověřit), a zkuste to znovu.");
-define("LANG_LAN_28", "Zaškrtněte toto políčko, pokud jste [E107 certifikovaný překladatel].");
-define("LANG_LAN_EML", "Prosím zašlete svým e-mailem jazykový balíček na:");
 define("LANG_LAN_32", "Instalované jazyky");
 define("LANG_LAN_33", "Zobrazit pouze nalezené chyby při ověřování");
 define("LANG_LAN_50", "Administrační oblast - jazykové rozhraní");
@@ -58,14 +56,15 @@ define("LANG_LAN_134", "namísto.");
 define("LANG_LAN_135", "Přepsání");
 define("LANG_LAN_136", "Nelze přepsat");
 define("LANG_LAN_137", "Zpracováno");
-define("LANG_LAN_140", "Podržením klávesy CTRL vyberte více. [br] např. Chcete-li zkontrolovat [b] lan_signup.php [/ b], vyberte také [b] signup_shortcodes.php [ b] registrační_template.php [/ b].");
+define("LANG_LAN_140", "Podržením klávesy CTRL vyberte více. [br] např. Chcete-li zkontrolovat [b] lan_signup.php [/b], vyberte také [b] signup_shortcodes.php [/b] a [b] signup_template.php [/b].");
 define("LANG_LAN_141", "Vyberte skript ...");
 define("LANG_LAN_142", "Automatické rozpoznání");
 define("LANG_LAN_143", "Specifický soubor LAN:");
 define("LANG_LAN_144", "Musí být znovu aktivováno");
 define("LANG_LAN_148", "Normální režim");
 define("LANG_LAN_149", "Hodnota");
-define("LANG_LAN_150", "[b] Vyhledat ENTIRE jádro předtím, než budou komentovány JAKÝKOLIV LAN z libovolného jazykového souboru. [/ b]");
+define("LANG_LAN_150", "[b] Prohledat CELÉ jádro, než budou komentovány JAKÝKOLIV LAN z libovolného jazykového souboru. [/b]");
 define("LANG_LAN_151", "Dostupné");
 define("LANG_LAN_152", "Se svolením překladového týmu [e107]");
 define("LANG_LAN_153", "Předběžné uvolnění");
+define("LANG_LAN_154", "Jazykový balíček byl vytvořen. Nyní ji můžete nahrát do úložiště Github podle návodu [here].");
