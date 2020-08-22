@@ -11,7 +11,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_DL_OPTIONS", "Možnosti");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Obecné");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Hlášení");
@@ -99,7 +98,7 @@ define("DOWLAN_142", "Upravit zrcadlo");
 define("DOWLAN_143", "Vytvořit zrcadlo");
 define("DOWLAN_144", "Nejsou definované žádné zrcadlové servery. Přejděte do sekce zrcadel a definujte je.");
 define("DOWLAN_145", "Stažení souboru je viditelné pro");
-define("DOWLAN_146", "Vlastní zpráva o zakázaní stahování nebo URL");
+define("DOWLAN_146", "Vlastní zpráva nebo adresa URL pro odmítnutí");
 define("DOWLAN_148", "Zaškrtnutím bude časová značka nahrazena aktuálními hodnotami data a času");
 define("DOWLAN_149", "URL adresa");
 define("DOWLAN_151", "Možnost oznámení nefuknčního souboru ke stažení");
@@ -142,8 +141,8 @@ define("DOWLAN_196", "seznam");
 define("DOWLAN_197", "náhodné");
 define("DOWLAN_199", "Předložil");
 define("DOWLAN_HELP_1", "Pomoc");
-define("DOWLAN_HELP_2", "<p>Vytvořit nebo upravit soubor ke stažení.</p><p>Zadejte pouze jeden z: souboru, URL nebo zrcadla.</p><p>Ujistěte se, že jste vybraly kategorii, jinak nebude soubor viditelný na stránce k stahování.</p>");
-define("DOWLAN_HELP_3", "Nápověda pro cat");
+define("DOWLAN_HELP_2", "<p>Vytvořit nebo upravit soubor ke stažení.</p><p>Použijte pouze jednu z následujících možností: Místní soubor, externí soubor nebo zrcadloví sever.</p><p>Ujistěte se, že jste vybraly kategorii souboru, jinak nebude soubor viditelný pro stažení.</p>");
+define("DOWLAN_HELP_3", "Nápověda pro kategorii");
 define("DOWLAN_HELP_4", "Nápověda pro opt");
 define("DOWLAN_HELP_5", "Pomocí stránky údržby najdete duplicitní soubory ke stažení, osamocené soubory, chybějící položky (nefunkční), můžete spravovat neaktivní stahování, aktualizovat velikosti souborů a zobrazit protokol souborů ke stažení.");
 define("DOWLAN_HELP_6", "Nápověda pro omezení");
