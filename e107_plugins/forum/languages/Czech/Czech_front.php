@@ -11,7 +11,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_FORUM_0002", "Témata");
 define("LAN_FORUM_0003", "Odpovědi");
 define("LAN_FORUM_0004", "Poslední příspěvek");
@@ -237,6 +236,7 @@ define("LAN_FORUM_7006", "Výsledek");
 define("LAN_FORUM_7007", "Nalezeno ve vlákně");
 define("LAN_FORUM_7008", "NEBYL NALEZEN.");
 define("LAN_FORUM_7009", "Nebyly nalezeny žádné nahrané soubory.");
+define("LAN_FORUM_7010", "Název souboru");
 define("LAN_FORUM_8001", "Nový příspěvek byl vytvořen [x] pod tématem [y] v [z].");
 define("LAN_FORUM_8002", "Klepnutím na následující odkaz zobrazíte celý příspěvek ...");
 define("LAN_FORUM_8003", "E-mailová upozornění pro toto téma jsou nyní zapnuta.");

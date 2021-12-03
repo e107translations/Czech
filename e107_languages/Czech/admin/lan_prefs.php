@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/07/22 16:12:27
+|        Last Modified: 2021/12/03 09:47:37
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -93,7 +93,6 @@ define("PRFLAN_95", "Zobrazit informace o doplňcích:");
 define("PRFLAN_96", "na všech administrátorských stranách zobrazí informace doplňků, které tuto funkci podporují.");
 define("PRFLAN_97", "Vlastní nabídka informací o doplňku:");
 define("PRFLAN_98", "Pokud tato položka nebude vybrána, každý doplněk zobrazí své vlastní informace v samostatné nabídce. Pokud je položka aktivní, všechny informace budou zobrazeny ve společné nabídce.");
-define("PRFLAN_101", "Způsob vykreslení textu");
 define("PRFLAN_102", "Zaměnit URL");
 define("PRFLAN_103", "Pokud je volba zaškrtnuta a volba 'Automatický odkaz' je také zaškrtnuta, zaslaná URL jsou zobrazovaná jako odkazy s textem definovaným níže. Tato funkce zabrání velmi dlouhým URL adresám, aby rozbíjeli formát strany kvůli zalamování řetězců v prohlížeči.");
 define("PRFLAN_104", "Text, který nahradí URL");
@@ -183,11 +182,11 @@ define("PRFLAN_198", "Pokud je vypnutý, uživatel se musí výslovně přihlás
 define("PRFLAN_154a", "Pokud je zvoleno 'schválení správcem', doporučujeme, aby bylo povoleno upozornění e-mailem na registraci uživatele [here].");
 define("PRFLAN_196a", "Adresář protokolů:");
 define("PRFLAN_199", "Zobrazit podřízené odkazy administraci");
-define("PRFLAN_200", "Je-li tato volba povolena, nabídka pro posun směrem dolů (pokud je to podporováno aktuálním motivem) provede v případě potřeby podřízené odkazy (např. Zprávy - Vytvořit novinku).");
+define("PRFLAN_200", "Je-li tato volba povolena, nabídka pro posun směrem dolů (pokud je to podporováno aktuálním vzhledem) provede v případě potřeby podřízené odkazy (např. Zprávy - Vytvořit novinku).");
 define("PRFLAN_201", "Uživatelské jméno a heslo");
 define("PRFLAN_202", "Email a heslo");
 define("PRFLAN_203", "Jméno/Email a heslo");
-define("PRFLAN_204", "Rozdělit doplňky do vlastního menu.");
+define("PRFLAN_204", "Zobrazit vlastním menu s doplňky.");
 define("PRFLAN_205", "Pokud je povoleno, budou doplňky zobrazeny ve vlastní nabídce, podobně jako e107 v0.7 a dříve.");
 define("PRFLAN_206", "Pouze pro členy, výjimky podle URL");
 define("PRFLAN_207", "Režim pouze pro členy bude zakázán pro adresy URL, které odpovídají některému z výrazů v tomto seznamu. Jeden na řádek.");
@@ -209,9 +208,9 @@ define("PRFLAN_222", "Moderovat předložené komentáře");
 define("PRFLAN_223", "Komentář bude čekat na osobní schválení administrátorem");
 define("PRFLAN_224", "Uživatelský registrační systém");
 define("PRFLAN_225", "Facebook a jiní používají. Měli by mít čtvercový obraz, který je alespoň 144 pixelů široký a vysoký");
-define("PRFLAN_226", "Mnohé šablony se používají jako hlavičkový obrázek na mnoha stránkách");
-define("PRFLAN_227", "Používá se některými motivy. Umístěte 'SITETAG' do svého motivu, abyste tuto hodnotu použili.");
-define("PRFLAN_228", "Použijte několik šablon. Použijte kód šablony 'SITEDESCRIPTION'.");
+define("PRFLAN_226", "Mnohé šablony vzhledu používají jako hlavičkový obrázek vašich stránek");
+define("PRFLAN_227", "Využívají některé šablony vzhledu. Umístěte 'SITETAG' do vybrané šablony, abyste tuto hodnotu použili.");
+define("PRFLAN_228", "Využívá několik šablon. Vložte kód 'SITEDESCRIPTION' do vybrané šablony.");
 define("PRFLAN_229", "Použití více šablon. Použijte kód 'SITEDISCLAIMER' pro šablonu.");
 define("PRFLAN_230", "Formát data a času");
 define("PRFLAN_231", "Maximální chybové hlášení před zákazem:");
@@ -229,15 +228,15 @@ define("PRFLAN_242", "Javascript Framework (pouze pro testování)");
 define("PRFLAN_243", "Automaticky (na požádání)");
 define("PRFLAN_244", "Administrace");
 define("PRFLAN_245", "Uživatelská oblast");
-define("PRFLAN_246", "Obě");
+define("PRFLAN_246", "Oba");
 define("PRFLAN_247", "Zakázáno");
 define("PRFLAN_248", "Zakázání konsolidace skriptů");
-define("PRFLAN_249", "Pokud dojde k zablokování, skripty být načten v souboru konsolidace");
-define("PRFLAN_250", "Konsolidační skript pro povolení komprese zlib");
-define("PRFLAN_251", "Použít pouze v případě, že je zakázána konsolidace skriptů");
-define("PRFLAN_252", "Vypnout mezipaměť serveru pro konsolidační skripty");
-define("PRFLAN_253", "Vypnout cache prohlížeče konsolidačního skriptu");
-define("PRFLAN_254", "Kontaktní informace");
+define("PRFLAN_249", "Pokud je zakázáno, skripty se načtou do jednoho konsolidovaného souboru");
+define("PRFLAN_250", "Povolit konsolidaci komprese zlib skriptů:");
+define("PRFLAN_251", "Používá se, pouze když je povolena konsolidace skriptů");
+define("PRFLAN_252", "Zakázat mezipaměť serveru konsolidovaných skriptů:");
+define("PRFLAN_253", "Zakázat mezipaměť konsolidovaných skriptů prohlížeče:");
+define("PRFLAN_254", "Email &amp; Kontaktní informace");
 define("PRFLAN_255", "Nahrávání souborů");
 define("PRFLAN_256", "Pokročilé možnosti");
 define("PRFLAN_257", "Knihovny");
@@ -264,5 +263,9 @@ define("PRFLAN_277", "Nastavení GDPR");
 define("PRFLAN_278", "URL se zásadami ochrany osobních údajů");
 define("PRFLAN_279", "Zkontrolujte, zda adresa URL existuje! Nejlepší je použít absolutní adresu URL. Toto nastavení bude použito na všech místech, která vyžadují souhlas uživatele (např. Registrace, kontaktní formulář / nabídka atd.).");
 define("PRFLAN_280", "URL odkaz - pravidla a podmínky stránek");
-define("PRFLAN_281", "The 2 links above are used on various page on this site (e.g. signup and contact form/menu).\nPlease create 2 pages (if not already done) that contain your 'Privacy Policy' and the websites 'Terms and conditions'.\nThere are several websites that can generate those text for you.\nCopy the urls of this websites into the fields above (e.g. /page/privacy-policy or /page/terms-and-conditions).\nJust make sure, the pages and urls exist and are working!	");
+define("PRFLAN_281", "The 2 links above are used on various page on this site (e.g. signup and contact form/menu).\nPlease create 2 pages (if not already done) that contain your 'Privacy Policy' and the websites 'Terms and conditions'.\nThere are several websites that can generate those text for you.\nCopy the urls of this websites into the fields above (e.g. /page/privacy-policy or /page/terms-and-conditions).\nJust make sure, the pages and urls exist and are working!");
 define("PRFLAN_282", "Metoda uložení relace");
+define("PRFLAN_283", "Zobrazit popisky v navigační liště");
+define("PRFLAN_284", "Ve výchozím nastavení sbalit postranní panel");
+define("PRFLAN_285", "Tipy pro nápovědu k zobrazovacímu poli");
+define("PRFLAN_286", "Filtry obsahu");

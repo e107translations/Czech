@@ -4,37 +4,24 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:08:36
+|        Last Modified: 2021/12/03 09:36:31
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:08:36 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-define("BANLAN_2", "Žádné zákazy.");
-define("BANLAN_3", "Současné zakázané návštěvy");
+
 define("BANLAN_5", "Vložit IP, email nebo hostitele");
 define("BANLAN_7", "Odůvodnění");
-define("BANLAN_8", "Zakázat adresu");
 define("BANLAN_9", "Zakázat návštěvu uživatele podle emailu, IP nebo hostitelské adresy");
 define("BANLAN_10", "IP / Email / Odůvodnění");
 define("BANLAN_11", "Navštěva stránek automaticky zakázána : Více než 10 neúspěšných pokusů o přihlášení");
-define("BANLAN_12", "Poznámka: Reverse DNS je v současnosti vypnutá, ale musí být zapnutá pro zakázání hostitele. Zakázání přístupu podle IP a emailu bude stále fungovat normálně.");
-define("BANLAN_13", "Poznámka: Pro zakázání přístupu uživatelů podle jména přejděte na stránku správy uživatelů:");
-define("BANLAN_14", "Udělené zákazy");
 define("BANLAN_15", "Oznámení / Dočasné zákazy");
 define("BANLAN_16", "Zákazy");
-define("BANLAN_17", "Datum zákazu");
-define("BANLAN_18", "Zákaz skončí");
 define("BANLAN_19", "Poznámky");
-define("BANLAN_20", "Typ");
-define("BANLAN_22", "Neznámý");
 define("BANLAN_23", "den (dny)");
 define("BANLAN_24", "hodiny");
-define("BANLAN_25", "Přidat zákaz");
-define("BANLAN_26", "Aktuálně");
-define("BANLAN_27", "Neplatné znaky v IP adrese odstraněny - nyní:");
 define("BANLAN_28", "Typ zákazu");
 define("BANLAN_29", "Zobrazená zpráva pro zakázaného uživatele");
 define("BANLAN_30", "Doba trvání zákazu");
@@ -45,13 +32,11 @@ define("BANLAN_35", "Importovat / Exportovat");
 define("BANLAN_36", "Typ exportu");
 define("BANLAN_37", "Oddělovač polí");
 define("BANLAN_38", "Citace (okolo každé hodnoty)");
-define("BANLAN_39", "Export");
 define("BANLAN_40", "Export seznamu banů");
 define("BANLAN_41", "Import seznamu banů");
 define("BANLAN_42", "Importovat vybrané");
 define("BANLAN_43", "Přesunout všechny stávající zákazy");
 define("BANLAN_44", "Použít datum vypršení platnosti / čas od importu");
-define("BANLAN_45", "Importovat");
 define("BANLAN_46", "Importovat soubory:");
 define("BANLAN_47", "Chyba při nahrávání souboru");
 define("BANLAN_48", "Smazáno [y] vypršely zákazy");

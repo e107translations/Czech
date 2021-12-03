@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/08/01 08:04:27
+|        Last Modified: 2021/12/03 09:37:00
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -28,6 +28,7 @@ define("LAN_CRON_04_2", "Postup zpětného restartování");
 define("LAN_CRON_04_3", "Požadováno pouze v případě, že je povoleno restartování");
 define("LAN_CRON_05_1", "Záloha databáze");
 define("LAN_CRON_05_2", "Zálohujte systémovou databázi do");
+define("LAN_CRON_06_1", "Zpracovat zákaz spouštění");
 define("LAN_CRON_6", "Nelze importovat předvolby");
 define("LAN_CRON_7", "Nelze importovat nastavení času");
 define("LAN_CRON_8", "Nastavení importovaného času pro toto nastavení");

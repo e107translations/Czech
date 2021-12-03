@@ -4,15 +4,15 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/08/01 08:22:18
+|        Last Modified: 2021/12/03 09:48:11
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("TPVLAN_1", "Právě vidíte NÁHLED tématu [b]". PREVIEWTHEMENAME."[/b]. Toto téma zatím nebylo nastaveno jako hlavní téma vašich stránek.[br /]Nastavit jej jako hlavní téma pro vaše stránky můžete tak, že se vrátíte do <a href='".e_ADMIN."theme.php'>správce témat</a> a zvolíte 'Nastavit jako téma vašich stránek'.<br /> Zobrazit jiné náhledy témat můžete <a href='".e_ADMIN."theme.php'>zde</a>.");
+define("TPVLAN_1", "Právě vidíte NÁHLED tématu [b]{PREVIEWTHEMENAME}[/b]. Toto téma zatím nebylo nastaveno jako hlavní téma vašich stránek.[br /]Nastavit jej jako hlavní téma pro vaše stránky můžete tak, že se vrátíte do <a href='{e_ADMIN}theme.php?choose'> a zvolíte 'Nastavit jako téma vašich stránek'.<br /> Zobrazit jiné náhledy témat můžete <a href='{e_ADMIN}theme.php'>zde</a>.");
 define("TPVLAN_2", "Náhled tématu");
 define("TPVLAN_3", "Téma webu změněno.");
 define("TPVLAN_5", "WWW");
@@ -24,14 +24,14 @@ define("TPVLAN_11", "Verze");
 define("TPVLAN_12", "Náhled není k dispozici");
 define("TPVLAN_13", "Nahrát téma (.zip nebo .tar.gz formát)");
 define("TPVLAN_14", "Nahrát téma");
-define("TPVLAN_15", "Soubor tématu ".e_THEME." není možné nahrát. Složka ".e_THEME." nemá nastavena potřebná práva - nastavte prosím CHMOD složky na 777 a opakujte nahrání.");
+define("TPVLAN_15", "Soubor se nepodařilo nahrát, protože složka ".e_THEME." nemá správná oprávnění - změňte prosím CHMOD na 777 a nahrajte soubor znovu.");
 define("TPVLAN_16", "Zpráva administrátora");
 define("TPVLAN_17", "Soubor není platným souborem formátu .zip nebo .tar archivu.");
 define("TPVLAN_18", "Objevila se chyba. Nemůžu rozbalit archiv s tématem");
 define("TPVLAN_19", "Téma bylo nahráno a rozbaleno. Nyní je vám níže v seznamu témat k dispozici.");
-define("TPVLAN_20", "Funkce nahrání a rozbalení je vypnuta, protože složka pro ukládání témat ".e_THEME." nemá nastavena potřebná práva - nastavte prosím CHMOD složky na 777.");
-define("TPVLAN_21", "Toto téma je nyní aktivní");
-define("TPVLAN_22", "Téma má více stylů");
+define("TPVLAN_20", "Automatické nahrávání a rozbalování témat je vypnuto, protože složka s tématy nemá správná oprávnění - změňte kódování složky e107_themes na 777.");
+define("TPVLAN_21", "Toto je aktuálně vybrané téma webu");
+define("TPVLAN_22", "Soubory stylů");
 define("TPVLAN_23", "základní styl");
 define("TPVLAN_24", "nemám informace");
 define("TPVLAN_26", "Správce témat");
@@ -117,7 +117,8 @@ define("TPVLAN_95", "Skin");
 define("TPVLAN_96", "Nastavte adresy URL / cesty skriptů, které by toto rozvržení měly používat automaticky. Jeden na řádek.");
 define("TPVLANHELP_01", "Správce vzhledů umožňuje nastavit veřejné téma stránek a téma oblasti administrace.");
 define("TPVLANHELP_02", "Další podrobnosti naleznete v popisech (jsou-li k dispozici).");
-define("TPVLANHELP_03", "Ve výchozím nastavení filtr viditelnosti změní rozvržení motivu na základě částečné shody adresy URL.");
+define("TPVLANHELP_03", "Ve výchozím nastavení filtr viditelnosti změní rozvržení vzhledu na základě částečné shody adresy URL.");
 define("TPVLANHELP_04", "Koncové řádky s [b]![/b] přesně odpovídají konci URL.");
 define("TPVLANHELP_05", "Koncové řádky s [b]$[/b] přesně odpovídají konci skriptu.");
+define("TPVLANHELP_06", "Začněte řádky s [b]: [/b], aby se částečně nebo úplně shodovaly s konstantou e_ROUTE.");
 define("TPVLAN_97", "Toto téma vyžaduje novější verzi e107.");

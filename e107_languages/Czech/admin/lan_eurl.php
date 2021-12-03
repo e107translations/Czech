@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:29:09
+|        Last Modified: 2021/12/03 09:38:43
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:29:09 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -37,8 +36,8 @@ define("LAN_EURL_SURL_NUPD", "  SEF URL adres nebylo aktualizováno.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Odstranit název souboru z URL");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Nastavit kořenový adresář");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Vyberte si, které stránky webu budou spojeny s vaší základní URL stránek. Příklad: Je-li vybráno Novinky jako kořenový adresář http://vašestránky.cz/Novinka-Položka-Název bude kořenový adresář asociována s novinkami");
-define("LAN_EURL_SETTINGS_REDIRECT", "Přesměrování pro systém nebyl nalezen");
-define("LAN_EURL_SETTINGS_REDIRECT_HELP", "Pokud je nastavena hodnota vypnuto, nenalezené stránky budou přímo vykresleny (bez přesměrování prohlížeče)");
+define("LAN_EURL_SETTINGS_REDIRECT", "Přesměrování na chybovou stránku 404");
+define("LAN_EURL_SETTINGS_REDIRECT_HELP", "Pokud je vypnuto, nenalezené stránky budou přímo vykresleny (bez přesměrování prohlížeče)");
 define("LAN_EURL_SETTINGS_SEFTRANSLATE", "Automatizovaný SEF typ vytvoření řetězce");
 define("LAN_EURL_SETTINGS_SEFTRANSLATE_HELP", "Vyberte si, jak bude sestavena SEF adresa, když je automaticky generována z Názvu / Titulku (např novinky, stránky, atd.)");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_NONE", "Jen to bezpečné");

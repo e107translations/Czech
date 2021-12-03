@@ -4,14 +4,13 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/07/22 09:56:20
+|        Last Modified: 2021/11/29 21:33:54
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 setlocale(LC_ALL,'cs_CZ.UTF-8','cs');
 define("CORE_LC", "cs");
 define("CORE_LC2", "cz");
@@ -93,6 +92,7 @@ define("LAN_NEXT", "Další");
 define("LAN_PREVIOUS", "Předchozí");
 define("LAN_LOGIN", "Přihlásit se");
 define("LAN_LOGOUT", "Odhlásit se");
+define("LAN_VERIFY", "Ověřit");
 define("LAN_SETTINGS", "Nastavení");
 define("LAN_PASSWORD", "Heslo");
 define("LAN_INCORRECT_PASSWORD", "Neplatné heslo");

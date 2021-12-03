@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:43:47
+|        Last Modified: 2021/12/03 09:44:45
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:43:47 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -28,6 +27,11 @@ define("LCLAN_108", "Některé volby byly vynechány - Odkaz nelze nastavit jako
 define("LCLAN_109", "Prosím zvolte nadřazený odkaz");
 define("LCLAN_110", "Prosím vyberte modul generátoru");
 define("LCLAN_111", "Neplatný data modulu generátoru");
+define("LCLAN_112", "1 - Hlavní");
+define("LCLAN_113", "2 - Postranní panel");
+define("LCLAN_114", "3 - Zápatí");
+define("LCLAN_115", "Alternativní");
+define("LCLAN_116", "(Nepřiřazeno)");
 define("LINKLAN_1", "V okně o rozměrech 800x600");
 define("LINKLAN_4", "Vytvořit pododkazy");
 define("LINKLAN_5", "Vytvořit pododkazy");

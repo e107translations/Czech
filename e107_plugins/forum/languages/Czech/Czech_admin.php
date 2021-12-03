@@ -11,7 +11,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("FORLAN_2", "Prosím vyberte, jestli chcete smazat příspěvky úplně, nebo je pouze označit jako neaktivní(nebudou smazány, ale nebudou zobrazeny ve fórech)");
 define("FORLAN_7", "Nastavení fóra");
 define("FORLAN_8", "Fóra pročištěna.");
@@ -135,3 +134,4 @@ define("FORLAN_219", "Bohatý textový editor");
 define("FORLAN_220", "Editor příspěvků");
 define("FORLAN_221", "Který editor by měl být použit k vytváření / úpravě příspěvků?");
 define("FORLAN_222", "Editor rychlých odpovědí");
+define("FORLAN_223", "Používejte pouze prostý text (bez bbcode nebo html!).");

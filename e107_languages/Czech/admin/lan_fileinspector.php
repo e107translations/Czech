@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:32:02
+|        Last Modified: 2021/12/03 09:38:59
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:32:02 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -71,6 +70,7 @@ define("FR_LAN_26", "Upozornění! Detekoval jsem známé nebezpečí!");
 define("FR_LAN_27", "Na vašem serveru jsou soubory, o kterých se ví, že jsou napadnutelné (zneužitelné hackery). Takové soubory by měly být okamžitě odstraněny.");
 define("FR_LAN_28", "Známé nebezpečné soubory");
 define("FR_LAN_32", "Nejprve musíte spustit skenování!");
+define("FR_LAN_33", "Začít");
 define("FS_LAN_1", "Vytvořit snímek obrzovky");
 define("FS_LAN_2", "Absolutní cesta kořenového adresáře pro uložení snímku");
 define("FS_LAN_3", "Vytvoření snímku pro doplněk: (Doplněk bude uveden pouze případě, že v kořenovém adresáři doplňku existuje zapisovatelný soubor e_inspect.php.)");

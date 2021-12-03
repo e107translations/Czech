@@ -4,18 +4,16 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 21:09:45
+|        Last Modified: 2021/12/03 09:46:38
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 21:09:45 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
 define("NWSLAN_4", "Existující novinky");
 define("NWSLAN_6", "Kategorie");
-define("NWSLAN_10", "Žádné kategorie");
 define("NWSLAN_13", "Obsah");
 define("NWSLAN_14", "Rozšířená");
 define("NWSLAN_18", "Povolení psaní komentářů k tomuto článku");
@@ -89,14 +87,11 @@ define("NWSLAN_121", "Nalezeno nic pro %s");
 define("NWSLAN_123", "Publikováno");
 define("NWSLAN_127", "Výchozí šablona");
 define("NWSLAN_128", "Vyberte text, který chcete použít v adrese URL stránek novinek. Toto funguje pouze s pravidly .htaccess a <a href='%s'> eURL config </a>. <br /> Opravená adresa URL na základě aktuální hodnoty:");
-define("LAN_NEWS_23", "Volba obrázku pro tuto novinku");
 define("LAN_NEWS_28", "Přišpendlit");
 define("LAN_NEWS_29", "Zvolte, zda bude novinka přišpendlena");
 define("LAN_NEWS_30", "Novinka bude umístěna nad všechny ostatní");
 define("LAN_NEWS_32", "Datum vložení");
 define("LAN_NEWS_33", "Umožňuje určit přesný čas vložení");
-define("LAN_NEWS_34", "Zpětné odkazy");
-define("LAN_NEWS_35", "Přidat URL zpětných odkazů");
 define("LAN_NEWS_37", "<b>Zpětné odkazy:</b> (jedna URL na řádek)");
 define("LAN_NEWS_49", "Typ zobrazení");
 define("LAN_NEWS_51", "Upravit autora novinek:");
@@ -120,7 +115,6 @@ define("LAN_NEWS_72", "Boční panel - Ostatní novinky");
 define("LAN_NEWS_73", "Boční panel - Ostatní novinky 2");
 define("LAN_NEWS_74", "Carousel");
 define("LAN_NEWS_75", "Featurebox");
-define("LAN_NEWS_87", "např. blogsearch.google.com/ping/RPC2");
 define("LAN_NEWS_88", "Určuje, jak se má zobrazit výchozí stránka zpráv.");
 define("LAN_NEWS_89", "Oznámení těchto služeb při vytváření / aktualizaci zpráv.");
 define("LAN_NEWS_90", "Jeden na řádek.");
@@ -145,3 +139,4 @@ define("LAN_NEWS_108", "Adresa SEF URL se liší od názvu vaší novinky.");
 define("LAN_NEWS_109", "Při odesílání tohoto formuláře spusťte upozornění e-mailem.");
 define("LAN_NEWS_110", "Časový limit mezipaměti novinek");
 define("LAN_NEWS_111", "Čas v minutách. Platí pouze tehdy, když je povolena mezipaměť systému.");
+define("LAN_NEWS_112", "Vyberte formát adresy URL. Buď počet záznamů (např. strana=20, strana=40, strana=60 atd.), nebo číslo stránky (např. strana=1, strana=2, strana=3 atd.). Upozornění: V případě úpravy bude nutné, aby vyhledávače znovu zaindexovaly některé adresy URL zpráv.");

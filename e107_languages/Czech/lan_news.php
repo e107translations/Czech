@@ -4,15 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/07/22 10:20:22
+|        Last Modified: 2021/12/03 09:16:36
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("PAGE_NAME", "Novinky");
 define("LAN_NEWS_1", "Novinky pouze pro některé členy");
 define("LAN_NEWS_2", "K zobrazení této novinky nemáte oprávnění");
 define("LAN_NEWS_9", "Je zapnuta volba pouze název - <b>pouze název novinky bude zobrazen</b><br />");
@@ -38,7 +37,7 @@ define("LAN_NEWS_87", "Novější novinky");
 define("LAN_NEWS_462", "Pro specifikovaný měsíc nebyly nalezeny žádné novinky");
 define("LAN_NEWS_463", "Pro danou kategorii nejsou k dispozici žádné novinky - prosím zkontrolujte později.");
 define("LAN_NEWS_464", "Žádné novinky pro zvolený den");
-define("LAN_NEWS_100", "v");
+define("LAN_NEWS_300", "v");
 define("LAN_NEWS_307", "Počet příspěvků v této kategorii:");
 define("LAN_NEWS_308", "Možná hledáte jednu z níže uvedených novinek?");
 define("LAN_NEWS_309", "Štítek");

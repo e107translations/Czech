@@ -4,16 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 22:08:39
+|        Last Modified: 2021/12/03 09:49:08
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 22:08:39 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("UCSLAN_10", "Nelze smazat skupinu - jedná se o hlavní skupinu nebo je používána jinou skupinou jako rodič");
 define("UCSLAN_30", "Krátké jméno se objeví ve volbě");
 define("UCSLAN_31", "Informace o použitelnosti skupiny");
 define("UCSLAN_32", "Uživatelé v této třídě mohou přidat nebo odebrat z upravené třídy");

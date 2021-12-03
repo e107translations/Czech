@@ -4,12 +4,12 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/12/03 09:14:20
+|        Last Modified: 2021/10/17 15:25:54
 |
-|        $URL: https://github.com/e107translations/Czech $
-|        $Revision: 2.3.1 $
-|        $Author: OxigenO2 $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 
-define("LAN_SITELINKS_183", "Hlavní menu");
+define("LAN_PLUGIN_HERO_NAME", "Hrdina");
+define("LAN_PLUGIN_HERO_SUMMARY", "Home page 'Hero' area management	");
+define("LAN_PLUGIN_HERO_DESCRIPTION", "Obrázkový a textový posuvník s animovanými odrážkami v hlavní části domovské stránky.");

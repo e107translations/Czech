@@ -4,19 +4,18 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 19:57:11
+|        Last Modified: 2021/12/03 09:31:39
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 19:57:11 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
-define("RL_LAN_002", "Rolling");
+define("RL_LAN_002", "Nepřetržitý protokol");
 define("RL_LAN_005", "Konfigurace / Zobrazení systémových záznamů");
-define("RL_LAN_008", "Rolling protokol je aktivní");
-define("RL_LAN_009", "Rolling protokol historie ve dnech");
+define("RL_LAN_008", "Nepřetržitý protokol je aktivní:");
+define("RL_LAN_009", "Nepřetržitá historie protokolu ve dnech");
 define("RL_LAN_012", "Filtrovat záznamy");
 define("RL_LAN_013", "Datum zahájení / čas");
 define("RL_LAN_014", "Datum ukončení / čas");
@@ -96,9 +95,9 @@ define("RL_LAN_117", "PgCnt");
 define("RL_LAN_118", "Vlajka");
 define("RL_LAN_120", "Uživatelů online");
 define("RL_LAN_122", "Nastavení systémových záznamů");
-define("RL_LAN_123", "User audit trail class");
-define("RL_LAN_124", "User audit trail actions");
-define("RL_LAN_125", "Údržba systémových záznamů");
+define("RL_LAN_123", "Třída uživatelského auditu");
+define("RL_LAN_124", "Akce auditního záznamu uživatele");
+define("RL_LAN_125", "Akce uživatelského auditu");
 define("RL_LAN_126", "Celkem [x] záznamů splnující podmínku vyhledávání");
 define("RL_LAN_132", "Informativní");
 define("RL_LAN_133", "Oznámení");

@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 19:42:28
+|        Last Modified: 2021/12/03 09:11:51
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 19:42:28 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("PAGE_NAME", "Uživatelské nastavení");
 define("MAX_AVWIDTH", "Maximální rozměry jsou");
 define("MAX_AVHEIGHT", " x");
@@ -53,35 +53,6 @@ define("LAN_USET_40", "Hesla se neshodují");
 define("LAN_USET_41", "Nastavení aktualizována a uložena do databáze.");
 define("LAN_USET_42", "Ověřovací kód se neshoduje");
 define("LAN_USET_43", "Nastala chyba během aktualizace uživatelských dat");
-define("LAN_7", "Uživatel:");
-define("LAN_8", "pod tímto jménem budete vystupovat na stránkách");
-define("LAN_9", "Přihlašovací jméno:");
-define("LAN_10", "pro přihlášení do vašeho uživatelského účtu");
-define("LAN_112", "E-mailová adresa:");
-define("LAN_113", "Skrýt vaší e-mailovou adresu?:");
-define("LAN_114", "Zabráníte tím, aby se vaše e-mailová adresa zobrazovala na stránkách");
-define("LAN_120", "Podpis:");
-define("LAN_122", "Časové pásmo:");
-define("LAN_152", "Heslo:");
-define("LAN_153", "Potvrzení hesla:");
-define("LAN_154", "Uložit");
-define("LAN_308", "Skutečné jméno:");
-define("LAN_401", "pokud nechcete měnit heslo, nevyplňujte");
-define("LAN_404", "Upozornění: nevhodné avatary nahrané k profilu, budou administrátorem nekompromisně smazány.");
-define("LAN_414", "Nahrát fotografii z vašeho počítače");
-define("LAN_415", "Nahrát avatar z vašeho počítače");
-define("LAN_418", "Registrační informace");
-define("LAN_420", "Avatar");
-define("LAN_421", "Vybrat z galerie avatarů");
-define("LAN_422", "Načítat avatar z adresy");
-define("LAN_423", "vložte URL adresu obrázku");
-define("LAN_424", "Kliknutím zobrazíte galerii avatarů");
-define("LAN_425", "Fotografie");
-define("LAN_426", "bude zobrazena ve vašem profilu");
-define("LAN_433", "URL adresa vašeho XUP souboru");
-define("LAN_434", "co je to?");
-define("LAN_435", "XML soubor uživatelského nastavení");
-define("LAN_CUSTOMTITLE", "Titul");
 define("LAN_USET_5", "Přihlášen do");
 define("LAN_USET_6", "Přihlaste se k odběru novinek a/nebo do různých uživatelských skupin.");
 define("LAN_USET_50", "Smazat účet");

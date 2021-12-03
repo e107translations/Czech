@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/07/22 10:49:52
+|        Last Modified: 2021/12/03 09:14:42
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -117,3 +117,4 @@ define("LAN_SIGNUP_121", "Použijte jinou e-mailovou adresu");
 define("LAN_SIGNUP_122", "Zásady ochrany osobních údajů");
 define("LAN_SIGNUP_123", "Pravidly a podmínkami");
 define("LAN_SIGNUP_124", "Registrací souhlasíte s našimi [x] a našimi [y].");
+define("LAN_SIGNUP_125", "Min. [x] znaků.");

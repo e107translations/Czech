@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 17:55:30
+|        Last Modified: 2021/12/03 09:12:44
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 17:55:30 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_USER_01", "Zobrazované jméno");
 define("LAN_USER_02", "Přihlašovací jméno");
 define("LAN_USER_03", "Skutečné jméno");
@@ -93,7 +93,6 @@ define("LAN_XUP_ERRM_05", "Registrace se nezdařila! Uživatel již existuje. Po
 define("LAN_XUP_ERRM_06", "Registrace se nezdařila! Nelze získat přístup k e-mailu uživatele - registrace bez e-mailu není možná.");
 define("LAN_XUP_ERRM_07", "Tester sociálního přihlášení");
 define("LAN_XUP_ERRM_08", "Před odzkoušením postupu přihlášení/registrace nového uživatele se prosím odhlaste ze stránek.");
-define("LAN_XUP_ERRM_09", "Otestování přihlášení s [x]");
 define("LAN_XUP_ERRM_10", "Otestování registrace/přihlášení s [x]");
 define("LAN_XUP_ERRM_11", "Přihlášen:");
 define("LAN_XUP_ERRM_12", "Test odhlášení");

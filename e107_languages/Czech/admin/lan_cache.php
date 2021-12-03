@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:09:11
+|        Last Modified: 2021/12/03 09:36:41
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:09:11 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("CACLAN_1", "Stav systémové mezipaměti");
 define("CACLAN_2", "Nastavit mezipaměť");
 define("CACLAN_3", "Nastavení mezipaměťi systému");

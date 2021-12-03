@@ -11,7 +11,6 @@
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-
 define("GSLAN_1", "Odkaz na stránky");
 define("GSLAN_2", "Import?");
 define("GSLAN_7", "Importovat odkazy");
@@ -41,3 +40,4 @@ define("GSLAN_36", "Můžete také zadat jednotlivé odkazy ručně kliknutím n
 define("GSLAN_37", "Jakmile máte nějaké položky, přejděte na [URL] a zadejte následující adresu URL -> <b>".SITEURL."gsitemap.php </ b> - pokud tato adresa nevypadá správně prosím, ujistěte se, že adresa URL vašeho webu je správná v admin -> preference");
 define("GSLAN_38", "Další informace o protokolu Google Sitemap naleznete na adrese [URL].");
 define("GSLAN_39", "Žádné odkazy v Sitemap - importovat odkazy na podstránky?");
+define("GSLAN_50", "Veřejně viditelné");

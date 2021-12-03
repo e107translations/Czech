@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/08/01 08:15:50
+|        Last Modified: 2021/12/03 09:44:59
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -131,7 +131,7 @@ define("LAN_AL_WELCOME_02", "Uvítací zpráva byla aktualizována");
 define("LAN_AL_WELCOME_03", "Uvítací zpráva byla smazána");
 define("LAN_AL_WELCOME_04", "Možnosti uvítací zprávy byly změněny");
 define("LAN_AL_ADMINPW_01", "Heslo administrátora změněno");
-define("LAN_AL_ADMINPW_02", "Heslo administrátora obnoveno ");
+define("LAN_AL_ADMINPW_02", "Heslo administrátora obnoveno");
 define("LAN_AL_BANNER_00", "Neznámá zpráva týkající se bannerů");
 define("LAN_AL_BANNER_01", "Aktualizace nabídky bannerů");
 define("LAN_AL_BANNER_02", "Banner vytvořen");
@@ -149,20 +149,6 @@ define("LAN_AL_LANG_02", "Jazykové tabulky byly smazány");
 define("LAN_AL_LANG_03", "Vytvořeny jazykové tabulky");
 define("LAN_AL_LANG_04", "Jazykový balíček zip byl vytvořen");
 define("LAN_AL_META_01", "Meta tagy byly aktualizovány");
-define("LAN_AL_DOWNL_01", "Možnosti stahování byly změněny");
-define("LAN_AL_DOWNL_02", "Vytvořená kategorie ke stažení");
-define("LAN_AL_DOWNL_03", "Kategorie ke stažení aktualizováno");
-define("LAN_AL_DOWNL_04", "Odstraněná kategorie stahování");
-define("LAN_AL_DOWNL_05", "Soubor vytvořen");
-define("LAN_AL_DOWNL_06", "Soubor aktualizován");
-define("LAN_AL_DOWNL_07", "Soubor smazán");
-define("LAN_AL_DOWNL_08", "Kategorie ke stažení aktualizována");
-define("LAN_AL_DOWNL_09", "Limit stahování přidán");
-define("LAN_AL_DOWNL_10", "Limit stahování upraven");
-define("LAN_AL_DOWNL_11", "Limit pro stahování odstraněn");
-define("LAN_AL_DOWNL_12", "Zrcadlo souborů ke stažení přidáno");
-define("LAN_AL_DOWNL_13", "Zrcadlo souborů ke stažení aktualizováno");
-define("LAN_AL_DOWNL_14", "Zrcadlo souborů ke stažení odstraněno");
 define("LAN_AL_CPAGE_01", "Vlastní stránka / nabídka byla přidána");
 define("LAN_AL_CPAGE_02", "Vlastní stránka / nabídka byla aktualizována");
 define("LAN_AL_CPAGE_03", "Vlastní stránka / nabídka byla smazána");

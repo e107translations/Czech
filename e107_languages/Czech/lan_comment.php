@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/07/22 09:56:49
+|        Last Modified: 2021/12/03 09:19:57
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -39,9 +39,6 @@ define("COMLAN_310", "Nelze odeslat příspěvek, vaše jméno se shoduje s jin�
 define("COMLAN_312", "Duplicitní příspěvek - nemohu odeslat.");
 define("COMLAN_313", "Umístění");
 define("COMLAN_314", "Moderovat komentáře");
-define("COMLAN_315", "Zpětné odkazy");
-define("COMLAN_316", "Žádné zpětné odkazy pro tento příspěvek.");
-define("COMLAN_317", "Moderovat zpětné odkazy");
 define("COMLAN_318", "Editovat komentář");
 define("COMLAN_319", "upraveno");
 define("COMLAN_320", "Upravit komentář");

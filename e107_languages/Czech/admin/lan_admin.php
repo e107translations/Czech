@@ -4,16 +4,16 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/07/22 10:35:21
+|        Last Modified: 2021/12/03 09:20:18
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
 
 define("ADLAN_0", "Novinky");
-define("ADLAN_1", "Přidat/upravit/smazat novinku");
+define("ADLAN_1", "Spravovat novinky");
 define("ADLAN_2", "Vytvořit novinku");
 define("ADLAN_3", "Seznam novinek");
 define("ADLAN_3a", "Nastavení novinek");
@@ -21,17 +21,17 @@ define("ADLAN_5", "Upravit předvolby webu");
 define("ADLAN_6", "Správce menu");
 define("ADLAN_7", "Změnit pořadí položek v menu");
 define("ADLAN_8", "Administrátoři");
-define("ADLAN_9", "Přidat/smazat administrátory stránek");
+define("ADLAN_9", "Přidávat/odstraňovat administrátory stránek");
 define("ADLAN_10", "Heslo administrátora");
 define("ADLAN_11", "Změnit heslo");
 define("ADLAN_12", "Dokumentace");
 define("ADLAN_13", "Systémová dokumentace");
-define("ADLAN_25", "Spravovat soubory ke stažení");
+define("ADLAN_25", "Správa souborů ke stažení");
 define("ADLAN_28", "Uvítací zpráva");
-define("ADLAN_29", "Nastavit statickou uvítací zprávu");
+define("ADLAN_29", "Nastavení statické uvítací zprávy");
 define("ADLAN_30", "Správce souborů");
-define("ADLAN_31", "Spravovat/nahrát soubory");
-define("ADLAN_34", "Blokace");
+define("ADLAN_31", "Správa / nahrávání souborů");
+define("ADLAN_34", "Seznam zákazů");
 define("ADLAN_35", "Blokovaní návštěvníci");
 define("ADLAN_36", "Uživatelé");
 define("ADLAN_37", "Spravovat členy stránek");
@@ -48,7 +48,7 @@ define("ADLAN_48", "Přihlášen");
 define("ADLAN_49", "Hlavní administrátor");
 define("ADLAN_51", "Přihlaste se pro vstup do administrátorského rozhraní");
 define("ADLAN_52", "Hlavní administrační stránka");
-define("ADLAN_53", "Opustit");
+define("ADLAN_53", "Opustit administraci");
 define("ADLAN_58", "Smajlíci");
 define("ADLAN_59", "Nastavit smajlíky");
 define("ADLAN_60", "Hlavní strana");
@@ -81,16 +81,16 @@ define("ADLAN_106", "Nastavení obrázků");
 define("ADLAN_110", "Registrovaní uživatelé");
 define("ADLAN_111", "Neověření uživatelé");
 define("ADLAN_112", "Zablokovaný uživatelé");
-define("ADLAN_116", "Záznamy správce (log)");
+define("ADLAN_116", "Administrátorský protokol ...");
 define("ADLAN_117", "Zobrazit všechny příspěvky");
 define("ADLAN_118", "Smazat záznamy");
 define("ADLAN_119", "Nezkontrolované zaslané odkazy");
-define("ADLAN_120", "Je dostupná aktualizace databáze, klikněte na tlačítko pro nainstalování ...");
+define("ADLAN_120", "K dispozici je aktualizace databáze, pro instalaci klikněte na tlačítko ...");
 define("ADLAN_121", "Instalovat");
-define("ADLAN_122", "Nová aktualizace je připravena k instalaci! Klepnutím rozbalte a nainstalujte v [x]");
+define("ADLAN_122", "Nová aktualizace je připravena k instalaci! Kliknutím rozbalíte a nainstalujete v [x]");
 define("ADLAN_132", "Jazyk");
 define("ADLAN_133", "výchozí");
-define("ADLAN_135", "Administrační záznamy (log)");
+define("ADLAN_135", "Administrátorský protokol");
 define("ADLAN_136", "Pošta - Email");
 define("ADLAN_137", "Nastavení e-mailů a odesílání");
 define("ADLAN_138", "Hlavní menu");
@@ -184,7 +184,7 @@ define("LAN_TRY_AGAIN", "Prosím zkuste to znovu.");
 define("LAN_NEVER", "Nikdy");
 define("LAN_PRUNE", "Pročistit");
 define("LAN_RESET", "Resetovat");
-define("LAN_CLEAR", "Vyčistit");
+define("LAN_CLEAR", "Vymazat");
 define("LAN_ADD_ALL", "Přidat vše");
 define("LAN_CLEAR_ALL", "Vymazat vše");
 define("LAN_CLICK_HERE", "KLIKNĚTE ZDE");
@@ -248,7 +248,9 @@ define("LAN_WIDTH", "Šířka");
 define("LAN_HEIGHT", "Výška");
 define("LAN_ON", "Zap.");
 define("LAN_OFF", "Vyp.");
+define("LAN_DISABLE", "Zakázat");
 define("LAN_DISABLED", "Vypnuto");
+define("LAN_ENABLE", "Povolit");
 define("LAN_ENABLED", "Zapnuto");
 define("LAN_BOOL_REVERSE", "Invertovat");
 define("LAN_DETAILS", "Detaily");
@@ -363,7 +365,7 @@ define("LAN_CAPTION", "Titulek");
 define("LAN_LIMIT", "Omezení");
 define("LAN_BASIC", "Základní");
 define("LAN_EXTENDED", "Rozšířené");
-define("LAN_ADVANCED", "Moderní");
+define("LAN_ADVANCED", "Pokročilé");
 define("LAN_DISPLAY", "Zobrazit");
 define("LAN_FOLDER", "Adresář");
 define("LAN_PERSONALIZE_ICONS", "Přizpůsobení ikon");
@@ -412,3 +414,10 @@ define("LAN_ROBOTS_NOINDEX", "Zabraňte vyhledávacím strojům indexovat tuto p
 define("LAN_ROBOTS_NOFOLLOW", "Zabraňte vyhledávacím strojům v následujících odkazech v této položce.");
 define("LAN_ROBOTS_NOARCHIVE", "Zabraňte zobrazování kopií této položky v mezipaměti ve výsledcích vyhledávání.");
 define("LAN_ROBOTS_NOIMAGE", "Zabraňte vyhledávacím strojům indexovat obrázky této položky.");
+define("LAN_NAVIGATION", "Navigace");
+define("LAN_NAVIGATION_LINKS", "Navigace");
+define("LAN_PAGINATION", "Stránkování");
+define("LAN_X_CHARS_REMAINING", "Zbývá [x] znaků");
+define("LAN_UI_BATCH_NOW", "Aktuální datum/čas");
+define("LAN_RELATIONSHIP", "Vztah");
+define("LAN_RELATIONSHIP_HELP", "Volitelný atribut 'rel'. Odděleno čárkou.");

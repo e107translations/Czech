@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:39:03
+|        Last Modified: 2021/12/03 09:44:01
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:39:03 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("LAN_CHECK_2", "Začít kontrolu");
 define("LAN_CHECK_3", "Kontrola souboru");
 define("LAN_CHECK_4", "Soubor nenalezen!");
@@ -30,7 +30,7 @@ define("LAN_CHECK_27", "Počet nalezených chyb v jazykovém balíčku");
 define("LAN_CHECK_28", "Identické");
 define("LAN_CHECK_29", "Identický řetězec (pouze varování)");
 define("LAN_CHECK_30", "Chybějící BB kódy");
-define("LAN_CHECK_31", "Chybí znak [ nebo znaky ] ");
+define("LAN_CHECK_31", "Chybí znak [ nebo znaky ]");
 define("LAN_CHECK_32", "Chybí tagy HTML");
 define("LANG_LAN_23", "Vytvořit jazykový balíček z překladem (zip)");
 define("LANG_LAN_30", "Datum uvolnění");

@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 17:23:41
+|        Last Modified: 2021/12/03 09:18:06
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 17:23:41 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -21,7 +20,6 @@ define("LAN_06", "Pokus o aktualizaci hesla");
 define("LAN_07", "Někdo s následující IP adresou");
 define("LAN_08", "se pokusil o změnu hesla administrátora.");
 define("LAN_09", "Heslo aktualizováno od");
-define("LAN_112", "Emailová adresa použitá při registraci");
 define("LAN_213", "Uživatelské jméno/emailová adresa nebyly nalezeny v databázi.");
 define("LAN_214", "Heslo nebylo aktualizováno");
 define("LAN_218", "Vaše uživatelské jméno je:");
@@ -44,6 +42,7 @@ define("LAN_FPW18", "Obnovení hesla požadováno");
 define("LAN_FPW19", "E-mail se nepodařilo odeslat");
 define("LAN_FPW20", "Odeslání emailu bylo úspěšné");
 define("LAN_FPW21", "Uživatel klikl na odkaz pro obnovení hesla");
+define("LAN_FPW22", "E-mailová adresa zaregistrovaná na tomto webu");
 define("LAN_FPW_100", "Zapomněli jste heslo?");
 define("LAN_FPW_101", "Není se čeho bát. Jednoduše vložte svoji e-mailovou adresu a my vám zašleme e-mail s instrukcemi na obnovení hesla.");
 define("LAN_FPW_102", "Obnovit heslo");

@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 17:53:00
+|        Last Modified: 2021/12/03 09:13:34
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 17:53:00 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -42,9 +41,8 @@ define("LAN_411", "Soubor");
 define("LAN_413", "Popis");
 define("LAN_414", "Zkušební verze");
 define("LAN_415", "Adresa zkušební verze");
-define("LAN_416", "Potvrdit a nahrát");
-define("LAN_417", "Nahrání souboru");
 define("LAN_418", "Max. velikost souboru:");
-define("DOWLAN_11", "Kategorie");
 define("LAN_419", "Povolené formáty souborů");
 define("LAN_420", "pole jsou povinná a musí být vyplněna.");
+define("LAN_UL_039", "Odeslat a nahrát");
+define("LAN_UL_040", "Nahrávání souborů");

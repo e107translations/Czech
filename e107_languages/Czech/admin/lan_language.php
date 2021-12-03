@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/07/22 16:17:28
+|        Last Modified: 2021/12/03 09:44:23
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -68,3 +68,4 @@ define("LANG_LAN_151", "Dostupné");
 define("LANG_LAN_152", "Se svolením překladového týmu [e107]");
 define("LANG_LAN_153", "Předběžné uvolnění");
 define("LANG_LAN_154", "Jazykový balíček byl vytvořen. Nyní ji můžete nahrát do úložiště Github podle návodu [here].");
+define("LANG_LAN_155", "Vyžaduje instalaci dalších jazykových sad.");

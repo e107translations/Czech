@@ -4,16 +4,16 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 17:26:52
+|        Last Modified: 2021/12/03 09:17:53
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 17:26:52 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
-define("LANINS_001", "Verze %1$s");
-define("LANINS_002", "Instalace");
+
+define("LANINS_001", "Instalace e107");
+define("LANINS_002", "Krok");
 define("LANINS_003", "1");
 define("LANINS_004", "Volba jazyka");
 define("LANINS_005", "Prosím vyberte si jazyk, který chcete mít při instalaci");
@@ -31,14 +31,14 @@ define("LANINS_018", "Ujistěte se, že všechny soubory existují a mají nasta
 define("LANINS_019", "Verze instalovaná na Vašem serveru není dostatečná pro zajištění provozu e107. e107 vyžaduje PHP minimálně ve verzi 4.3.0. Nainstalujte si novější verzi nebo kontaktujte správce svého hostingu.");
 define("LANINS_021", "2");
 define("LANINS_022", "Detaily MySQL Serveru");
-define("LANINS_023", "Vložte prosím údaje nastavení MySQL.<br /><br />Pokud máte root práva, lze vytvořit databázi - zaškrtněte výběrové pole. Pokud práva rootu nemáte, musíte vytvořit databázi sami a nebo použít již existující.Pokud máte k dispozici pouze jednu databázi, použijte prefix, aby mohly s databází pracovat i jiné skripty.Pokud neznáte detaily nastavení MySQL serveru kontaktujte správce hostingu.");
+define("LANINS_023", "Vložte prosím údaje nastavení MySQL. Pokud máte root práva, lze vytvořit databázi - zaškrtněte výběrové pole. Pokud práva rootu nemáte, musíte vytvořit databázi sami a nebo použít již existující.Pokud máte k dispozici pouze jednu databázi, použijte prefix, aby mohly s databází pracovat i jiné skripty.Pokud neznáte detaily nastavení MySQL serveru kontaktujte správce hostingu.");
 define("LANINS_024", "MySQL Server:");
 define("LANINS_025", "MySQL Uživatelské jméno:");
 define("LANINS_026", "MySQL Heslo:");
 define("LANINS_027", "MySQL Databáze:");
 define("LANINS_028", "Vytvořit Databázi?");
 define("LANINS_029", "Prefix pro tabulky:");
-define("LANINS_030", "Server MySQL, který chcete použít pro e107. Může obsahovat i číslo portu, např. hostname:port nebo cestu k lokální zásuvce (socket), např.:/path/to/socket\, v případě lokálního nastavení (localhost).");
+define("LANINS_030", "Server MySQL, který chcete použít pro e107. Může obsahovat i číslo portu, např. hostname:port nebo cestu k lokální zásuvce (socket), např. \":/path/to/socket\", v případě lokálního nastavení (localhost).");
 define("LANINS_031", "Uživatelské jméno, které má e107 použít pro spojení se serverem MySQL");
 define("LANINS_032", "Heslo k tomuto uživatelskému jménu");
 define("LANINS_033", "Databáze, do které se má e107 umístit/nainstalovat, někdy též označováno jako schema. Pokud má uživatel práva pro vytvoření databáze, můžete zvolit, aby byla databáze vytvořena automaticky (v případě, že ještě neexistuje).");
@@ -48,7 +48,7 @@ define("LANINS_037", "Ověření spojení s MySQL");
 define("LANINS_038", " a tvorba databáze");
 define("LANINS_039", "Ujistěte se, že jste vyplnili všechny údaje. Nejdůležitější jsou: jméno MySQL serveru, uživatelské jméno MySQL a heslo, název databáze MySQL (tyto údaje server MySQL vždy vyžaduje)");
 define("LANINS_040", "Chyby");
-define("LANINS_041", "S použitím vložených informací nemohl systém e107 navázat spojení se serverem MySQL.<br /> Vraťte se na předchozí stranu a ujistěte se, že jsou vložené údaje správné.");
+define("LANINS_041", "S použitím vložených informací nemohl systém e107 navázat spojení se serverem MySQL.  Vraťte se na předchozí stranu a ujistěte se, že jsou vložené údaje správné.");
 define("LANINS_042", "Spojení se serverem bylo navázáno a ověřeno.");
 define("LANINS_043", "Nelze vytvořit databázi. Ujistěte se prosím, že máte korektně nastavená práva pro vytváření databáze na serveru MySQL.");
 define("LANINS_044", "Databáze byla úspěšně vytvořena.");

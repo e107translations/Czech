@@ -4,11 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:09:59
+|        Last Modified: 2021/12/03 09:36:50
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:09:59 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -55,3 +54,6 @@ define("CUSLAN_76", "Menu s cestou #");
 define("CUSLAN_77", "smazáno");
 define("CUSLAN_78", "Nelze odstranit menu s cestou");
 define("CUSLAN_79", "Musíte zadat název stránky nebo název nabídky.");
+define("CUSLAN_80", "Podnadpis");
+define("CUSLAN_81", "Metaobrázek");
+define("CUSLAN_82", "Volitelné. Používá se v sociálních médiích při sdílení této stránky.");

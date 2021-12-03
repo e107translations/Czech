@@ -4,14 +4,14 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/21 20:46:56
+|        Last Modified: 2021/12/03 09:45:44
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.1.7 $
-|        $Id: 2017/11/21 20:46:56 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
+
 define("MENLAN_7", "Nastavení viditelnosti pro");
 define("MENLAN_10", "Nové menu instalováno");
 define("MENLAN_11", "Menu odstraněno");

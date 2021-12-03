@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
+|        Last Modified: 2021/12/03 09:47:24
 |
-|        $URL: https://github.com/e107translations/Czech/ $
-|        $Revision: 2.1.8 $
-|        Last Modified: 2017/12/26 12:43:27$
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -85,7 +85,7 @@ define("EPL_ADLAN_75", "Je požadována novější verze MySQL:");
 define("EPL_ADLAN_76", "Chyba v plugin.xml");
 define("EPL_ADLAN_77", "Soubor plugin.xml nenalezen");
 define("EPL_ADLAN_78", "Smazat uživatelské třídy vytvořené doplňkem:");
-define("EPL_ADLAN_79", "Odstraňte pouze třídy, které jste nepoužily pro jiné účely.");
+define("EPL_ADLAN_79", "Smažte je, pouze pokud jste je nepoužili k jiným účelům.");
 define("EPL_ADLAN_80", "Odstranit rozšířené uživatelské pole vytvořené doplňkem:");
 define("EPL_ADLAN_81", "Xhtml");
 define("EPL_ADLAN_82", "Ikona");
@@ -107,11 +107,11 @@ define("EPL_ADLAN_97", "Vyskytl se problém při rozbalování zip archívu dopl
 define("EPL_ADLAN_98", "Neznámý soubor:");
 define("EPL_ADLAN_99", "Chybová zpráva pro tento řádek");
 define("EPL_ADLAN_100", "klikněte jsem pro instalaci někteých");
-define("EPL_ADLAN_101", "Neinstalovány žádné doplňky - [x].");
+define("EPL_ADLAN_101", "Nejsou nainstalovány žádné doplňky - [x].");
 define("EPL_ADLAN_102", "Tento průvodce vytvoří administrátorské rozhraní pro plugin a vytvoří soubor metadat plugin.xml. Než začnete:");
-define("EPL_ADLAN_103", "Vytvořte nový zapisovatelný adresář v adresáři [x], například: [b]myplugin[/b]");
+define("EPL_ADLAN_103", "Vytvořte novou zapisovatelnou složku v adresáři [x], např. [b]mujdoplnek[/b]");
 define("EPL_ADLAN_105", "Pokud rozšíření potřebuje tabulky SQL, vytvořte v tomto adresáři nový soubor a pojmenujte jej jako název adresáře, tedy: [b]myplugin_sql php[/b]");
-define("EPL_ADLAN_106", "Vyberte adresář  pro vytvoření vašeho doplňku.");
+define("EPL_ADLAN_106", "Vyberte složku pro vytvoření vašeho doplňku.");
 define("EPL_ADLAN_107", "Vytvořit oblast administrátora a soubor XML pro:");
 define("EPL_ADLAN_108", "Kontrola jazykových souborů");
 define("EPL_ADLAN_109", "Základní info");
@@ -124,7 +124,7 @@ define("EPL_ADLAN_117", "Textová kolonka (číslo)");
 define("EPL_ADLAN_118", "Textová kolonka (url adresa)");
 define("EPL_ADLAN_119", "Textová oblast");
 define("EPL_ADLAN_120", "Bohatá textová oblast");
-define("EPL_ADLAN_121", "Pravda / Nepravda");
+define("EPL_ADLAN_121", "Pravda/Nepravda");
 define("EPL_ADLAN_122", "Vlastní funkce");
 define("EPL_ADLAN_123", "Obrázek");
 define("EPL_ADLAN_124", "Rozbalovací menu");
@@ -137,11 +137,11 @@ define("EPL_ADLAN_130", "Výchozí hodnota");
 define("EPL_ADLAN_131", "Typ pole...");
 define("EPL_ADLAN_132", "[x] byl vytvořen");
 define("EPL_ADLAN_133", "[x] chybí!");
-define("EPL_ADLAN_134", "Prosím vytvořte [b] [x] [/ b] ve vašem adresáři s doplňkem s následujícím obsahem: [y]");
+define("EPL_ADLAN_134", "Prosím vytvořte [b][x][/b] ve vašem adresáři s doplňkem s následujícím obsahem: [y]");
 define("EPL_ADLAN_135", "Název vašeho doplňku. (Musí být napsán v angličtině)");
 define("EPL_ADLAN_136", "Jestliže máte jazykový soubor, zadejte hodnotu LAN_XXX pro název vašeho doplňku");
 define("EPL_ADLAN_137", "Datum vytvoření vašeho doplňku");
-define("EPL_ADLAN_138", "Verze vašeho doplňku. Ve formátu: x.x");
+define("EPL_ADLAN_138", "Verze vašeho doplňku. Ve formátu: x.x nebo x.x.x");
 define("EPL_ADLAN_139", "Kompatibilní s  verzí e107");
 define("EPL_ADLAN_140", "Jméno autora");
 define("EPL_ADLAN_141", "Odkaz na stránky autora");
@@ -235,8 +235,6 @@ define("EPL_ADLAN_229", "Obnovit");
 define("EPL_ADLAN_230", "Stažení a instalace:");
 define("EPL_ADLAN_231", "Smazat ikony z aplikace Správce médií");
 define("EPL_ADLAN_232", "Vytvořit soubory");
-define("TPVLAN_81", "Stahování...");
-define("TPVLAN_82", "Stažení kompletní!");
 define("EPL_ADLAN_233", "Přidaný odkaz:");
 define("EPL_ADLAN_234", "Odstraněný odkaz:");
 define("EPL_ADLAN_235", "Automatické stahování není možné.");
@@ -269,3 +267,4 @@ define("LAN_PLUGIN_IS_USED", "[x] doplněk je používán:");
 define("EPL_ADLAN_254", "Takto se zkontroluje jazykové soubory doplňky pro chyby a běžné nebo duplicitní definice souborů LAN.");
 define("EPL_ADLAN_255", "Přepsat soubory");
 define("EPL_ADLAN_256", "Přeskočeno [x] (již existuje)");
+define("EPL_ADLAN_257", "Pouze pro čtení");
