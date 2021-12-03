@@ -4,7 +4,7 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/12/03 09:49:46
+|        Last Modified: 2021/12/03 14:05:08
 |
 |        $URL: https://github.com/e107translations/Czech $
 |        $Revision: 2.3.1 $
@@ -33,7 +33,7 @@ define("EXTLAN_18", "Vyžadováno");
 define("EXTLAN_19", "Následující údaj bude pro uživatele k vyplnění povinný.");
 define("EXTLAN_20", "Určuje, kterých uživatelů se toto pole bude týkat.");
 define("EXTLAN_21", "Ovlivňuje, kdo toto pole ve svém uživatelském nastavení uvidí.");
-define("EXTLAN_22", "Ovlivňuje, kdo uvidí údaj na uživatelském profilu.<br />POZNÁMKA: Pokud údaj nastavíte na "Pouze pro čtení", bude viditelný pouze pro administrátory a členy.");
+define("EXTLAN_22", "Ovlivňuje, kdo uvidí údaj na uživatelském profilu.<br />POZNÁMKA: Pokud údaj nastavíte na 'Pouze pro čtení', bude viditelný pouze pro administrátory a členy.");
 define("EXTLAN_23", "Přidat rozšiřující pole");
 define("EXTLAN_24", "Upravit rozšiřující pole");
 define("EXTLAN_25", "posunout dolů");
@@ -43,7 +43,7 @@ define("EXTLAN_28", "Nejsou definovaná rozšiřující uživatelská pole");
 define("EXTLAN_29", "Rozšiřující uživatelská pole byla uložena.");
 define("EXTLAN_30", "Rozšiřující pole bylo smazáno");
 define("EXTLAN_31", "Štítek kategorie");
-define("EXTLAN_32", "To je označení pole, jak je uvedeno na stránce 'Nastavení uživatele'. Jazykové konstanty jsou povoleny.");
+define("EXTLAN_32", "Jedná se o označení pole, které je zobrazeno na stránce Nastavení uživatele. Jsou povoleny jazykové zkratky.");
 define("EXTLAN_33", "Zrušit úpravy");
 define("EXTLAN_34", "Rozšiřující pole");
 define("EXTLAN_35", "Kategorie");
@@ -86,7 +86,7 @@ define("EXTLAN_72", "bylo deaktivováno");
 define("EXTLAN_73", "nebylo deaktivováno!");
 define("EXTLAN_74", "je vyhrazeným jménem pro pole a nelze jej tedy použít.");
 define("EXTLAN_75", "Chyba při vkládání pole do databáze.");
-define("EXTLAN_76", "Neplatné znaky - povolené pouze A-Z, a-z, 0-9, '_'.");
+define("EXTLAN_76", "Neplatné znaky v názvu pole - povoleny jsou pouze znaky A-Z, a-z, 0-9.");
 define("EXTLAN_77", "Kategorie nebyla smazána - prvni musí být smazána pole:");
 define("EXTLAN_78", "Potřebný soubor [x]  k vytvoření tabulky nebyl nalezen");
 define("EXTLAN_79", "Štítek");
@@ -105,4 +105,4 @@ define("EXTLAN_HELP_5", "Tento text bude nápovědou pro vstupní pole volného 
 define("EXTLAN_HELP_6", "Povolit uživateli zadat nečíselnou hodnotu");
 define("EXTLAN_HELP_7", "Tento text bude nápovědou pro hodnotu typu datum");
 define("EXTLAN_HELP_8", "Povolit uživateli vybrat z nainstalovaných jazyků");
-define("EXTLAN_HELP_9", "Zadejte předdefinovaný seznam. Pole hodnoty vybírá typ seznamu - v současné době jsou pouze platný "časové pásma"");
+define("EXTLAN_HELP_9", "Zadejte předdefinovaný seznam. V poli hodnoty vyberte typ seznamu - v současné době je platná pouze položka 'časové pásma'.");

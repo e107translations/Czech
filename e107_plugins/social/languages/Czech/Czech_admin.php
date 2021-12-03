@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/08/01 07:35:13
+|        Last Modified: 2021/12/03 13:39:40
 |
-|        $URL: https://github.com/oxigeno2/e107 $
-|        $Revision: 2.3.0 $
+|        $URL: https://github.com/e107translations/Czech $
+|        $Revision: 2.3.1 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -38,7 +38,7 @@ define("LAN_SOCIAL_ADMIN_24", "Styl zobrazení");
 define("LAN_SOCIAL_ADMIN_25", "Výchozí");
 define("LAN_SOCIAL_ADMIN_26", "Rozevírací");
 define("LAN_SOCIAL_ADMIN_27", "Vypnuto");
-define("LAN_SOCIAL_ADMIN_28", "S výjimkou symbolu #.");
+define("LAN_SOCIAL_ADMIN_28", "Bez symbolu #.");
 define("LAN_SOCIAL_ADMIN_29", "Počet zobrazených komentářů.");
 define("LAN_SOCIAL_ADMIN_30", "Načítání...");
 define("LAN_SOCIAL_ADMIN_31", "Šířka v pixelech");
