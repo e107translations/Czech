@@ -12,6 +12,8 @@
 +---------------------------------------------------------------+
 */
 
+if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Plánování úkolů"); }
+
 define("LAN_CRON_M_02", "Obnovit");
 define("LAN_CRON_2", "Funkce");
 define("LAN_CRON_3", "Info");
@@ -71,7 +73,7 @@ define("LAN_CRON_60", "Přejít na cPanel");
 define("LAN_CRON_61", "Vytvořit nové heslo jádra");
 define("LAN_CRON_62", "Spusťte funkci Konfigurace: [b][x][/b]");
 define("LAN_CRON_63", "Funkce konfigurace [b][x][/b] NENÍ nalezena.");
-define("LAN_CRON_64", "Administrátor může automatizovat úkoly pomocí e107 Schedule Tasks. [br] Na kartě Spravovat lze úkoly upravovat, odstraňovat a spouštět. [br] Když upravíte úkol, můžete nastavit minuty, hodiny, dny, měsíc nebo den v týdnu, kdy chcete spustit úlohu. Použijte * pro spuštění pro každé období. Použijte vlastnost Aktivovat povolit úlohu. [br] Poznámka: Doporučuje se, abyste standardní úlohy nezrušili. [br]");
+define("LAN_CRON_64", "Správce může automatizovat úlohy pomocí nástroje e107 Plánování úloh. [br]Na kartě Správa můžete upravovat, odstraňovat a spouštět úlohy. [br]Při úpravě úlohy můžete nastavit minuty, hodiny, dny, měsíc nebo den v týdnu, kdy se má úloha spustit. Pro spuštění pro každé období použijte *. Vlastnost Aktivní slouží k povolení úlohy [br].Poznámka: Doporučujeme neodstraňovat standardní úlohy[br].");
 define("LAN_CRON_BACKUP", "Zálohování");
 define("LAN_CRON_LOGGING", "Protokolování");
 define("LAN_CRON_RUNNING", "Běžící");
