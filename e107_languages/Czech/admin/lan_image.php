@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/12/03 09:43:42
+|        Last Modified: 2022/04/18 07:24:24
 |
 |        $URL: https://github.com/e107translations/Czech $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.3.2 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -189,3 +189,4 @@ define("IMALAN_186", "Chcete-li filtrovat výsledky, zadejte text");
 define("IMALAN_187", "Během importu převést na webp");
 define("IMALAN_188", "Během vykreslování převést na webp");
 define("IMALAN_189", "Soubory JPEG, PNG a GIF budou automaticky převedeny do formátu webp. (ikony vyloučeny)");
+define("IMALAN_190", "Import tohoto typu souboru není povolen.");

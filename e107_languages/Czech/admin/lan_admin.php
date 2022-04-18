@@ -4,10 +4,10 @@
 |        e107 website content management system Czech Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/12/03 09:20:18
+|        Last Modified: 2022/04/18 07:22:51
 |
 |        $URL: https://github.com/e107translations/Czech $
-|        $Revision: 2.3.1 $
+|        $Revision: 2.3.2 $
 |        $Author: OxigenO2 $
 +---------------------------------------------------------------+
 */
@@ -421,3 +421,5 @@ define("LAN_X_CHARS_REMAINING", "Zbývá [x] znaků");
 define("LAN_UI_BATCH_NOW", "Aktuální datum/čas");
 define("LAN_RELATIONSHIP", "Vztah");
 define("LAN_RELATIONSHIP_HELP", "Volitelný atribut 'rel'. Odděleno čárkou.");
+define("LAN_NO_SCRIPT_ACCESS", "Nemáte oprávnění používat značky [script].");
+define("LAN_NO_SCRIPT_ACCESS_ASK", "Pokud se domníváte, že se jedná o chybu, požádejte prosím hlavního správce, aby vám udělil přístup ke skriptu prostřednictvím [b]Předvolby > Filtry obsahu[/b].");

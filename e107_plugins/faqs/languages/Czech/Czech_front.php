@@ -10,19 +10,19 @@
  *
 */
 
-define("LAN_FAQS_TAGS", "Tagy");
-define("LAN_FAQS_FILTER_ACTIVE", "Filtr");
-define("LAN_FAQS_NONE_AVAILABLE", "V současné době nejsou k dispozici žádné dotazy.");
-define("LAN_FAQS_ASKQUESTION_AFTER", "Děkuji, Vaše otázka byla uložena a doufejme, že bude brzy zodpovězena.");
-define("LAN_FAQS_LIMIT_REACHED", "Dosáhli jste maximálního počtu nových otázek. Můžete položit další otázku, jakmile budou vaše stávající otázky zodpovězeny.");
-define("LAN_FAQS_REMOVE", "Odstranit");
-define("LAN_FAQS_RESET", "Resetovat");
-define("LAN_FAQS_X_NOT_FOUND", "[x]: Nebylo nalezeno.");
-define("LAN_FAQS_MODERATE_COMMENTS", "moderovat komentáře");
-define("LAN_FAQS_BACK_TO_CATEGORIE", "Zpět na kategorie");
-define("LAN_FAQS_FAQ", "FAQ");
-define("LAN_FAQS_ENTER_A_QUESTION_HERE", "Zadejte svou otázku zde...");
-define("LAN_FAQS_CHAR_LIMIT", "maximální počet znaků");
-define("LAN_FAQS_PLEASE_REGISTER", "Pro vložení otazky se prosím [register] nebo se přihlaste.");
-define("LAN_FAQS_NOT_PERMITTE", "Nepovoleno.");
-define("LAN_FAQS_YOUR_REQUESTED_FAQS", "Byli jste požádáni o odpověď na následující otázky.");
+define("LAN_FAQS_001", "Tagy");
+define("LAN_FAQS_002", "Filtr");
+define("LAN_FAQS_003", "V současné době nejsou k dispozici žádné dotazy.");
+define("LAN_FAQS_004", "Děkuji, Vaše otázka byla uložena a doufejme, že bude brzy zodpovězena.");
+define("LAN_FAQS_005", "Dosáhli jste maximálního počtu nových otázek. Můžete položit další otázku, jakmile budou vaše stávající otázky zodpovězeny.");
+define("LAN_FAQS_006", "Odstranit");
+define("LAN_FAQS_007", "Resetovat");
+define("LAN_FAQS_008", "[x]: Nebylo nalezeno.");
+define("LAN_FAQS_009", "moderovat komentáře");
+define("LAN_FAQS_010", "Zpět na kategorie");
+define("LAN_FAQS_011", "FAQ");
+define("LAN_FAQS_012", "Zadejte svou otázku zde...");
+define("LAN_FAQS_013", "maximální počet znaků");
+define("LAN_FAQS_014", "Pro vložení otazky se prosím [register] nebo se přihlaste.");
+define("LAN_FAQS_015", "Nepovoleno.");
+define("LAN_FAQS_016", "Byli jste požádáni o odpověď na následující otázky.");
